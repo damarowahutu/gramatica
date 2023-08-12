@@ -2,7 +2,7 @@
 
 ## Bom dia!
 
-[`Rowa awẽ!`](audios/rowa_awe.mp3)
+[`Rowa awẽ!`](audios/rowa_awe.mp3) :sound:
 
 Fale várias vezes em voz alta, seguindo as dicas do guia de pronúncia abaixo:
 
