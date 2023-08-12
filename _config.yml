@@ -4,4 +4,4 @@ relative_links:
   enabled: true
   collections: true
 include:  
-  - index.md
+  - livro/sumário/sumário.md
