@@ -1,7 +1,7 @@
+layout: page
+title: "Gramática Xavante"
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-include:  
-  - livro/sumário/sumário.md
