@@ -2,7 +2,7 @@
 
 ## Estrutura
 
-Em português o sinal de interrogação ? no final de uma frase indica se aquela frase é uma pergunta. 
+Em português o sinal de interrogação ? no final de uma frase indica se aquela frase é uma pergunta.
 > O que você está fazendo?
 
 No idioma espanhol é usado um sinal de interrogação invertido no começo da frase e outro no final para indicar que aquela frase é interrogativa.
@@ -18,7 +18,7 @@ E no xavante? Todas frases que começam com a vogal **E** são perguntas.
 - O que? `E marĩ` *fala masculina*
   - O que você está vendo? `E marĩ te ĩꞌmadö.`
   - Com o que? / De que? `E marĩ na`
-  - Para que? `E marĩ da` 
+  - Para que? `E marĩ da`
   - Por que? `E marĩ wa.`  
 - O que? `E tiha.` *fala feminina*
   - O que é isso? `E tiha tahã.`

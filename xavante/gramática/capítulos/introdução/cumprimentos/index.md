@@ -26,7 +26,7 @@ Os xavantes costumam se cumprimentar assim por volta da hora do almoço, entre 1
   <source src="audios/hoiwahowe.mp3" type="audio/mpeg">
 </audio>
 
-# Boa noite!
+## Boa noite
 
 `Marawẽ!`
 
@@ -34,7 +34,7 @@ Os xavantes costumam se cumprimentar assim por volta da hora do almoço, entre 1
   <source src="audios/marawe.mp3" type="audio/mpeg">
 </audio>
 
-# Tudo bem?
+## Tudo bem?
 
 `E rowẽ di.`
 
@@ -42,7 +42,7 @@ Os xavantes costumam se cumprimentar assim por volta da hora do almoço, entre 1
   <source src="audios/rowedi.mp3" type="audio/mpeg">
 </audio>
 
-# Sim, tudo bem
+## Sim, tudo bem
 
 `Ĩhe, rowẽ di.`
 
