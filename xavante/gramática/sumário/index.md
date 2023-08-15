@@ -5,7 +5,7 @@
 3. Introdução
    1. Cultura
    2. Grafias
-   3. [Cumprimentos](/xavante/gramática/capítulos/introdução/cumprimentos/cumprimentos.md)
+   3. [Cumprimentos](/xavante/gramática/capítulos/introdução/cumprimentos/index.md)
    4. Conversa
       1. Nomes
       2. Informações
@@ -15,12 +15,12 @@
    5. Despedida
    6. Leitura
    7. Perguntas
-4. [Pronúncia](/xavante/gramática/capítulos/pronúncia/pronúncia.md)
+4. [Pronúncia](/xavante/gramática/capítulos/pronúncia/index.md)
 5. Pronomes
 6. Substantivos
 7. Verbos
-   1. [Verbo *ser* invisível](/xavante/gramática/capítulos/verbos/ser_invisível.md)
-   2. Verbos de 2º classe 
+   1. [Verbo *ser* invisível](/xavante/gramática/capítulos/verbos/index.md)
+   2. Verbos de 2º classe
    3. Verbos de 1º classe
 8. Indicativo
 9. Infinitivo pessoal
