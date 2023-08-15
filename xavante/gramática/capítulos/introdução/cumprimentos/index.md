@@ -1,46 +1,29 @@
 # Introdução - Cumprimentos
 
-## Bom dia!
+## Bom dia
 
-`Rowa awẽ!` [🔉](audios/rowa_awe.mp3) 
+`Rowaꞌa wẽ!`
 
-Fale várias vezes em voz alta, seguindo as dicas do guia de pronúncia abaixo:
+<audio controls>  
+  <source src="audios/rowa_awe.mp3" type="audio/mpeg">
+</audio>
 
-`R` - como a letra R em _Pa**r**á_  
-`W` - como a letra U de _**u**va_  
-`O` - som aberto, como Ó de _**o**lha_  
-`Ẽ` - tem som nasal, como em _**en**tro_  
+## Bom meio-dia
 
-## Bom meio-dia!
+`Abdzumawẽ!`
 
-[`Abdzumawẽ!`](audios/abdzu.mp3)
+<audio controls>  
+  <source src="audios/abdzu.mp3" type="audio/mpeg">
+</audio>
 
 Os xavantes costumam se cumprimentar assim por volta da hora do almoço, entre 10 e 14 horas
 
-**`MA` -** lemos nasalizado **MÃ**, como em "**mã**o". O som não é **MÁ** como em "**ma**çã"   
-**`DZ`** - lemos apenas Z, com D mudo, como na palavra "**z**ebra". Em *nenhuma* palavra o `DZ` ou `Z` tem som de S
-
-Na [grafia alemã](https://www.notion.so/04136f4295944549803a2dcfc3f2fc54?pvs=21) se escreve DZ, mas na [grafia americana](https://www.notion.so/04136f4295944549803a2dcfc3f2fc54?pvs=21) se escreve apenas Z
-
-
-# Boa tarde!
+## Boa tarde
 
 `Höiwahöwẽ!`
-
-[Cumprimentos%201347c08ba9434ddca663c463193004f7/hoiwahowe.mp3](Cumprimentos%201347c08ba9434ddca663c463193004f7/hoiwahowe.mp3)
-
-<aside>
-🗣️ **`H`** - como o R em "**r**ato".
-
-</aside>
-
-<aside>
-💡 O som difere quando o H forma uma dupla consonantal com o N formando NH. Neste caso o NH tem o mesmo som do NH do português da palavra "gali**nh**a"
-
-</aside>
-
-<aside>
-🗣️ **`Ö` -** como quando alguém diz "d**ÂÂ**hhh" em resposta algo idiota. Dica: Tente falar a letra A como se estivesse com o nariz entupido 🙂
+<audio controls>  
+  <source src="audios/hoiwahowe.mp3.mp3" type="audio/mpeg">
+</audio>
 
 </aside>
 
