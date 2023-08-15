@@ -4,7 +4,7 @@
 3. Introdução
    1. Cultura
    2. Grafias
-   3. [Cumprimentos](/livro/capítulos/introdução/cumprimentos/cumprimentos.md)
+   3. [Cumprimentos](/xavante/gramática/capítulos/introdução/cumprimentos/cumprimentos.md)
    4. Conversa
       1. Nomes
       2. Informações
@@ -14,7 +14,7 @@
    5. Despedida
    6. Leitura
    7. Perguntas
-4. Pronúncia
+4. [Pronúncia](/xavante/gramática/capítulos/pronúncia/pronúncia.md)
 5. Pronomes
 6. Substantivos
 7. Verbos
