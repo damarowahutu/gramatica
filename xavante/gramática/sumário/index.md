@@ -1,4 +1,5 @@
 # Capítulos
+
 1. Prefácio
 2. Guia de estudos
 3. Introdução
@@ -18,7 +19,7 @@
 5. Pronomes
 6. Substantivos
 7. Verbos
-   1. Verbo "ser" invisível
+   1. [Verbo *ser* invisível](/xavante/gramática/capítulos/verbos/ser_invisível.md)
    2. Verbos de 2º classe 
    3. Verbos de 1º classe
 8. Indicativo
