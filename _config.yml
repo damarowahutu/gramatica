@@ -1,6 +1,5 @@
 layout: page
-title: null
-name: ""
+title: "Gramática Xavante"
 plugins:
   - jekyll-relative-links
 relative_links:

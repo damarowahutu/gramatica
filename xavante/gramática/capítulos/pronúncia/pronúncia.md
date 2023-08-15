@@ -31,28 +31,30 @@
 | Ö/Â | som entre **Â** fechado e **Ô** fechado. Pronucia-se como em mes**a** | **ö** | água |
 | U | som de u como em **u**va | daꞌubu | rosto
 
-> Toda vogal após m, n, mr ou nh é nasalizada mesmo que a vogal não tenha um sinal de til ~
-
 ## Consoantes
 |Letra | Som em português | Exemplo | Tradução |
 |:----:|:----------------:|:-------:|:--------:|
-| B |
-| D
+| B | Som de B como em **b**olo. | bödödi | estrada
+| D | Som de D nordestino como em **d**ar. Nunca tem som de DJ. | dadi | barriga
 | H | Som de R frouxo como em ca**rr**o | dahi | osso
 | M
-| N
-| P
+| N 
+| P | Som de P como em **p**ato | paꞌo | banana
 | R | Som de R forte como em ca**r**o | buru | roça
-| T | som de T como em **t**a**t**u | tebe | peixe
+| T | som de T como em **t**a**t**u. Na sílaba **TÍ** não tem som de *tchi* | tebe, ti | peixe, flecha
 | TS/S | Grafia oficial: TS. Grafia alternativa: S.<br /> Som de S como em **s**ombra. Nunca tem som de Z entre vogais. | tsabu | visitar
+| W | Som de U como em **u**va | uwaimrami | cumprir/alcançar
 | DZ/Z | Grafia oficial: DZ. Grafia alternativa: Z.<br /> Som de Z como em **z**ebra | dzara | outro lado
 | ꞌ | Glotal. Tem som de corte na garganta, como o hífen na interjeição de estranheza hê-hê. | dzaꞌra | indica plural do verbo
 
-> As seguintes letras não existem no alfabeto xavante e por isso são pronunciadas como em português: C, F, G, J, K, L, Q, V, X, Y
 
 
 ## 2 consoantes
 |Letra | Som em português | Exemplo | Tradução |
 |:----:|:----------------:|:-------:|:--------:|
-| MR | 
-| NH |
+| MR | som de **M** com **R** tremido | mra | fome
+| NH | semelhante ao português, mas nasalisado | danhono | sono
+
+> Toda vogal após m, n, mr ou nh é nasalizada mesmo que a vogal não tenha um sinal de til ~
+> 
+> As seguintes letras não existem no alfabeto xavante e por isso são pronunciadas como em português: C, F, G, J, K, L, Q, V, X, Y
