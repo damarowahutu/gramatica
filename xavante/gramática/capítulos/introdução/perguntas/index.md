@@ -62,4 +62,4 @@ A vogal E vai ser coloca na parte da frase onde começa a oração interrogativa
 
 *Você vai saber **por que** é importante trabalhar na roça.*
 
-`Te dza ĩwaihu e marĩ wa ĩpire burã romhuri da.`
+`Te dza ĩwaihu e marĩ wa ĩpire buru ãma romhuri da.`
