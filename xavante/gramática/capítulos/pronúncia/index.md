@@ -4,7 +4,7 @@
 
 |Letra | Som em português | Exemplo em xavante | Tradução em português |
 |:----:|:----------------:|:-------:|:--------:|
-| A | som aberto de **á** como em sof**á** | d**a**to[🔉](audios/dato.mp3) | festa/olho |
+| A | som aberto de **á** como em sof**á** | d**a**to[🔉](audios/dato.mp3)  | festa/olho |
 | Ã | som nasal de **ãn** como em m**ã**e | **ã**hãna | hoje/agora |
 | A<br>(depois m/n) | ^^ | **ꞌma**nharĩ | fazer |
 | A<br>(depois mr) | ^^ | **mra** | fome |

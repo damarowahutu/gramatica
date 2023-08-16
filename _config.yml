@@ -1,7 +1,9 @@
 layout: page
-title: ""
+title: "Gramática Xavante"
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true

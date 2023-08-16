@@ -1,9 +1,9 @@
 # Capítulos
 
-1. Prefácio
-2. Guia de estudos
+1. [Prefácio](/xavante/gramática/prefácio/)
+2. [Guia de estudos](/xavante/gramática/guia%20de%20estudos/)
 3. Introdução
-   1. Cultura
+   1. [Cultura](/xavante/gramática/capítulos/cultura/)
    2. Grafias
    3. [Cumprimentos](/xavante/gramática/capítulos/introdução/cumprimentos/)
    4. Conversa
@@ -14,7 +14,7 @@
       5. Sendo educado
    5. Despedida
    6. Leitura
-   7. Perguntas
+   7. [Perguntas](/xavante/gramática/capítulos/introdução/perguntas/)
 4. [Pronúncia](/xavante/gramática/capítulos/pronúncia/)
 5. Pronomes
 6. Substantivos
@@ -29,7 +29,7 @@
 12. Imperativo
 13. Objetos
 14. Posposições
-15. Reflefixo
-16. Tema mútiplo
+15. Reflexivo
+16. Tema múltiplo
 17. Posse
 18. Advérbios
