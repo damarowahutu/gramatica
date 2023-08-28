@@ -6,7 +6,7 @@
 2. [Cultura](/idiomaXavante/01.nivelBasico/cultura/)
 3. Introdução
    1. [Cumprimentos](/idiomaXavante/01.nivelBasico/introducao/cumprimentos/)
-   2. [Perguntas](/idiomaXavante/01.nivelBasico/introducao/introdução/perguntas/)
+   2. [Perguntas](/idiomaXavante/01.nivelBasico/introducao/introducao/perguntas/)
 4. [Pronúncia](/idiomaXavante/01.nivelBasico/pronuncia/)
    1. Vogais
    2. Consoantes

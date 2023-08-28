@@ -1,4 +1,4 @@
 
 # Gramática Xavante
 
-[Gramática do idioma indígena xavante](/xavante/gramática/sumário/index.md)
+[Curso e Gramática do idioma indígena xavante](/idiomaXavante/00.sumario/)
