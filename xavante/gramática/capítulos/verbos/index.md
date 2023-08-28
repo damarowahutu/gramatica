@@ -1,1 +1,0 @@
-# Verbo *ser* invisível
