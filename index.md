@@ -3,19 +3,19 @@
 ## Nível Básico
 
 1. Apresentação ▶️
-2. [Cultura](/01.basico/cultura/) ▶️
+2. [Cultura](basico/cultura/) ▶️
 3. Introdução
-   1. [Perguntas](/01.basico/introducao/perguntas/) ▶️
-   2. [Diálogo](/01.basico/introducao/dialogo/) ▶️
-4. [Pronúncia](/01.basico/pronuncia/) ▶️
+   1. [Perguntas](basico/introducao/perguntas/) ▶️
+   2. [Diálogo](basico/introducao/dialogo/) ▶️
+4. [Pronúncia](basico/pronuncia/) ▶️
 5. Números e Tempo
-   1. [Números](/01.basico/numeros/)
+   1. [Números](basico/numeros/)
    2. Períodos de tempo
 6. Substantivo (e número de substantivos)
    1. Sufixos ꞌwa (aquele que) e dzé (coisa de/lugar em que)
-7. [Pronomes pessoais](/01.basico/pronomesPessoais/)
+7. [Pronomes pessoais](basico/pronomesPessoais/)
 8. Fala feminina e masculina
-9. [Verbo *ser* invisível](/01.basico/verboSerInvisivel/)
+9. [Verbo *ser* invisível](basico/verboSerInvisivel/)
     1. Presente positivo
     2. Presente negativo
 10. Verbos de 2º classe (indicativo)
@@ -97,7 +97,7 @@
    2. niwa
    3. marĩ
 4. Reflexivo
-5. [Pronomes demonstrativos](/02.intermediario/pronomesDemonstrativos/)
+5. [Pronomes demonstrativos](intermediario/pronomesDemonstrativos/)
 6. Mudanças de estado ou ser
 7. Prefixos
    1. ꞌma-
@@ -178,7 +178,7 @@
     2. dzöri/höri
     3. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
 18. Comparações
-19. [Verbo estar](/02.intermediario/verboEstar/)
+19. [Verbo estar](intermediario/verboEstar/)
 
 ## Nível Avançado
 
