@@ -60,6 +60,6 @@ E no xavante? Todas frases que começam com a vogal **E** são perguntas.
 
 A vogal E vai ser coloca na parte da frase onde começa a oração interrogativa. Exemplo:
 
-*Você vai saber <span style="color:red">por que</span> é importante trabalhar na roça.*
+*Você vai saber <span style="color:red">por que</span> é importante/difícil trabalhar na roça.*
 
 <code>Te dza ĩwaihu <span style="color:red">e marĩ wa</span> ĩpire buru ãma romhuri da.</code>

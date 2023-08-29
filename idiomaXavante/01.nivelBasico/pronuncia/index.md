@@ -67,3 +67,19 @@
 | MH | Neste caso o M pertence à sílaba anterior, e o H pertence a próxima sílaba. Pronuncia-se de forma separada. | romhö di[🔉](audios/romhoodi.mp3) | é longe
 
 > As seguintes letras não existem no alfabeto xavante e por isso são pronunciadas como em português: C, F, G, J, K, L, Q, V, X, Y
+
+## Ênfase
+
+Se prolonga uma sílaba para dar ênfase, indicando intensidade. Por exemplo, em português para indicar que algo ficar muito longe, poderia ser enfatizado assim: `isso é loooonge`. Em xavante também é possível fazer isso, enfatizando geralmente a penúltima sílaba da oração:
+
+é longe `romhö di`
+
+é looonge `romhööö di` [🔉](audios/romhoodi.mp3)
+
+## Vogais prolongadas
+
+Em algumas palavras, certas vogais podem ser prologadas por até duas vezes a duração normal. Isso muda o significado da palavra. Por exemplo:
+
+meu pai `ĩ̱mama` [🔉](audios/inmama.mp3)
+
+o pai dele `ĩmama` [🔉](audios/imama.mp3)

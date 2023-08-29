@@ -2,16 +2,14 @@
 
 ## Nível Básico
 
-1. Apresentação
-2. [Cultura](/idiomaXavante/01.nivelBasico/cultura/)
+1. Apresentação ▶️
+2. [Cultura](/idiomaXavante/01.nivelBasico/cultura/) ▶️
 3. Introdução
-   1. [Cumprimentos](/idiomaXavante/01.nivelBasico/introducao/cumprimentos/)
-   2. [Perguntas](/idiomaXavante/01.nivelBasico/introducao/introducao/perguntas/)
-4. [Pronúncia](/idiomaXavante/01.nivelBasico/pronuncia/)
-   1. Vogais
-   2. Consoantes
+   1. [Perguntas](/idiomaXavante/01.nivelBasico/introducao/perguntas/) ▶️
+   2. [Diálogo](/idiomaXavante/01.nivelBasico/introducao/dialogo/) ▶️
+4. [Pronúncia](/idiomaXavante/01.nivelBasico/pronuncia/) ▶️
 5. Números e Tempo
-   1. Números Cardinais e Ordinais
+   1. [Números](/idiomaXavante/01.nivelBasico/numeros/)
    2. Períodos de tempo
 6. Substantivo (e número de substantivos)
    1. Sufixos ꞌwa (aquele que) e dzé (coisa de/lugar em que)
@@ -47,13 +45,14 @@
     4. da - objetivo
     5. tõ da - negação do objetivo
     6. wamhã/õ wamhã - quando/se
-    7. parimhã/õ wamhã - depois
-    8. nherẽ/õ nherẽ - apesar
-    9. wa/õ wa / porque
-    10. uꞌöbö - por meio/por causa
-    11. ĩ ... da tsi - dever/obrigação
-    12. ĩ ... tõ da tsi - não dever
-    13. da tsi - só esse objetivo
+    7. parimhã - depois
+    8. wana ré - antes
+    9. nherẽ/õ nherẽ - apesar
+    10. wa/õ wa - porque
+    11. uꞌöbö - por meio/por causa
+    12. ĩ ... da tsi - dever/obrigação
+    13. ĩ ... tõ da tsi - não dever
+    14. da tsi - só esse objetivo
 16. Verbos de 1º classe (indicativo)
     1. Prefixados com o sujeito simples (sub-classe Ia)
 17. Verbos de 1º classe no infinitivo
@@ -154,6 +153,8 @@
     27. bö/õ bö
     28. tsiro
     29. döꞌötsina
+    30. ꞌrudza
+    31. ate
 13. Qualificadores
     1. ĩwẽ
     2. ĩꞌahö
