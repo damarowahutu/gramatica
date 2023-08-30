@@ -1,53 +1,69 @@
 # Verbo *ser* invisível
 
-Só funciona com frases simples e com substantivos.
+Só funciona com frases simples ou com substantivos.
 
-## Tempo verbal: Presente
+## Presente afirmativo
 
-### Fórmula do presente positivo
+### Fórmula do presente afirmativo
 
-pessoa + substantivo
+Fórmula:
 
-### Exemplos do presente positivo
+```text
+pessoa  +  substantivo/situação.
+ wa hã           piꞌõ.  
+ wa hã       São Paulo hawi.
+```
 
-`Õ hã aibö` - Ele é homem.
+Neste exemplo a 1º pessoa no singular é `wa hã` e o substantivo que queremos usar mulher: `piꞌõ`. Então a frase está pronta: `wa hã piꞌõ` -> *eu sou mulher*.
 
-`Wa hã dawedeꞌwa` - Eu sou médico.
+Note que verbo ser fica invisível nessa construção, não aparece claramente em xavante a palavra *sou*.
 
-`A hã dama romnhoréꞌwa` - Você é professor.
+### Exemplos do presente afirmativo singular
+
+`Õ hã aibö` - Ele lá é homem
+
+`Wa hã dawedeꞌwa` - Eu sou médico
+
+`A hã dama romnhoréꞌwa` - Você é professor
 
 `E a hã rotiꞌwa` - Você é cacique?
 
+`Õ hã wahi` - Aquilo é uma cobra
+
+### Exemplos do presente afirmativo plural
+
+`Wa norĩ hã Rio de Janeiro hawimhã` - Nós somos do Rio de Janeiro
+
+`A norĩ waꞌwa hã buru ãma romhuriꞌwa norĩ` - Vocês são trabalhadores rurais
+
+`Õ norĩ hã dama romnhoréꞌwa norĩ` - Eles são professores
+
+---
+
+## Presente negativo
+
 ### Fórmula do presente negativo
 
-pessoa + substantivo
+```text
+pessoa + substantivo/situação + õ di.
+ wa hã          aiböi           õ di.  
+ wa hã   Rio de Janeiro hawib   õ di.
+```
 
-### Exemplos do presente negativo
+> Note que o `aibö` ganhou o `i` como vogal de ligação. Note também que o `hawi` ganhou uma consoante de ligação `b`. Essas letras podem surgir em várias situações. Em português isso também ocorre nas palavras ma*d*uro/ima*t*uro.
 
-## Tempo verbal: Futuro
+### Exemplos do presente negativo singular
 
-### Fórmula do futuro positivo
+`Wa hã rotiꞌwai õ di` - Não sou cacique
 
-pessoa + substantivo
+`E a hã rotiꞌwai õ di` - Você não é cacique?
 
-### Exemplos do futuro positivo
+`Õ hã dama romnhoréꞌwai õ di` - Ele não é professor
 
-### Fórmula do futuro negativo
+### Exemplos do presente negativo plural
 
-pessoa + substantivo
+`Wa norĩ hã dawedeꞌwa norĩ` - Nós somos médicos
 
-### Exemplos do futuro negativo
+`A norĩ waꞌwa hã waradzu norĩ õ di` - Vocês não são não-xavantes
 
-## Tempo verbal: Passado
-
-### Fórmula do passado positivo
-
-pessoa + substantivo
-
-### Exemplos do passado positivo
-
-### Fórmula do passado negativo
-
-pessoa + substantivo
-
-### Exemplos do passado negativo
+`Õ norĩ hã romhuri petse ꞌwa norĩ õ di` - Eles são não trabalhadores diligentes
