@@ -4,41 +4,37 @@
 
 1. Apresentação ▶️
 2. [Cultura](basico/cultura/) ▶️
-3. Introdução
+3. [Pronúncia](basico/pronuncia/) ▶️
+4. Introdução
    1. [Perguntas](basico/introducao/perguntas/) ▶️
    2. [Diálogo](basico/introducao/dialogo/) ▶️
-4. [Pronúncia](basico/pronuncia/) ▶️
 5. Números e Tempo
-   1. [Números](basico/numeros/)
-   2. Períodos de tempo
-6. Substantivo (e número de substantivos)
-   1. Sufixos ꞌwa (aquele que) e dzé (coisa de/lugar em que)
+   1. [Números](basico/numeros/) ▶️
+   2. [Períodos de tempo](basico/periodosTempo/) ▶️
+6. Substantivos (norĩ, ꞌwa, dzé)
 7. [Pronomes pessoais](basico/pronomesPessoais/)
-8. Fala feminina e masculina
-9. [Verbo *ser* invisível](basico/verboSerInvisivel/)
-    1. Presente positivo
-    2. Presente negativo
-10. Verbos de 2º classe (indicativo)
-    1. Tipo A
-    2. Tipo B
-    3. Tipo C
-    4. Tipo D
-11. Objetos
+8. [Verbo *ser* invisível](basico/verboSerInvisivel/)
+9. Verbos de 2º classe (indicativo)
+   1. Tipo A
+   2. Tipo B
+   3. Tipo C
+   4. Tipo D
+10. Objetos
     1. Conjugação do singular e 1º pessoa do plural
     2. Diretos
     3. Indiretos
        1. Com `dama`
        2. Com `dawi`
        3. Com `dadzô`
-12. Tempos verbais
+11. Tempos verbais
     1. Futuro
     2. Passado
-13. Imperativo
+12. Imperativo
     1. Simples
     2. Plural
     3. Negativo
-14. Verbos de 2º classe no infinitivo
-15. Pós-posições
+13. Verbos de 2º classe no infinitivo
+14. Pós-posições
     1. õ di - negação
     2. ãna - sem
     3. dzô
@@ -53,32 +49,32 @@
     12. ĩ ... da tsi - dever/obrigação
     13. ĩ ... tõ da tsi - não dever
     14. da tsi - só esse objetivo
-16. Verbos de 1º classe (indicativo)
+15. Verbos de 1º classe (indicativo)
     1. Prefixados com o sujeito simples (sub-classe Ia)
-17. Verbos de 1º classe no infinitivo
-18. Usos do `ꞌre` e `mono` no...
+16. Verbos de 1º classe no infinitivo
+17. Usos do `ꞌre` e `mono` no...
     1. Indicativo...
        1. com verbos de 2º classe
        2. com verbos de 1º classe
     2. Infinitivo...
        1. com verbos de 2º classe
        2. com verbos de 1º classe
-19. Adjetivos
+18. Adjetivos
     1. Prefixados com o sujeito
     2. Prefixados com `dama`
-20. Posse
+19. Posse
     1. Inalienável / Cultural (damama) - Obrigatoriamente possuídos
     2. Substantivo (danhitobꞌru) - Opcionalmente possuídos
     3. Produzida (danhimirotsaꞌrada) - Ação feita por uma pessoa.
     4. Produzida em si mesmo - (ĩ̱tsiꞌupté) - Ação feita por uma pessoa em si mesma.
     5. Alienável (date robduri) - Passível a troca de dono.
-21. Interjeições
+20. Interjeições
     1. bété
     2. maꞌãpé
     3. oto
     4. tu
     5. dzahadu
-22. Passagem do tempo (tenho 20 anos..., faz um ano...)
+21. Passagem do tempo (tenho 20 anos..., faz um ano...)
 
 ## Nível Intermediário
 
@@ -89,9 +85,7 @@
     4. Prefixados com `wa`/`ti` (sub-classe Ie)
     5. Prefixados com o `danhimi`  (sub-classe X)
     6. Exceções
-2. Verbo ser invisível
-   1. Futuro
-   2. Passado
+2. [Verbo ser invisível (futuro/passado)](intermediario/verboSerInvisivel/)
 3. Pronomes indefinidos
    1. ni'wa
    2. niwa
