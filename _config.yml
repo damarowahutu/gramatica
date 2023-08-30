@@ -1,7 +1,6 @@
 layout: page
 title: "Gramática Xavante"
 remote_theme: pages-themes/cayman@v0.2.0
-google_analytics: G-MGV255PTPW
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
