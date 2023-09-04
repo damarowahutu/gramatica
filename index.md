@@ -2,23 +2,23 @@
 
 ## Nível Básico
 
-1. Apresentação ▶️
-2. [Cultura](basico/cultura/) ▶️
-3. [Pronúncia](basico/pronuncia/) ▶️
+1. Apresentação
+2. [Cultura](basico/cultura/)
+3. [Pronúncia](basico/pronuncia/)
 4. Introdução
-   1. [Perguntas](basico/introducao/perguntas/) ▶️
-   2. [Diálogo](basico/introducao/dialogo/) ▶️
-5. Números e Tempo
-   1. [Números](basico/numeros/) ▶️
-   2. [Períodos de tempo](basico/periodosTempo/) ▶️
-6. Substantivos (norĩ, ꞌwa, dzé)
-7. [Pronomes pessoais](basico/pronomesPessoais/)
-8. [Verbo *ser* invisível](basico/verboSerInvisivel/)
-9. Verbos de 2º classe (indicativo)
+   1. [Perguntas](basico/introducao/perguntas/)
+   2. [Diálogo](basico/introducao/dialogo/)
+5. [Substantivos](/basico/substantivos/)
+6. [Pronomes pessoais](basico/pronomesPessoais/)
+7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
+8. Verbos de 2º classe (indicativo)
    1. Tipo A
    2. Tipo B
    3. Tipo C
    4. Tipo D
+9. Números e Tempo
+   1. [Números](basico/numeros/)
+   2. [Períodos de tempo](basico/periodosTempo/)
 10. Objetos
     1. Conjugação do singular e 1º pessoa do plural
     2. Diretos
@@ -74,7 +74,6 @@
     3. oto
     4. tu
     5. dzahadu
-21. Passagem do tempo (tenho 20 anos..., faz um ano...)
 
 ## Nível Intermediário
 
@@ -173,6 +172,7 @@
     3. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
 18. Comparações
 19. [Verbo estar](intermediario/verboEstar/)
+20. Passagem do tempo (tenho 20 anos..., faz um ano...)
 
 ## Nível Avançado
 

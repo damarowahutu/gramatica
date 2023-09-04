@@ -10,7 +10,7 @@
 | A<br>(depois mr) | ^^ | **mra** | fome |
 | A<br>(depois nh) | ^^ | **nha**ri | dizer |
 | E | som fechado de **ê** como em voc**ê** | ĩt**e**[🔉](audios/ite.mp3) | posse dele
-| Ẽ | som nasal de **ẽn** como em **en**che | **ẽ**n**ẽ** | pedra
+| Ẽ | som nasal de **ẽn** como em **en**che | **ẽ**n**e** | pedra
 | E<br>(depois m/n) | ^^ | **me**rẽ | interjeição "por acaso..."
 | E<br>(depois mr) | ^^ | da**mre**me | palavra/idioma
 | E<br>(depois nh) | ^^ | **nhe**rẽ | apesar |
@@ -28,7 +28,7 @@
 | O<br>(depois mr) | ^^ | ai**mro** | teu cônjuge
 | O<br>(depois nh) | ^^ | da**nho**no | sono |
 | Ô | som fechado como em av**ô** | t**ô**[🔉](audios/to.mp3) | de fato
-| Ö/Â | som entre **Â** fechado e **Ô** fechado. Pronuncia-se como em mes**a** | **ö**<br> aib**ö**[🔉](audios/aibo.mp3)<br>romhö di[🔉](audios/romhoodi.mp3) | água<br> homem <br>é longe|
+| Ö/Â | Grafia oficial: ö. Grafia alternativa: â. <br>som entre **Â** fechado e **Ô** fechado. Pronuncia-se como *a* em mes**a** | **ö**<br> aib**ö**[🔉](audios/aibo.mp3)<br>romhö di[🔉](audios/romhoodi.mp3) | água<br> homem <br>é longe|
 | U | som de u como em **u**va | daꞌubu<br>tsuꞌu[🔉](audios/tsuu.mp3) | rosto<br>rápido
 
 ## Consoantes
@@ -44,13 +44,13 @@
 | P | Som de P como em **p**ato | paꞌo[🔉](audios/pao.mp3) | banana
 | R | Som de R forte como em ca**r**o | buru[🔉](audios/buru.mp3) | roça
 | T | som de T como em **t**a**t**u. Na sílaba **TÍ** não tem som de *tchi* | tebe[🔉](audios/tebe.mp3)<br> ti[🔉](audios/ti.mp3) | peixe<br> flecha
-| TS/S | Grafia oficial: TS. Grafia alternativa: S.<br> Som de S como em **s**ombra. Nunca tem som de Z entre vogais. | te tsabu[🔉](audios/tetsabu.mp3)<br>tsiꞌa[🔉](audios/tsia.mp3) | (ele) visita<br>frango |
+| TS/S | Grafia oficial: ts. Grafia alternativa: s<br> Som de S como em **s**ombra. Nunca tem som de Z entre vogais. | te tsabu[🔉](audios/tetsabu.mp3)<br>tsiꞌa[🔉](audios/tsia.mp3) | (ele) visita<br>frango |
 | W | Som de U como em **u**va | ĩwi[🔉](audios/iwi.mp3)<br> waradzu[🔉](audios/waradzu.mp3) | semente dele<br>não-indígena
-| DZ/Z | Grafia oficial: DZ. Grafia alternativa: Z.<br> Som de Z como em **z**ebra | dzara<br> dzahadu[🔉](audios/dzahadu.mp3) | outro lado<br>ainda (não)
+| DZ/Z | Grafia oficial: dz. Grafia alternativa: z<br> Som de Z como em **z**ebra | dzara<br> dzahadu[🔉](audios/dzahadu.mp3) | outro lado<br>ainda (não)
 | ꞌ | Glotal. Tem som de corte na garganta, como o hífen na interjeição de estranheza hê-hê. | dzaꞌra<br>waꞌwa[🔉](audios/wawa.mp3)<br> piꞌõ[🔉](audios/pio.mp3) | plural<br>piranha<br> mulher
 
 - Toda vogal após m, n, mr ou nh é nasalizada mesmo que a vogal não tenha o acento til (~).
-- Na fala coloquial é comum omitir o DZA ou trocá-lo po IA em alguns casos. Veja alguns exemplos:
+- Na fala coloquial é comum omitir o DZA ou trocá-lo por IA em alguns casos. Veja alguns exemplos:
   
 | Escrita | Conversa cotidiana |
 |:---:|:---:|
