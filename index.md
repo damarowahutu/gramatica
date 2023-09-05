@@ -28,7 +28,7 @@
     3. Posposições
        1. [`wi`](basico/objeto/posposicoes/wi/)
        2. [`ma`](basico/objeto/posposicoes/ma/)
-       3. `dzô`
+       3. [`dzô`](basico/objeto/posposicoes/dzo/)
 12. Imperativo
     1. Simples
     2. Plural
