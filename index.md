@@ -20,8 +20,10 @@
    1. [Números](basico/numeros/)
    2. [Períodos de tempo](basico/periodosTempo/)
 10. Tempos verbais
-    1. Futuro
-    2. Passado
+    1. [Presente](basico/temposVerbais/presente/)
+    2. [Futuro](basico/temposVerbais/futuro/)
+    3. [Passado](basico/temposVerbais/passado/)
+    4. [Ação repetida](basico/temposVerbais/acaoRepetida/)
 11. [Objeto](basico/objeto/)
     1. [Direto](basico/objeto/direto/)
     2. [Indireto](basico/objeto/indireto/)
@@ -29,12 +31,15 @@
        1. [`wi`](basico/objeto/posposicoes/wi/)
        2. [`ma`](basico/objeto/posposicoes/ma/)
        3. [`dzô`](basico/objeto/posposicoes/dzo/)
-12. Imperativo
+12. Qualificadores
+    1. wẽ
+    2. petse
+13. Imperativo
     1. Simples
     2. Plural
     3. Negativo
-13. Verbos de 2º classe no infinitivo
-14. Modificadores
+14. Verbos de 2º classe no infinitivo
+15. Modificadores
     1. õ di - negação
     2. ãna - sem
     3. dzô
@@ -49,16 +54,9 @@
     12. ĩ ... da tsi - dever/obrigação
     13. ĩ ... tõ da tsi - não dever
     14. da tsi - só esse objetivo
-15. Verbos de 1º classe (indicativo)
-    1. Prefixados com o sujeito simples (sub-classe Ia)
-16. Verbos de 1º classe no infinitivo
-17. Usos do `ꞌre` e `mono` no...
-    1. Indicativo...
-       1. com verbos de 2º classe
-       2. com verbos de 1º classe
-    2. Infinitivo...
-       1. com verbos de 2º classe
-       2. com verbos de 1º classe
+16. Verbos de 1º classe (indicativo)
+    1. Prefixados com o sujeito simples tipo A
+17. Verbos de 1º classe no infinitivo
 18. Adjetivos
     1. Prefixados com o sujeito
     2. Prefixados com `dama`
@@ -74,15 +72,22 @@
     3. oto
     4. tu
     5. dzahadu
+21. Ação contínua com `ꞌre` e `mono`
+    1. Indicativo
+       1. Verbos de 2º classe
+       2. Verbos de 1º classe
+    2. Infinitivo
+       1. Verbos de 2º classe
+       2. Verbos de 1º classe
 
 ## Nível Intermediário
 
 1. Verbos de 1º classe (indicativo)
-    1. Prefixados com `tsi`/`ai` (sub-classe Ib)
-    2. Prefixados com `a`/`asi` (sub-classe Ic)
-    3. Prefixados com `ma`/`atsimi` (sub-classe Id)
-    4. Prefixados com `wa`/`ti` (sub-classe Ie)
-    5. Prefixados com o `danhimi`  (sub-classe X)
+    1. Prefixados com `tsi`/`ai` (tipo B)
+    2. Prefixados com `a`/`asi` (tipo C)
+    3. Prefixados com `ma`/`atsimi` (tipo D)
+    4. Prefixados com `wa`/`ti` (tipo E)
+    5. Prefixados com o `danhimi`  (tipo X)
     6. Exceções
 2. [Verbo ser invisível (futuro/passado)](intermediario/verboSerInvisivel/)
 3. Pronomes indefinidos
@@ -150,15 +155,13 @@
     30. ꞌrudza
     31. ate
 13. Qualificadores
-    1. ĩwẽ
-    2. ĩꞌahö
-    3. ĩtsaꞌẽne
-    4. petse
-    5. tsuꞌu
-    6. waptu
-    7. atãma
-    8. pa/pari
-    9. dzahu
+    1. ĩꞌahö
+    2. ĩtsaꞌẽne
+    3. tsuꞌu
+    4. waptu
+    5. atãma
+    6. pa/pari
+    7. dzahu
 14. Tempos verbais
     1. Pretérito imperfeito
     2. Futuro do pretérito
@@ -183,28 +186,20 @@
 4. Aꞌãma
 5. Hã
 6. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
-   1. Ação completa
-   2. Ação atual
-   3. Ação futura
-   4. Ação repetida (natsi)
+   1. Ação de duração indefinida ou habitual (re...mono)
       1. Completa
       2. Atual
       3. Futura
-   5. Ação de duração indefinida ou habitual (re...mono)
+   2. Ação de pouca duração (... mono)
       1. Completa
       2. Atual
       3. Futura
-   6. Ação de pouca duração (... mono)
-      1. Completa
-      2. Atual
-      3. Futura
-   7. Ação de resultado ...
+   3. Ação de resultado ...
       1. lógico ou esperado (ma)
       2. com natureza menos certa ou obrigatória (ma te)
-   8. Ação não realizada com o sentido de ...
+   4. Ação não realizada com o sentido de ...
       1. "quase" (aré)
       2. "em vão" (aré...da)
-      3. verbo condicional (ꞌwaꞌöhã)
 
 ## Tabelas e Referências
 
