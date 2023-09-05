@@ -8,33 +8,33 @@
 4. Introdução
    1. [Perguntas](basico/introducao/perguntas/)
    2. [Diálogo](basico/introducao/dialogo/)
-5. [Substantivos](/basico/substantivos/)
+5. [Substantivos](basico/substantivos/)
 6. [Pronomes pessoais](basico/pronomesPessoais/)
 7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
 8. Verbos de 2º classe (indicativo)
-   1. Tipo A
-   2. Tipo B
-   3. Tipo C
-   4. Tipo D
+   1. [Tipo A](basico/verbosClasse2/tipoA/)
+   2. [Tipo B](basico/verbosClasse2/tipoA/)
+   3. [Tipo C](basico/verbosClasse2/tipoA/)
+   4. [Tipo D](basico/verbosClasse2/tipoA/)
 9. Números e Tempo
    1. [Números](basico/numeros/)
    2. [Períodos de tempo](basico/periodosTempo/)
-10. Objetos
-    1. Conjugação do singular e 1º pessoa do plural
-    2. Diretos
-    3. Indiretos
-       1. Com `dama`
-       2. Com `dawi`
-       3. Com `dadzô`
-11. Tempos verbais
+10. Tempos verbais
     1. Futuro
     2. Passado
+11. [Objeto](basico/objeto/)
+    1. [Direto](basico/objeto/direto/)
+    2. [Indireto](basico/objeto/indireto/)
+    3. Posposições
+       1. [`wi`](basico/objeto/posposicoes/wi/)
+       2. [`ma`](basico/objeto/posposicoes/ma/)
+       3. `dzô`
 12. Imperativo
     1. Simples
     2. Plural
     3. Negativo
 13. Verbos de 2º classe no infinitivo
-14. Pós-posições
+14. Modificadores
     1. õ di - negação
     2. ãna - sem
     3. dzô
@@ -107,14 +107,15 @@
    2. Inclusivo
    3. Suave
 10. Objetos
-    1. Todas pessoas
-    2. Pós-posições
-       1. daꞌãma
-       2. datsina
-       3. daꞌwawi
-       4. dadzada
+    1. [Conjugação completa](intermediario/objetos/conjugacaoCompleta/)
+    2. Posposições
+       1. ãma
+       2. tsina
+       3. ꞌwawi
+       4. dzada
+       5. tẽme
 11. Verbos múltiplos
-    1. Objeto múltiplo
+    1. [Objeto múltiplo](intermediario/verbosObjetoMultiplo/)
     2. Sujeito múltiplo
 12. Modificadores
     1. waptsi

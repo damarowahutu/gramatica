@@ -10,6 +10,7 @@ Subtantivos:
 
 - `buru` roça
 - `aibö` homem
+- `aiꞌuté` criança
 - `waptsã` cachorro
 - `hu` onça
 - `wahi` cobra
