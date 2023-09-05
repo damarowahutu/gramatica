@@ -60,3 +60,8 @@ Especiais:
 - `Tsere dzô, ma tô aimaꞌuri dzaꞌra` ⇒ ficaram escondidos pelo Tsere (de emboscada para pegá-lo)
 
 > Note a diferença trocando a preposição `Tsere wi, ma tô aimaꞌuri dzaꞌra` *Se esconderam do Tsere*
+
+- `ma tô tsõré dzaꞌra ĩhöiwarobo Pauluhu nhimirowatsuꞌu hã tô tsena dzô.` Eles leram o livro para saber de o ensino de Paulo era verdade ou não.
+- `wa dza ꞌmadö ĩꞌuptabi dzô` Vou ver se é verdadeiro ou não.
+
+> Se a resposta for sim ou não, podemos usar a posposição `dzô` para passar a ideia de verificar se algo é sim ou não, se está ou não, se é verdadeiro ou não, etc.

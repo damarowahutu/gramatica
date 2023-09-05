@@ -83,3 +83,15 @@ Em algumas palavras, certas vogais podem ser prologadas por até duas vezes a du
 meu pai `ĩ̱mama` [🔉](audios/inmama.mp3)
 
 o pai dele `ĩmama` [🔉](audios/imama.mp3)
+
+## Para treinar
+
+Leia várias vezes o texto abaixo usando o áudio como referência. A meta é imitar a pronúncia, cadência e entonação da gravação.
+
+> Duré, niꞌwam norĩ hã ꞌRe ĩhöimana uꞌötsi mono te te tsima ꞌre ĩwẽ dzaꞌra mono dzéb dzarina, uburé marĩ ĩwẽ hã te te ꞌre ꞌmanharĩ dzaꞌra mono da tsi, te te tsima ꞌre wẽ dzaꞌra mono wa, da te tãma ꞌre ĩrobꞌmanharĩ watsété dzaꞌra mono norĩ ma tsi, tãma ꞌre rowẽ uptabi dzaꞌra mono di dza. E marĩ wa. ꞌRe ĩhöimana uꞌötsi mono hã ta norĩ ãma ꞌre tsibꞌaꞌuwẽ dzaꞌra mono wa. — Ãne ma tô Zezusi hã tãma rowatsuꞌu dzaꞌra, titsiré ꞌre ĩnomro mono norĩ ma.
+
+<audio controls>
+  <source src="audios/mt510.mp3" type="audio/mpeg">  
+</audio>
+
+<sub>Fonte https://globalrecordings.net/pt/language/xav</sub>
