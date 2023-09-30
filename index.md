@@ -13,9 +13,9 @@
 7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
 8. Verbos de 2º classe (indicativo)
    1. [Tipo A](basico/verbosClasse2/tipoA/)
-   2. [Tipo B](basico/verbosClasse2/tipoA/)
-   3. [Tipo C](basico/verbosClasse2/tipoA/)
-   4. [Tipo D](basico/verbosClasse2/tipoA/)
+   2. [Tipo B](basico/verbosClasse2/tipoB/)
+   3. [Tipo C](basico/verbosClasse2/tipoC/)
+   4. [Tipo D](basico/verbosClasse2/tipoD/)
 9. Números e Tempo
    1. [Números](basico/numeros/)
    2. [Períodos de tempo](basico/periodosTempo/)
@@ -28,9 +28,9 @@
     1. [Direto](basico/objeto/direto/)
     2. [Indireto](basico/objeto/indireto/)
     3. Posposições
-       1. [`wi`](basico/objeto/posposicoes/wi/)
-       2. [`ma`](basico/objeto/posposicoes/ma/)
-       3. [`dzô`](basico/objeto/posposicoes/dzo/)
+       1. [wi](basico/objeto/posposicoes/wi/)
+       2. [ma](basico/objeto/posposicoes/ma/)
+       3. [dzô](basico/objeto/posposicoes/dzo/)
 12. Qualificadores
     1. wẽ
     2. petse
