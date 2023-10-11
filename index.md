@@ -32,28 +32,33 @@
        2. [ma](basico/objeto/posposicoes/ma/)
        3. [dzô](basico/objeto/posposicoes/dzo/)
 12. Qualificadores
-    1. wẽ
-    2. petse
+    1. [wẽ](basico/qualificadores/we/)
+    2. [petse](basico/qualificadores/petse/)
+    3. waptu
+    4. atãma
+    5. uꞌötsi
+    6. danhimiꞌẽ
 13. Imperativo
     1. Simples
     2. Plural
     3. Negativo
 14. Verbos de 2º classe no infinitivo
 15. Modificadores
-    1. õ di - negação
-    2. ãna - sem
-    3. dzô
-    4. da - objetivo
-    5. tõ da - negação do objetivo
-    6. wamhã/õ wamhã - quando/se
-    7. parimhã - depois
-    8. wana ré - antes
-    9. nherẽ/õ nherẽ - apesar
-    10. wa/õ wa - porque
-    11. uꞌöbö - por meio/por causa
-    12. ĩ ... da tsi - dever/obrigação
-    13. ĩ ... tõ da tsi - não dever
-    14. da tsi - só esse objetivo
+    1. dzarina
+    2. õ di - negação
+    3. ãna - sem
+    4. dzô
+    5. da - objetivo
+    6. tõ da - negação do objetivo
+    7. wamhã/õ wamhã - quando/se
+    8. parimhã - depois
+    9. wana ré - antes
+    10. nherẽ/õ nherẽ - apesar
+    11. wa/õ wa - porque
+    12. uꞌöbö - por meio/por causa
+    13. ĩ ... da tsi - dever/obrigação
+    14. ĩ ... tõ da tsi - não dever
+    15. da tsi - só esse objetivo
 16. Verbos de 1º classe (indicativo)
     1. Prefixados com o sujeito simples tipo A
 17. Verbos de 1º classe no infinitivo
@@ -155,13 +160,13 @@
     30. ꞌrudza
     31. ate
 13. Qualificadores
-    1. ĩꞌahö
+    1. ahö
     2. ĩtsaꞌẽne
-    3. tsuꞌu
-    4. waptu
-    5. atãma
-    6. pa/pari
-    7. dzahu
+    3. prã
+    4. tsuꞌu
+    5. pari
+    6. dzahu
+    7. uwaibaba
 14. Tempos verbais
     1. Pretérito imperfeito
     2. Futuro do pretérito

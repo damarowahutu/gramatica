@@ -19,9 +19,9 @@ te  [verbo] dzahuré
 
 Plural:
 
-wa  [verbo] ni 
-te ĩ[verbo] waꞌwa / ꞌwa
-te  [verbo] dzahuré
+wa  [verbo] dzaꞌra ni 
+te ĩ[verbo] dzaꞌra waꞌwa
+te  [verbo] dzaꞌra
 ```
 
 ## Exemplos

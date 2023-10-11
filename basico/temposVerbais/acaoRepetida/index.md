@@ -19,9 +19,9 @@ te natsi  [verbo] dzahuré
 
 Plural:
 
-wa natsi  [verbo] ni 
-te natsi ĩ[verbo] waꞌwa / ꞌwa
-te natsi  [verbo] dzahuré
+wa natsi  [verbo] dzaꞌra ni 
+te natsi ĩ[verbo] dzaꞌra waꞌwa
+te natsi  [verbo] dzaꞌra
 ```
 
 > A conjugação acima exemplifica o tempo presente. Para usar no passado ou futuro do indicativo, basta adicionar `natsi` depois de `dza` ou `tô`, conforme conjugações abaixo.
@@ -43,9 +43,9 @@ ma (tô) natsi  [verbo] dzahuré
 
 Plural:
 
-wa (tô) natsi  [verbo] ni 
-ma (tô) natsi ĩ[verbo] waꞌwa / ꞌwa
-ma (tô) natsi  [verbo] dzahuré
+wa (tô) natsi  [verbo] dzaꞌra ni 
+ma (tô) natsi ĩ[verbo] dzaꞌra waꞌwa
+ma (tô) natsi  [verbo] dzaꞌra
 ```
 
 ## Indicativo futuro com ação repetida
@@ -65,9 +65,9 @@ te dza natsi  [verbo] dzahuré
 
 Plural:
 
-wa dza natsi  [verbo] ni 
-te dza natsi ĩ[verbo] waꞌwa / ꞌwa
-te dza natsi  [verbo] dzahuré
+wa dza natsi  [verbo] dzaꞌra ni 
+te dza natsi ĩ[verbo] dzaꞌra waꞌwa
+te dza natsi  [verbo] dzaꞌra
 ```
 
 ## Exemplos
