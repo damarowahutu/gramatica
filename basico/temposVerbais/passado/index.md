@@ -19,9 +19,9 @@ ma (tô)  [verbo] dzahuré
 
 Plural:
 
-wa (tô)  [verbo] ni 
-ma (tô) ĩ[verbo] waꞌwa / ꞌwa
-ma (tô)  [verbo] dzahuré
+wa (tô)  [verbo] dzaꞌra ni 
+ma (tô) ĩ[verbo] dzaꞌra waꞌwa
+ma (tô)  [verbo] dzaꞌra
 ```
 
 > A diferente entre passado e o presente, é que ele muda de `te` para `ma` nas 2º e 3º pessoas, além de também ganhar a partícula opcional `tô`.

@@ -41,22 +41,22 @@ Plural: 
 
 ## Exemplos
 
-- `wa pawapto` eu ajudo (alguém/ele)
-  - `wa aipawapto` eu te ajudo
-- `te pawapto` ele ajuda (alguém/ele)
-  - `te ĩ̱pawapto` ele me ajuda
-- `wa pawaptob dzaꞌra ni` nós ajudamos (alguém/ele)
-  - `wa aipawaptob dzaꞌra ni` nós te ajudamos (você)
-- `te pawaptob dzaꞌra` eles ajudam (alguém/ele)
-  - `te wapawaptob dzaꞌra` eles nos ajudam
-- `wa ꞌmadö` eu vejo
-  - `wa aiꞌmadö` eu te vejo
-- `te ꞌmadö` ele vê
-  - `te waꞌmadöꞌö dzaꞌra` ele nos vê
-- `te upari` ele apoia
-  - `te aiꞌupari` ele te apoia
-- `te wadzéb dzaꞌra` eles respeitam
-  - `te wawadzéb dzaꞌra` eles nos respeitam
+- `wa   pawapto` eu ajudo (alguém/ele)
+- `wa aipawapto` eu te ajudo
+- `te  pawapto` ele ajuda (alguém/ele)
+- `te ĩ̱pawapto` ele me ajuda
+- `wa   pawaptob dzaꞌra ni` nós ajudamos (alguém/ele)
+- `wa aipawaptob dzaꞌra ni` nós te ajudamos (você)
+- `te   pawaptob dzaꞌra` eles ajudam (alguém/ele)
+- `te wapawaptob dzaꞌra` eles nos ajudam
+- `wa   ꞌmadö` eu vejo
+- `wa aiꞌmadö` eu te vejo
+- `te   ꞌmadö` ele vê
+- `te waꞌmadöꞌö dzaꞌra` ele nos vê
+- `te    upari` ele apoia
+- `te aiꞌupari` ele te apoia
+- `te   wadzéb dzaꞌra` eles respeitam
+- `te wawadzéb dzaꞌra` eles nos respeitam
 
 ## Verbos que usam objeto direto
 
