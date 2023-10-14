@@ -26,17 +26,23 @@ Exemplo: `wa aipawapto` *te ajudo*. Nesta frase onde `ai` = te (você) e `pawapt
 
 Um objeto direto em português não é sempre um objeto direto também em xavante. Por exemplo, em português *confiamos em você* usa objeto indireto com a preposição *em*. Mas em xavante o verbo `umnhatsi` (confiar) usa objeto direto prefixado ao verbo sem posposição: `wa aiꞌumnhatsi dzaꞌra ni`.
 
-## Conjugação parcial dos objetos
+## Conjugação dos objetos
+
+Nestes parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora ela este presente abaixo.
 
 ```text
 Singular:
          ĩ̱[verbo]    => me (eu)
       ai/a[verbo]    => te (tu, você)
           [verbo]    => o, a, lhe (ele)
+Dual:
+        wa[verbo]            => nos (nós 2)
+      ai/a[verbo] aba/waꞌaba => vos (vocês 2)
+          [verbo] dzahuré    => os, as, lhes (eles 2)  
 Plural: 
-        wa[verbo] dzaˈra    => nos (nós 3 ou mais)
-
-          [verbo] dzaˈra    => os, as, lhes (eles 3 ou mais)
+        wa[verbo] dzaˈra        => nos (nós 3 ou mais)
+      ai/a[verbo] dzaꞌra waꞌaba => vos (vocês 3 ou mais)
+          [verbo] dzaˈra        => os, as, lhes (eles 3 ou mais)
 ```
 
 ## Exemplos

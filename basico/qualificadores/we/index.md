@@ -1,4 +1,4 @@
-# Qualificador `wẽ`
+# Qualificador *wẽ*
 
 Essa palavra pode ter vários significados, dependendo de onde é usada. Por isso é importante analisar onde ela aparece e o contexto.
 
@@ -15,7 +15,7 @@ Também pode mudar o sentido de um verbo, formando um verbo frasal (quando é co
 - `te dza aiꞌmadö` ele verá você
 - `te dza aiꞌmadöꞌö wẽ` ele cuidará de você
 
-## Com o `na`
+## Com o *na*
 
 Quando usado com o `na` ele poderia ser traduzido como "bondosamente, corretamente", ou "de forma boa, correta, bem feita", ou ainda "que é bom, que é correto", ou simplesmente como "bem". Neste caso ele ganha um `ĩ` ficando `ĩwẽ na`, e também não fica conectado ao verbo.
 
@@ -29,8 +29,9 @@ Quando usado com o `na` ele poderia ser traduzido como "bondosamente, corretamen
 
 Ao conectar com substantivos, o `wẽ` forma uma locução substantiva, quando várias palavras juntas tem a função de um único substantivo. Por exemplo, em português a locução "O *bom* juiz de futebol" se refere a um único substantivo, dando uma qualidade ao juiz e especificando de qual área ele é. Em xavante é comum várias palavras formarem uma locução, seja substantiva ou com outra função. Nessas locuções, o `wẽ` pode dar o sentido de bom, correto, justo.
 
-- `bötö wẽ` dia *bom* (no que o `D` de `bödö` se transforma em `T` quando há um complemento)
+- `bötö wẽ` dia *bom* 
 - `bötö wẽ uptabi` dia muito *bom*
+> note que o `D` de `bödö` se transforma em `T` quando há um complemento
 - `dahöimanadzé` vida
 - `dahöimana wẽ dzé` vida *correta*
 - `rowaihuꞌu wẽ ꞌwa norĩ nhimirowatsuꞌu` a instrução dos *bons* sábios

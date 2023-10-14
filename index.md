@@ -34,34 +34,36 @@
 12. Qualificadores
     1. [wẽ](basico/qualificadores/we/)
     2. [petse](basico/qualificadores/petse/)
-    3. waptu
-    4. atãma
-    5. uꞌötsi
-    6. danhimiꞌẽ
-13. Imperativo
+    3. [waptu](/basico/qualificadores/waptu/)
+    4. [atãma](/basico/qualificadores/atama/)
+    5. [uꞌötsi](/basico/qualificadores/uotsi/)
+    6. [danhimiꞌẽ](/basico/qualificadores/danhimie/)
+13. Verbos de 2º classe no infinitivo
+    1. Conjugação
+    2. Tempos verbais
+14. Modificadores
+    1. õ di - negação
+    2. ãna - sem
+    3. dzô
+    4. da - objetivo
+    5. tõ da - negação do objetivo
+    6. wamhã/õ wamhã - quando/se
+    7. pari/parimhã - depois
+    8. wana ré - antes
+    9. nherẽ/õ nherẽ - apesar
+    10. wa/õ wa - porque
+    11. uꞌöbö - por meio/por causa
+    12. da tsi - só esse objetivo
+    13. ĩ ... da tsi / tõ da tsi - dever/obrigação
+    14. dzarina
+    15. ĩ ... dzé
+15. Verbos de 1º classe (indicativo)
+    1. Prefixados com o sujeito simples tipo A
+16. Verbos de 1º classe no infinitivo
+17. Imperativo
     1. Simples
     2. Plural
     3. Negativo
-14. Verbos de 2º classe no infinitivo
-15. Modificadores
-    1. dzarina
-    2. õ di - negação
-    3. ãna - sem
-    4. dzô
-    5. da - objetivo
-    6. tõ da - negação do objetivo
-    7. wamhã/õ wamhã - quando/se
-    8. parimhã - depois
-    9. wana ré - antes
-    10. nherẽ/õ nherẽ - apesar
-    11. wa/õ wa - porque
-    12. uꞌöbö - por meio/por causa
-    13. ĩ ... da tsi - dever/obrigação
-    14. ĩ ... tõ da tsi - não dever
-    15. da tsi - só esse objetivo
-16. Verbos de 1º classe (indicativo)
-    1. Prefixados com o sujeito simples tipo A
-17. Verbos de 1º classe no infinitivo
 18. Adjetivos
     1. Prefixados com o sujeito
     2. Prefixados com `dama`
@@ -132,16 +134,16 @@
     2. pariptsi
     3. dze ti
     4. a di
-    5. ĩ... dzé
-    6. dzé
-    7. ĩ... norĩ
-    8. ĩ ... ne
-    9. waihuꞌu petse di
-    10. waihuꞌu õ di
-    11. ꞌwaꞌöhã
-    12. newa
-    13. ré
-    14. tsina
+    5. ĩ... norĩ
+    6. ĩ ... ne
+    7. waihuꞌu petse di
+    8. waihuꞌu õ di
+    9. ꞌwaꞌöhã
+    10. newa
+    11. ré
+    12. tsina
+    13. ĩ...
+    14. ĩ... na
     15. wab da
     16. da wamhã
     17. da nherẽ
@@ -151,14 +153,12 @@
     21. tsidöpötsi/nhidöpötsi
     22. te
     23. na da
-    24. ĩ...
-    25. ĩ... na
-    26. nedza
-    27. bö/õ bö
-    28. tsiro
-    29. döꞌötsina
-    30. ꞌrudza
-    31. ate
+    24. nedza
+    25. bö/õ bö
+    26. tsiro
+    27. döꞌötsina
+    28. ꞌrudza
+    29. ate
 13. Qualificadores
     1. ahö
     2. ĩtsaꞌẽne
