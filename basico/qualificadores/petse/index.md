@@ -1,26 +1,34 @@
-# Qualificador `petse`
+# Qualificador *petse*
 
 Da mesma forma que o `wẽ`, o significado pode variar de acordo com o lugar que for usado. Dá o sentido de muito, completo, pleno, melhor, bastante.
 
-## Conectado a verbos ou substantivos
+## Conectado a verbos
+
+Neste caso intensifica a ação do verbo, atua como advérbio de intensidade.
 
 - `ma tô romhuri petse dzaꞌra` trabalharam muito
 - `te dza pidzari dzaꞌra, te te tsebre petse da` o virarão, para assá-lo melhor (plenamente, bastante)
+- `niꞌwa aima ĩtsawi pe döꞌö wamhã...` quando morre alguém que é muito amado por você...
+- `ma tô tipahi petse` se amedrontou muito
 - `duréihã` antigamente
 - `duréi petse hã` muito antigamente
+
+## Conectado a pronomes, substantivos ou adjetivos
+
 - `uburé` tudo
 - `uburé petse` tudo mesmo
 - `tsibro petse di` é rico (tem muitas posses)
-- `niꞌwa aima ĩtsawi pe döꞌö wamhã...` quando morre alguém que é muito amado por você...
-- `ma tô tipahi petse` se amedrontou muito
+- `romhuriꞌwa` aquele que é trabalhador
+- `romhuri petse ꞌwa` aquele que é muito trabalhador
 
 ## Pode perder a última sílaba
 
-Quando ocorrer conectado a verbos que perde a última sílaba ou quando for usado sozinho, o `petse` perde a última sílaba ficando apenas `pe`.
+Quando ocorrer conectado a verbos que perdem a última sílaba ou quando for usado sozinho, o `petse` perde a última sílaba ficando apenas `pe`.
 
+- `ma tô romhu` trabalhou
 - `ma tô romhuri pe` trabalhou muito
+- `te ĩꞌaiwaihu` ele te conhece muito
 - `te ĩꞌaiwaihuꞌu pe` ele te conhece muito
-- `ma tô tihöiwa pe` o céu clareou plenamente (ficou sem nuvens)
 - `wedewara ĩpré pe te dza` o caminhão que é muito vermelho está parado (de pé)
 - `ĩtsibro pe hã` que é rico
 
