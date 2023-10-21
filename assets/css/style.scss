@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+@font-face {
+    font-family: "Free Monospaced";
+    src: url("/assets/css/FreeMono.eot?") format("eot"), url("/assets/css/FreeMono.woff") format("woff"), url("/assets/css/FreeMono.ttf") format("truetype"), url("/assets/css/FreeMono.svg#FreeMono") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
 
 code {    
-    font-family: 'Space Mono', monospace;
+    font-family: 'Free Monospaced', monospace;
 }
 .main-content code {
-    font-family: 'Space Mono', monospace;
+    font-family: 'Free Monospaced', monospace;
 }
