@@ -3,16 +3,11 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-    font-family: "Free Monospaced";
-    src: url("/assets/css/FreeMono.eot?") format("eot"), url("/assets/css/FreeMono.woff") format("woff"), url("/assets/css/FreeMono.ttf") format("truetype"), url("/assets/css/FreeMono.svg#FreeMono") format("svg");
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
 
 code {    
-    font-family: 'Free Monospaced', monospace;
+    font-family: 'Noto Sans', sans-serif;
 }
 .main-content code {
-    font-family: 'Free Monospaced', monospace;
+    font-family: 'Noto Sans', sans-serif;
 }
