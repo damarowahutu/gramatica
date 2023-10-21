@@ -28,7 +28,7 @@ Um objeto direto em português não é sempre um objeto direto também em xavant
 
 ## Conjugação dos objetos
 
-Nestes parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora ela este presente abaixo.
+Nesta parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora esteja presente abaixo.
 
 ```text
 Singular:

@@ -23,6 +23,6 @@ Por exemplo, considere as duas frases abaixo:
 
 > O objeto indireto é usado desta forma: *objetoPosposição Verbo*
 
-Cada preposição pode alterar o sentido e mudar o significado da frase.
+Cada posposição pode alterar o sentido e mudar o significado da frase.
 
 Veja algumas posposições nos próximos artigos.

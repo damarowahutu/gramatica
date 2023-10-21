@@ -39,7 +39,7 @@
     5. [uꞌötsi](/basico/qualificadores/uotsi/)
     6. [danhimiꞌẽ](/basico/qualificadores/danhimie/)
 13. Verbos de 2º classe no infinitivo
-    1. Conjugação
+    1. [Conjugação](/basico/verbosClasse2/infinitivo/conjugacao/)
     2. Tempos verbais
 14. Modificadores
     1. õ di - negação
@@ -89,7 +89,7 @@
 
 ## Nível Intermediário
 
-1. Verbos de 1º classe (indicativo)
+1. Verbos de 1º classe (indicativo e infinitivo)
     1. Prefixados com `tsi`/`ai` (tipo B)
     2. Prefixados com `a`/`asi` (tipo C)
     3. Prefixados com `ma`/`atsimi` (tipo D)
