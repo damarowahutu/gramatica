@@ -43,7 +43,7 @@ te  pawaptob dzaꞌra
 - `romnhoré` estudar
 - `tsõré` ler
 - `ꞌwapé` enfrentar
-- `tsani` librar
+- `tsani` livrar
 - `uptsõ` lavar
 - `uipra` comprar
 - `tsabu` visitar

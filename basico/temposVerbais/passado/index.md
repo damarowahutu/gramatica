@@ -24,7 +24,7 @@ ma (tô) ĩ[verbo] dzaꞌra waꞌwa
 ma (tô)  [verbo] dzaꞌra
 ```
 
-> A diferente entre passado e o presente, é que ele muda de `te` para `ma` nas 2º e 3º pessoas, além de também ganhar a partícula opcional `tô`.
+> A diferença entre passado e o presente, é que ele muda de `te` para `ma` nas 2º e 3º pessoas, além de também ganhar a partícula opcional `tô`.
 
 Uso opcional do `tô`
 
