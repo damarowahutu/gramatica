@@ -16,9 +16,9 @@ Os pronomes oblíquos átonos se referem às pessoas que sofrem a ação do suje
 
 > João me ajudou.
 
-- João sujeito, o ator principal, que executa a ação no objeto.
-- me pronome que indica o objeto (pessoa) que recebe a ação do sujeito. Neste caso *me* se refere a *eu*, 1º pessoa do singular.
-- ajudou ação realizada pelo sujeito (João) e que objeto recebeu (eu).
+- "João" => sujeito, o ator principal, que executa a ação no objeto.
+- "me" => pronome que indica o objeto (pessoa) que recebe a ação do sujeito. Neste caso "*me*" se refere a "*eu*", 1º pessoa do singular.
+- "ajudou" => verbo que indica a ação realizada pelo sujeito (João)
 
 Em xavante, o objeto direto não precisa de uma posposição. Por isso é prefixado diretamente ao verbo desta forma: `objetoVerbo`
 
@@ -30,9 +30,9 @@ Um objeto direto em português não é sempre um objeto direto também em xavant
 
 Nesta parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora esteja presente abaixo.
 
-```text
+<pre class="xavante">
 Singular:
-         ĩ̱[verbo]    => me (eu)
+         <ins>ĩ</ins>[verbo]    => me (eu)
       ai/a[verbo]    => te (tu, você)
           [verbo]    => o, a, lhe (ele)
 Dual:
@@ -43,7 +43,7 @@ Plural: 
         wa[verbo] dzaˈra        => nos (nós 3 ou mais)
       ai/a[verbo] dzaꞌra waꞌaba => vos (vocês 3 ou mais)
           [verbo] dzaˈra        => os, as, lhes (eles 3 ou mais)
-```
+</pre>
 
 ## Exemplos
 

@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap');
-
-code {    
-    font-family: 'Noto Sans', sans-serif;
-}
-.main-content code {
-    font-family: 'Noto Sans', sans-serif;
+.xavante {
+    font-family: monospace, monospace;
 }
