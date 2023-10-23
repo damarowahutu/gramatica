@@ -30,9 +30,9 @@ Um objeto direto em português não é sempre um objeto direto também em xavant
 
 Nesta parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora esteja presente abaixo.
 
-<pre class="xavante">
+<pre>
 Singular:
-         <ins>ĩ</ins>[verbo]    => me (eu)
+         <u>ĩ</u>[verbo]    => me (eu)
       ai/a[verbo]    => te (tu, você)
           [verbo]    => o, a, lhe (ele)
 Dual:
@@ -40,9 +40,9 @@ Dual:
       ai/a[verbo] aba/waꞌaba => vos (vocês 2)
           [verbo] dzahuré    => os, as, lhes (eles 2)  
 Plural: 
-        wa[verbo] dzaˈra        => nos (nós 3 ou mais)
+        wa[verbo] dzaꞌra        => nos (nós 3 ou mais)
       ai/a[verbo] dzaꞌra waꞌaba => vos (vocês 3 ou mais)
-          [verbo] dzaˈra        => os, as, lhes (eles 3 ou mais)
+          [verbo] dzaꞌra        => os, as, lhes (eles 3 ou mais)
 </pre>
 
 ## Exemplos
@@ -50,7 +50,7 @@ Plural: 
 - `wa   pawapto` eu ajudo (alguém/ele)
 - `wa aipawapto` eu te ajudo
 - `te  pawapto` ele ajuda (alguém/ele)
-- `te ĩ̱pawapto` ele me ajuda
+- <samp>te <u>ĩ</u>pawapto</samp> ele me ajuda
 - `wa   pawaptob dzaꞌra ni` nós ajudamos (alguém/ele)
 - `wa aipawaptob dzaꞌra ni` nós te ajudamos (você)
 - `te   pawaptob dzaꞌra` eles ajudam (alguém/ele)
