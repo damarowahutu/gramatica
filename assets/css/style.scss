@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.xavante {
+pre {
     font-family: monospace, monospace;
+    font-weight: bold;
+}
+u { 
+    text-decoration: underline;
+}
+samp { 
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-weight: bold;
+    padding: 2px 4px;  
+    font-size: 0.9rem;
+    color: #567482;
+    background-color: #f3f6fa;
+    border-radius: 0.3rem;
 }
