@@ -9,6 +9,7 @@
    1. [Perguntas](basico/introducao/perguntas/)
    2. [Diálogo](basico/introducao/dialogo/)
 5. [Substantivos](basico/substantivos/)
+   1.  
 6. [Pronomes pessoais](basico/pronomesPessoais/)
 7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
 8. Verbos de 2º classe (indicativo)
@@ -185,12 +186,13 @@
 
 ## Nível Avançado
 
-1. Sufixo -re (desprezo)
-2. Modificador datsiwi
-3. Honorífico
-4. Aꞌãma
-5. Hã
-6. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
+1. [Orações subordinadas](avancado/oracoesSubordinadas/)
+2. Sufixo -re (desprezo)
+3. Modificador datsiwi
+4. Honorífico
+5. Aꞌãma
+6. Hã
+7. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
    1. Ação de duração indefinida ou habitual (re...mono)
       1. Completa
       2. Atual
