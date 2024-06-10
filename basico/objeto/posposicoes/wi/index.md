@@ -21,7 +21,7 @@ Dual:
             wawi [verbo] 
             aiwi [verbo] ˈwa / waˈwa
             tiwi [verbo] dzahuré
-Plural: 
+Plural:
             wawi [verbo] dzaˈra
             aiwi [verbo] dzaˈra waˈwa
             tiwi [verbo] dzaˈra
@@ -61,4 +61,4 @@ Especiais:
 - `te ĩ̱wi tsô rowaptö atsaro dzô` eu preciso de arroz
 - `te tiwi tsô tirowaptöꞌö dzaꞌra atsaro dzô` eles precisam de arroz
 
-> O verbo `rowaptöꞌö` é de 1º classe e ganha uma prefixo `ti` na 3º pessoa com sujeito ou objeto plural
+> O verbo `rowaptöꞌö` é de 1º classe e ganha um prefixo `ti` na 3º pessoa com sujeito ou objeto plural

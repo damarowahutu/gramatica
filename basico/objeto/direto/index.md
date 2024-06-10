@@ -39,7 +39,7 @@ Dual:
         wa[verbo]            => nos (nós 2)
       ai/a[verbo] aba/waꞌaba => vos (vocês 2)
           [verbo] dzahuré    => os, as, lhes (eles 2)  
-Plural: 
+Plural:
         wa[verbo] dzaꞌra        => nos (nós 3 ou mais)
       ai/a[verbo] dzaꞌra waꞌaba => vos (vocês 3 ou mais)
           [verbo] dzaꞌra        => os, as, lhes (eles 3 ou mais)
@@ -63,6 +63,12 @@ Plural: 
 - `te aiꞌupari` ele te apoia
 - `te   wadzéb dzaꞌra` eles respeitam
 - `te wawadzéb dzaꞌra` eles nos respeitam
+
+Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
+- `te tirẽ` ele abandona
+- <samp>te <u>ĩ</u>rẽ</samp> ele me abandona
+- `te warẽ` ele nos abandona (a nós 2)
+- `te warẽme dzaꞌra` ele nos abandona (a nós 3 ou mais)
 
 ## Verbos que usam objeto direto
 

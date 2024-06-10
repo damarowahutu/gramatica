@@ -61,3 +61,4 @@ te  nharĩ dzaꞌra
 - `dza` colocar, introduzir 2 objetos
 - `tari` colher 1 fruto
 - `rĩ` colher 2 frutos
+- `rẽme` abandonar

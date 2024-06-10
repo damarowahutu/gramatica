@@ -6,20 +6,19 @@
 2. [Cultura](basico/cultura/)
 3. [Pronúncia](basico/pronuncia/)
 4. Introdução
-   1. [Perguntas](basico/introducao/perguntas/)
+   1. [Perguntas](/basico/introducao/perguntas/)
    2. [Diálogo](basico/introducao/dialogo/)
 5. [Substantivos](basico/substantivos/)
-   1.  
 6. [Pronomes pessoais](basico/pronomesPessoais/)
 7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
-8. Verbos de 2º classe (indicativo)
+8. Verbos de 2º classe no indicativo
    1. [Tipo A](basico/verbosClasse2/tipoA/)
    2. [Tipo B](basico/verbosClasse2/tipoB/)
    3. [Tipo C](basico/verbosClasse2/tipoC/)
    4. [Tipo D](basico/verbosClasse2/tipoD/)
 9. Números e Tempo
    1. [Números](basico/numeros/)
-   2. [Períodos de tempo](basico/periodosTempo/)
+   2. [Períodos](basico/periodosTempo/)
 10. Tempos verbais
     1. [Presente](basico/temposVerbais/presente/)
     2. [Futuro](basico/temposVerbais/futuro/)
@@ -40,7 +39,7 @@
     5. [uꞌötsi](/basico/qualificadores/uotsi/)
     6. [danhimiꞌẽ](/basico/qualificadores/danhimie/)
 13. Verbos de 2º classe no infinitivo
-    1. [Conjugação](/basico/verbosClasse2/infinitivo/conjugacao/)
+    1. [Conjugação](basico/verbosClasse2/infinitivo/conjugacao/)
     2. Tempos verbais
 14. Modificadores
     1. õ di - negação
@@ -59,15 +58,11 @@
     14. dzarina
     15. ĩ ... dzé
 15. Verbos de 1º classe (indicativo)
-    1. Prefixados com o sujeito simples tipo A
+    1. [Tipo A](/basico/verbosClasse1/indicativo/tipoa/)
 16. Verbos de 1º classe no infinitivo
-17. Imperativo
-    1. Simples
-    2. Plural
-    3. Negativo
-18. Adjetivos
-    1. Prefixados com o sujeito
-    2. Prefixados com `dama`
+    1. [Conjugação](/basico/verbosClasse1/infinitivo/)
+17. [Imperativo](/basico/imperativo/)
+18. [Adjetivos](/basico/adjetivos/)
 19. Posse
     1. Inalienável / Cultural (damama) - Obrigatoriamente possuídos
     2. Substantivo (danhitobꞌru) - Opcionalmente possuídos
@@ -92,7 +87,7 @@
 
 1. Verbos de 1º classe (indicativo e infinitivo)
     1. Prefixados com `tsi`/`ai` (tipo B)
-    2. Prefixados com `a`/`asi` (tipo C)
+    2. Prefixados com `a`/`atsi` (tipo C)
     3. Prefixados com `ma`/`atsimi` (tipo D)
     4. Prefixados com `wa`/`ti` (tipo E)
     5. Prefixados com o `danhimi`  (tipo X)
@@ -115,11 +110,7 @@
    3. wawẽ
    4. re
    5. ꞌre
-9. Imperativos adicionais
-   1. Jussivo (imperativo de 1º e 3º pessoa)
-   2. Inclusivo
-   3. Suave
-10. Objetos
+9. Objetos
     1. [Conjugação completa](intermediario/objetos/conjugacaoCompleta/)
     2. Posposições
        1. ãma
@@ -127,10 +118,10 @@
        3. ꞌwawi
        4. dzada
        5. tẽme
-11. Verbos múltiplos
+10. Verbos múltiplos
     1. [Objeto múltiplo](intermediario/verbosObjetoMultiplo/)
     2. Sujeito múltiplo
-12. Modificadores
+11. Modificadores
     1. waptsi
     2. pariptsi
     3. dze ti
@@ -160,7 +151,7 @@
     27. döꞌötsina
     28. ꞌrudza
     29. ate
-13. Qualificadores
+12. Qualificadores
     1. ahö
     2. ĩtsaꞌẽne
     3. prã
@@ -168,21 +159,21 @@
     5. pari
     6. dzahu
     7. uwaibaba
-14. Tempos verbais
+13. Tempos verbais
     1. Pretérito imperfeito
     2. Futuro do pretérito
-15. Interjeições
+14. Interjeições
     1. nadza
-16. Modificações
+15. Modificações
     1. para ligação
     2. de temas não verbais
-17. Flexões
+16. Flexões
     1. tsiro/tsiromo
     2. dzöri/höri
     3. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
-18. Comparações
-19. [Verbo estar](intermediario/verboEstar/)
-20. Passagem do tempo (tenho 20 anos..., faz um ano...)
+17. Comparações
+18. [Verbo estar](intermediario/verboEstar/)
+19. Passagem do tempo (tenho 20 anos..., faz um ano...)
 
 ## Nível Avançado
 
