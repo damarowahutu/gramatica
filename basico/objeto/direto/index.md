@@ -37,11 +37,11 @@ Singular:
           [verbo]    => o, a, lhe (ele)
 Dual:
         wa[verbo]            => nos (nós 2)
-      ai/a[verbo] aba/waꞌaba => vos (vocês 2)
+      ai/a[verbo] ꞌwa/waꞌꞌwa => vos (vocês 2)
           [verbo] dzahuré    => os, as, lhes (eles 2)  
 Plural:
         wa[verbo] dzaꞌra        => nos (nós 3 ou mais)
-      ai/a[verbo] dzaꞌra waꞌaba => vos (vocês 3 ou mais)
+      ai/a[verbo] dzaꞌra waꞌwa => vos (vocês 3 ou mais)
           [verbo] dzaꞌra        => os, as, lhes (eles 3 ou mais)
 </pre>
 

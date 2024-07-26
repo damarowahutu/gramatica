@@ -21,12 +21,12 @@ Singular:
             tãma [verbo]
 Dual:
             wama [verbo] 
-            aima [verbo] ˈwa / waˈwa
+            aima [verbo] ꞌwa / waꞌwa
             tãma [verbo] dzahuré
-Plural: 
-            wama [verbo] dzaˈra
-            aima [verbo] dzaˈra waˈwa
-            tãma [verbo] dzaˈra
+Plural:
+            wama [verbo] dzaꞌra
+            aima [verbo] dzaꞌra waꞌwa
+            tãma [verbo] dzaꞌra
 Especiais:
             dama [verbo]  
             dama [verbo] dzaꞌra
