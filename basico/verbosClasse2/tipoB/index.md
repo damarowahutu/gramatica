@@ -51,4 +51,3 @@ te  romhuri dzaꞌra
 - `tsamarĩ` seguir
 - `tsadanharĩ` perguntar
 - `tsadaꞌöbö` responder
-- `mreme` falar

@@ -49,3 +49,4 @@ te  rotsaꞌrata dzaꞌra
 - `robdzépata` sofrer muito
 - `rowahutu` ensinar
 - `wẽꞌẽ` quebrar
+- `umnhatsi` confiar

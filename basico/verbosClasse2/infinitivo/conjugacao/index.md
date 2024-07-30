@@ -33,6 +33,6 @@ da te [verbo] dzaꞌra
 - `te te romhuri dzaꞌra` eles todos trabalharem
 - `da te romhuri dzaꞌra` pessoas trabalharem
 
-> Note que o verbo `romhuri` não perde nenhuma sílaba no infinitivo.
+> Note que o verbo não perde nenhuma sílaba no infinitivo na maioria dos casos.
 
 Essa conjugação é a conjugação base de vários outros padrões. Ela sozinha é raramente usada. Na maioria das vezes são necessários complementos e modificadores para passar o sentido desejado.

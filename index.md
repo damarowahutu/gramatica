@@ -40,7 +40,7 @@
     6. [danhimiꞌẽ](/basico/qualificadores/danhimie/)
 13. Verbos de 2º classe no infinitivo
     1. [Conjugação](basico/verbosClasse2/infinitivo/conjugacao/)
-    2. Tempos verbais
+    2. [Tempos verbais](basico/verbosClasse2/infinitivo/temposVerbais/index.md)
 14. Modificadores
     1. õ di - negação
     2. ãna - sem
@@ -62,6 +62,8 @@
 16. Verbos de 1º classe no infinitivo
     1. [Conjugação](/basico/verbosClasse1/infinitivo/)
 17. [Imperativo](/basico/imperativo/)
+    1. [Imperativo com verbos de 1º classe](/basico/imperativo/classe1)
+    2. [Imperativo com verbos de 2º classe](/basico/imperativo/classe2)
 18. [Adjetivos](/basico/adjetivos/)
 19. Posse
     1. Inalienável / Cultural (damama) - Obrigatoriamente possuídos

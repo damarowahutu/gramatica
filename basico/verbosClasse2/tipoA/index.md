@@ -51,7 +51,6 @@ te  pawaptob dzaꞌra
 
 > Este verbo `tsabu` ganha uma letra `i` quando está antes de `waꞌwa`.
 
-- `umnhatsi` confiar
 - `pibu` testar/medir
 - `upi` tocar
 - `rowatsuꞌu` explicar
