@@ -3,53 +3,53 @@
 ## Nível Básico
 
 1. Apresentação
-2. [Cultura](basico/cultura/)
-3. [Pronúncia](basico/pronuncia/)
+2. [Cultura](basico/cultura/index.md)
+3. [Pronúncia](basico/pronuncia/index.md)
 4. Introdução
-   1. [Perguntas](/basico/introducao/perguntas/)
-   2. [Diálogo](basico/introducao/dialogo/)
-5. [Substantivos](basico/substantivos/)
-6. [Pronomes pessoais](basico/pronomesPessoais/)
-7. [Verbo *ser* invisível](basico/verboSerInvisivel/)
+   1. [Perguntas](/basico/introducao/perguntas/index.md)
+   2. [Diálogo](basico/introducao/dialogo/index.md)
+5. [Substantivos](basico/substantivos/index.md)
+6. [Pronomes pessoais](basico/pronomesPessoais/index.md)
+7. [Verbo *ser* invisível](basico/verboSerInvisivel/index.md)
 8. Verbos de 2º classe no indicativo
-   1. [Tipo A](basico/verbosClasse2/tipoA/)
-   2. [Tipo B](basico/verbosClasse2/tipoB/)
-   3. [Tipo C](basico/verbosClasse2/tipoC/)
-   4. [Tipo D](basico/verbosClasse2/tipoD/)
+   1. [Tipo A](basico/verbosClasse2/tipoA/index.md)
+   2. [Tipo B](basico/verbosClasse2/tipoB/index.md)
+   3. [Tipo C](basico/verbosClasse2/tipoC/index.md)
+   4. [Tipo D](basico/verbosClasse2/tipoD/index.md)
 9. Números e Tempo
-   1. [Números](basico/numeros/)
-   2. [Períodos](basico/periodosTempo/)
+   1. [Números](basico/numeros/index.md)
+   2. [Períodos](basico/periodosTempo/index.md)
 10. Tempos verbais
-    1. [Presente](basico/temposVerbais/presente/)
-    2. [Futuro](basico/temposVerbais/futuro/)
-    3. [Passado](basico/temposVerbais/passado/)
-    4. [Ação repetida](basico/temposVerbais/acaoRepetida/)
-11. [Objeto](basico/objeto/)
-    1. [Direto](basico/objeto/direto/)
-    2. [Indireto](basico/objeto/indireto/)
+    1. [Presente](basico/temposVerbais/presente/index.md)
+    2. [Futuro](basico/temposVerbais/futuro/index.md)
+    3. [Passado](basico/temposVerbais/passado/index.md)
+    4. [Ação repetida](basico/temposVerbais/acaoRepetida/index.md)
+11. [Objeto](basico/objeto/index.md)
+    1. [Direto](basico/objeto/direto/index.md)
+    2. [Indireto](basico/objeto/indireto/index.md)
     3. Posposições
-       1. [wi](basico/objeto/posposicoes/wi/)
-       2. [ma](basico/objeto/posposicoes/ma/)
-       3. [dzô](basico/objeto/posposicoes/dzo/)
+       1. [wi](basico/objeto/posposicoes/wi/index.md)
+       2. [ma](basico/objeto/posposicoes/ma/index.md)
+       3. [dzô](basico/objeto/posposicoes/dzo/index.md)
 12. Qualificadores
-    1. [wẽ](basico/qualificadores/we/)
-    2. [petse](basico/qualificadores/petse/)
-    3. [waptu](/basico/qualificadores/waptu/)
-    4. [atãma](/basico/qualificadores/atama/)
-    5. [uꞌötsi](/basico/qualificadores/uotsi/)
-    6. [danhimiꞌẽ](/basico/qualificadores/danhimie/)
+    1. [wẽ](basico/qualificadores/we/index.md)
+    2. [petse](basico/qualificadores/petse/index.md)
+    3. [waptu](/basico/qualificadores/waptu/index.md)
+    4. [atãma](/basico/qualificadores/atama/index.md)
+    5. [uꞌötsi](/basico/qualificadores/uotsi/index.md)
+    6. [danhimiꞌẽ](/basico/qualificadores/danhimie/index.md)
 13. Verbos de 2º classe no infinitivo
-    1. [Conjugação](basico/verbosClasse2/infinitivo/conjugacao/)
+    1. [Conjugação](basico/verbosClasse2/infinitivo/conjugacao/index.md)
     2. [Tempos verbais](basico/verbosClasse2/infinitivo/temposVerbais/index.md)
-14. Modificadores
-15. Verbos de 1º classe (indicativo)
-    1. [Tipo A](/basico/verbosClasse1/indicativo/tipoa/)
+14. [Modificadores](basico/modificadores/index.md)
+15. Verbos de 1º classe no indicativo
+    1. [Tipo A](/basico/verbosClasse1/indicativo/tipoa/index.md)
 16. Verbos de 1º classe no infinitivo
-    1. [Conjugação](/basico/verbosClasse1/infinitivo/)
-17. [Imperativo](/basico/imperativo/)
-    1. [Imperativo com verbos de 1º classe](/basico/imperativo/classe1)
-    2. [Imperativo com verbos de 2º classe](/basico/imperativo/classe2)
-18. [Adjetivos](/basico/adjetivos/)
+    1. [Conjugação](/basico/verbosClasse1/infinitivo/index.md)
+17. Imperativo
+    1. [Imperativo com verbos de 1º classe](/basico/imperativo/classe1/index.md)
+    2. [Imperativo com verbos de 2º classe](/basico/imperativo/classe2/index.md)
+18. [Adjetivos](/basico/adjetivos/index.md)
 19. Posse
     1. Inalienável / Cultural (damama) - Obrigatoriamente possuídos
     2. Substantivo (danhitobꞌru) - Opcionalmente possuídos
@@ -79,13 +79,13 @@
     4. Prefixados com `wa`/`ti` (tipo E)
     5. Prefixados com o `danhimi`  (tipo X)
     6. Exceções
-2. [Verbo ser invisível (futuro/passado)](intermediario/verboSerInvisivel/)
+2. [Verbo ser invisível (futuro/passado)](intermediario/verboSerInvisivel/index.md)
 3. Pronomes indefinidos
    1. ni'wa
    2. niwa
    3. marĩ
 4. Reflexivo
-5. [Pronomes demonstrativos](intermediario/pronomesDemonstrativos/)
+5. [Pronomes demonstrativos](intermediario/pronomesDemonstrativos/index.md)
 6. Mudanças de estado ou ser
 7. Prefixos
    1. ꞌma-
@@ -98,7 +98,7 @@
    4. re
    5. ꞌre
 9. Objetos
-    1. [Conjugação completa](intermediario/objetos/conjugacaoCompleta/)
+    1. [Conjugação completa](intermediario/objetos/conjugacaoCompleta/index.md)
     2. Posposições
        1. ãma
        2. tsina
@@ -106,7 +106,7 @@
        4. dzada
        5. tẽme
 10. Verbos múltiplos
-    1. [Objeto múltiplo](intermediario/verbosObjetoMultiplo/)
+    1. [Objeto múltiplo](intermediario/verbosObjetoMultiplo/index.md)
     2. Sujeito múltiplo
 11. Modificadores
     1. wab da
@@ -141,12 +141,12 @@
     2. dzöri/höri
     3. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
 17. Comparações
-18. [Verbo estar](intermediario/verboEstar/)
+18. [Verbo estar](intermediario/verboEstar/index.md)
 19. Passagem do tempo (tenho 20 anos..., faz um ano...)
 
 ## Nível Avançado
 
-1. [Orações subordinadas](avancado/oracoesSubordinadas/)
+1. [Orações subordinadas](avancado/oracoesSubordinadas/index.md)
 2. Sufixo -re (desprezo)
 3. Modificador datsiwi
 4. Honorífico
