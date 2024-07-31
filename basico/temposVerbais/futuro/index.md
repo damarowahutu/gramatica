@@ -21,7 +21,7 @@ Plural:
 
 wa dza  [verbo] dzaꞌra ni 
 te dza ĩ[verbo] dzaꞌra waꞌwa
-te dza  [verbo] dzaꞌra dzahuré
+te dza  [verbo] dzaꞌra
 ```
 
 ## Exemplos
