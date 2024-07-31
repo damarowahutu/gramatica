@@ -18,23 +18,41 @@ wa te [verbo] dzaꞌra
 te te [verbo] dzaꞌra
 ```
 
-- `te höꞌrẽne` que eu o beba
+### Partícula `na`
+
+Como saber se deve incluir o `na`? A partícula `na` só ocorre no singular em verbos que *não perdem* sílabas em final de locução. Por exemplo, `waihuꞌu` perde na 2ª pessoa do singular do indicativo `ma tô ĩwaihu`. Veja alguns exemplos:
+
 - `romhuri!` trabalhe! (pronúncia: romhúúri)
 - `tsabu na!` veja! (pronúncia: sabúú na)
+
 > A pronúncia de verbos no imperativo que ganham a partícula `na` é diferente dos verbos que não ganham essa partícula.
+
 - `waihuꞌu!` saiba!
-- `tsawi na!` cumprimente-o! (sauíí na) 
+- `tsawi na!` cumprimente-o! (sauíí na)
 - `pawapto na!` ajude-o! (pawaptóó na)
-> ⚠️ A partícula `na` só ocorre no singular em verbos que *não perdem* sílabas em final de locução. Por exemplo, `waihuꞌu` perde na 2ª pessoa do singular do indicativo `ma tô waihu`.
+
+⚠️ Note que o `na` também aparece quando o objeto da ordem é plural, mas o sujeito é singular. Independente se o verbo perde ou não sílabas no indicativo singular. Então isso vai ocorrer ao dar uma ordem usando a 2ª pessoa (você) e  Note estes exemplos:
+
+- `Ãhã na datsa hã wama tsõmri dzaꞌra na, ã bötö na da hã.` Dá-nos hoje o nosso pão para este dia; (Mt 6:11)
+
+> Note que o sujeito é singular (você) mas o objeto é dual ou plural (nós). O verbo `tsõmri` perde sílabas no indicativo singular e não teria o `na` caso o objeto não fosse plural.
+
+- `Wei aimorĩ, Matsédonia u. Waꞌãma aime dzaꞌra na.` Venha à Macedônia. Nos ajude.
+
+> Note que a primeira ordem é apenas para uma pessoa: venha (e não: `we aiꞌabaꞌréi waꞌaba`). A segunda ordem é para uma pessoa (sujeito singular). O objeto é plural (nós: `waꞌãma ... dzaꞌra`). 
+
+- `Maꞌãpé, Aimama hã wama höiꞌré dzaꞌra na` vamos, que você nos mostre o seu pai (Jo 14:9)
+
+
+### Outros exemplos
+- `te höꞌrẽne` que eu o beba
 - `te te höꞌrẽne` que ele o beba
-- `wa te höꞌrẽne` que nós dois o bebamos
 - `waihuꞌu aba!` saibam vocês dois!
 - `romhuri aba!` trabalhem vocês dois!
 - `tsabui waꞌaba!` vejam vocês dois!
 - `tsawi waꞌaba!` vocês dois cumprimentem-no!
 - `pawapto waꞌaba!` vocês dois ajudem ele!
 - `te te höꞌrẽne dzahuré` que eles dois o bebam
-- `wa te höꞌrẽne dzaꞌra` que nós o bebamos
 - `waihuꞌu dzaꞌra waꞌaba!` saibam vocês todos!
 - `romhuri dzaꞌra waꞌaba!` trabalhem vocês todos!
 - `tsabu dzaꞌra waꞌaba!` vejam todos vocês!
@@ -46,18 +64,24 @@ te te [verbo] dzaꞌra
 Dá uma ordem que inclui a pessoa que está falando na ação 
 
 ```
-wa te [verbo]
-wa te [verbo] aba/waꞌaba
-wa te [verbo] dzaꞌra waꞌaba
+wa te [verbo] (na)            (eu e você)
+wa te [verbo] aba/waꞌaba     (eu e vocês dois)
+wa te [verbo] dzaꞌra waꞌaba  (eu e vocês todos)
 ```
 
 - `wa te romhuri!` trabalhemos você e eu!
 - `wa te romhuri aba!` trabalhemos vocês dois e eu!
 - `wa te romhuri dzaꞌra waꞌaba!` trabalhemos vocês todos e eu!
+- `wa te höꞌrẽne` que nós dois o bebamos
+- `wa te höꞌrẽne dzaꞌra` que nós o bebamos
+- `wa te ãma watsiwi tsaprĩ na pé` que eu e você juntas troquemos, bora (Gê 30:15)
+- `ẽne hã wa te tsaꞌra na` que eu e você coloquemos em pé uma pedra (Gê 31:44)
+
+> A partícula `na` segue as mesmas regras explicadas acima, mesmo no imperativo inclusivo. O sujeito é duplo ou plural, mas visto incluir a 2º pessoa (você) ainda segue as regras do `na`.
 
 ## Imperativo negativo
 
-Usa a mesma estrutura do imperativo com o modificador `tõ`, mas sem a ocorrência do `na`. 
+Usa a mesma estrutura do imperativo com o modificador `tõ`, mas sem a ocorrência do `na` em nenhuma situação. 
 
 ```
    te [verbo] tõ
@@ -86,7 +110,7 @@ te te [verbo] dzaꞌra tõ
 
 Conjugue o verbo no futuro simples do indicativo para formar um tipo mais suave de dar ordens.
 
-- `te dza ĩromhu!` trabalhem!
+- `te dza ĩromhu!` trabalhe!
 - `te dza ĩromhuri ꞌwa!` trabalhem vocês dois!
 - `te dza ĩromhuri dzaꞌra waꞌaba!` trabalhem vocês todos!
 - `te dza we aimo!` venha cá!

@@ -42,21 +42,6 @@
     1. [Conjugação](basico/verbosClasse2/infinitivo/conjugacao/)
     2. [Tempos verbais](basico/verbosClasse2/infinitivo/temposVerbais/index.md)
 14. Modificadores
-    1. õ di - negação
-    2. ãna - sem
-    3. dzô
-    4. da - objetivo
-    5. tõ da - negação do objetivo
-    6. wamhã/õ wamhã - quando/se
-    7. pari/parimhã - depois
-    8. wana ré - antes
-    9. nherẽ/õ nherẽ - apesar
-    10. wa/õ wa - porque
-    11. uꞌöbö - por meio/por causa
-    12. da tsi - só esse objetivo
-    13. ĩ ... da tsi / tõ da tsi - dever/obrigação
-    14. dzarina
-    15. ĩ ... dzé
 15. Verbos de 1º classe (indicativo)
     1. [Tipo A](/basico/verbosClasse1/indicativo/tipoa/)
 16. Verbos de 1º classe no infinitivo
@@ -124,35 +109,17 @@
     1. [Objeto múltiplo](intermediario/verbosObjetoMultiplo/)
     2. Sujeito múltiplo
 11. Modificadores
-    1. waptsi
-    2. pariptsi
-    3. dze ti
-    4. a di
-    5. ĩ... norĩ
-    6. ĩ ... ne
-    7. waihuꞌu petse di
-    8. waihuꞌu õ di
-    9. ꞌwaꞌöhã
-    10. newa
-    11. ré
-    12. tsina
-    13. ĩ...
-    14. ĩ... na
-    15. wab da
-    16. da wamhã
-    17. da nherẽ
-    18. da na
-    19. dab dzô
-    20. da ꞌwaꞌöhã
-    21. tsidöpötsi/nhidöpötsi
-    22. te
-    23. na da
-    24. nedza
-    25. bö/õ bö
-    26. tsiro
-    27. döꞌötsina
-    28. ꞌrudza
-    29. ate
+    1. wab da
+    2. da wamhã
+    3. da nherẽ
+    4. da na
+    5. dab dzô
+    6. da ꞌwaꞌöhã
+    7. na da
+    8. nedza 1 Tes 2:18
+    9. döꞌötsina
+    10. ꞌrudza
+    11. ate
 12. Qualificadores
     1. ahö
     2. ĩtsaꞌẽne
