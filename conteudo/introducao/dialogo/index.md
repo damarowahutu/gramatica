@@ -27,7 +27,7 @@
 - Como é teu nome? `E niha atsitsi` [🔉](audios/nihaa.mp3)
 - Como é o nome dele(a)? `E niha ĩtsitsi` [🔉](audios/itsitsi.mp3)
 - Qual é o nome daquele homem?  `E niha tahã aibö nhitsi hã` [🔉](audios/tahaaibo.mp3)
-- O nome dele é Tsere `Ĩtsitsi hã Tsere` [🔉](audios/tsere%201.mp3)
+- O nome dele é Tsere `Ĩtsitsi hã Tsere` [🔉](audios/tsere 1.mp3)
 - Qual é o nome desta aldeia? `E niha ãhã darom nhitsi` [🔉](audios/darom.mp3)
 
 - De onde você é? `E ma hawimhã a hã`  [🔉](audios/emahawimha.mp3)

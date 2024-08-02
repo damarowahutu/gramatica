@@ -1,5 +1,7 @@
 # Orações subordinadas
 
+Abaixo seguem algumas comparações com orações subordinadas do português.
+
 ## Orações subordinadas substantivas
 
 São um tipo de oração que exerce funções típicas de um substantivo dentro de uma frase.
