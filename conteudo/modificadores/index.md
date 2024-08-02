@@ -60,6 +60,7 @@ Um exemplo com advérbio `waihuꞌu` e modificador `õ di`:
 `te te          pitsutu   waihuꞌu   dzaꞌra õ di`
 ```
 
+---
 
 ## 1. Negação: _õ di_
 
@@ -78,6 +79,7 @@ Um exemplo com advérbio `waihuꞌu` e modificador `õ di`:
 - `te romhuri õ di dza` eu não trabalharei
 - `te te ꞌre romhuri dzaꞌra mono õ di dza` eles não continuarão trabalhando
 
+---
 
 ## 2. Sem: _ãna_
 
@@ -111,38 +113,46 @@ ___
 - `Ãne ꞌmanharĩ marĩ te te aiwi roꞌwaꞌrutu tõ da` Faça assim para nada de atrapalhar
 - `Te dawi ꞌwaꞌrutu dzaꞌra roti ĩwẽ hã da te waihuꞌu dzaꞌra tõ da.` Eles atrapalham as pessoas para não aprenderem o bom conselho  
 - `Ma tô wawi tsawi wa te upi tõ da` Ele nos proibiu de tocar
+
 ___
 
 ## 5. Objetivo único: _da tsi_
 
 - `wa ꞌre ĩ̱höimana te romhuri da tsi` Eu vivo só para trabalhar
 - te dza ĩrotsaꞌra atsiré romnhoréꞌwa norĩ hã pawaptob da tsi
+
 ___
 
 ## 6. Se, quando, casualidade: _wamhã_
 - `te aiꞌmadöꞌö wamhã, wa dza aima tinha` Se te ver, te direi
 - `wa te aiꞌmadöꞌö dzaꞌra õ wamhã, watsiꞌabaꞌré õ di dza` Se não te vermos, não iremos
 - `wei ĩmorĩ na te ꞌmadöꞌö wamhã, wa tô tsadaihuꞌu` Quando vi que ele veio, eu entendi.
+
 ___
 
 ## 7. Somente quando: _waptsi_
 - `wei ĩmorĩ na te ꞌmadöꞌö waptsi, wa tô tsadaihuꞌu` Só quando eu vi que ele veio, eu entendi
+
 ___
 
 ## 8. Depois: _parimhã_
 - `wei ĩmorĩ na te ꞌmadöꞌö parimhã, wa tô tsadaihuꞌu` Depois de ver que ele veio, eu entendi
+
 ___
 
 ## 8. Somente depois: _pariptsi_
 - `wei ĩmorĩ na te ꞌmadöꞌö pariptsi, wa tô tsadaihuꞌu` Só depois de ver que ele veio, eu entendi
+
 ___
 
 ## 10. Antes: _wana ré_
 - `wei ĩmorĩ na te ꞌmadöꞌö wana ré, wa tô tsadaihuꞌu` Antes de ver que ele veio, eu entendi
+
 ___
 
 ## 11. Apesar, mesmo: _nherẽ_
 - `wei ĩmorĩ na te ꞌmadöꞌö nherẽ, wa tô tsadaihuꞌu` Apesar de ver que ele veio, eu entendi
+
 ___
 
 ## 12. Motivo: _wa_
@@ -153,25 +163,30 @@ ___
 ## 13. Motivo sentimental: _te_
 - `robdzei õ te, te tiwawa` Ele chora por estar triste
 - `ĩ̱ma aipahi te, te aiwawa` Por estar com medo de mim, você chora
+
 ___
 
 ## 14. Por causa: _uꞌöbö_
 - `ĩtsimidzadze uꞌöbö, ma tô tsiwi titsẽ dadzadzéb ꞌre` por causa de sua religião, eles o colocaram na prisão
 - `niꞌwa hã aiwatsédé te te aiꞌãma hiri aba tõ ... ĩhöꞌrẽne aba uꞌöbö` Que ninguém de condene por causa do que (pelo que) você bebe.
+
 ___
 
 ## 15. Através, por meio: _hawi_
 - `datsiꞌrãꞌõno rowaꞌuꞌu hawi` reunião online (através da internet)
 - `te te ĩꞌaipawaptobdzéb hawi, te duré ĩ̱pawapto` Através da ajuda que ele te dá, ele também me ajuda
+
 ___
 
 ## 16. Dever, obrigação: _ĩ[verbo] da tsi_
 - `te te ĩromhuri dzaꞌra da tsi` eles devem trabalhar
+
 ___
 
 ## 17. De acordo com, conforme: _dzarina_
 - `te te ĩ̱ma nharĩ dzarina, wa ꞌmanha` Conforme ele me diz, eu faço
 - `te te ĩ̱ma ĩnharĩdzéb dzarina, wa dza ꞌmanha` De acordo com o que ele me diz, eu farei
+
 ___
 
 ## 18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_
@@ -218,13 +233,14 @@ ___
 - `Morĩ ré, ma tô waptãrã, ĩ'ra hã.` Enquanto ele foi, nasceu o seu filho.
 - `Wa dza aipawaptob datsi'rã'õtõ ré hã` Vou te ajudar durante a reunião.
 - `Tsõtõ dzahuré ré, pi'õ te romhu.` Enquanto eles dormem, a mulher trabalha.
+
 ___
 
 ## 20. Enquanto (sujeitos iguais): _tsina_
 
 - `Morĩ tsina, te tiwawa.` Indo, ele chorava.
 - `Te dza api ti'ra te te 'madö'ö tsina` Ela vai cozinhar enquanto (ao mesmo tempo que) olha o filho
-- 
+
 ___
 
 ## 21. Comparação: _ĩ[verbo] ne_
@@ -232,6 +248,7 @@ ___
 - `'manharĩ ĩ̱tsine` faça como eu
 - `wa ĩ̱tsima wẽ te manharĩ da astsine` eu quero fazer como você
 - `wa ĩ̱tsima wẽ te manharĩ da te te ĩꞌmanharĩ ne` eu quero fazer como ele faz
+
 ___
 
 ## 22. Suposição, irrealidade: _newa_
@@ -239,6 +256,7 @@ Indica eventos não realizados, que se supõe que deveria ter acontecido, mas n�
 - `Buru u, aimorĩ newa, te atsã.` Parecia que você tinha ido, mas você está aqui. 
 - `Morĩ newa, te nhamra.` Parecia que ele tinha ido, (mas) ele está aqui.
 - `te ãma rotsaꞌrata dzaꞌra, tsima to na te te tãma nharĩ dzaꞌra newa.` Eles pensaram que ele estava fingindo falar com eles com brincadeira. (Gê 19:14) 
+
 ___
 
 ## 23. Futuro do pretérito (se tivesse...): _waꞌöhã_
@@ -247,6 +265,7 @@ Expressa o sentido do subjuntivo pretérito imperfeito, a oração no indicativo
 - `we morĩ 'wa'öhã, te aré tsatõrĩ dza'ra` se ele tivesse vindo, eles o teriam mandado embora
 - `Te romhuri õ ꞌwa'öhã, rob'uipradze õ di aré.` Se eu não trabalhasse, não teria dinheiro.
 - `Tsõré ꞌwa'öhã...` Se você lesse... (jeito educado de pedir pra alguém ler)
+
 ___
 
 ## 24. Capacidade, conseguir fazer: _waihuꞌu petse di_
@@ -351,6 +370,7 @@ Vamos analisá-las e ver um exemplo em xavante:
 - `niꞌwam norĩ hã ma tô duré nharĩ dzaꞌra, höiwa hawi romhuriꞌwa Jesus ma, we te te ĩnharĩ na hã.` Outros também disseram que um anjo veio falar com Jesus. (João 12:29)
 
 - `wa tô duré wapa, damreme höiba amo hã höiwa hawi te te ĩnharĩ hã. Ãne te tinha:` Eu também ouvi uma outra voz que falava desde o céu. Assim ela diz: (Ap 18:4) 
+
 ___
 
 ## 28. Agradável, prazeroso: _dze ti_
@@ -390,6 +410,7 @@ Indica algo que poderia acontecer
 - `wanhimipari dza'ra waꞌaba, Elias we ĩtẽme morĩ õꞌumnhatsite, te te tsõꞌreptu da, döꞌö tõ da`. nos esperem, Elias poderia vir a ele, para salvá-lo, para não morrer.
 - `Ropĩni hã ꞌmaiꞌuptsõmri dzaꞌẽtẽ tõ, atsõꞌoꞌo õꞌumnhatsite` Não sorva (coma) muito mel de uma vez, você poderia vomitar
 - `Wa tô ĩ̱pahi petse, aiꞌra atsiptete na ĩ̱wi ãma ropti dzahuré õꞌumnhatsite` Eu fiquei com muito medo, você poderia proibir suas duas filhas à força de ir comigo (poderia tirar suas filhas de mim à força)
+
 ___
 
 ## 32. Um depois do outro, em cada, a medida que: _tsidöpötsi_
@@ -398,3 +419,5 @@ ___
 - `Awẽ tsidöpötsi te we mo, ĩ̠tẽme.` Diariamente ele vem para cá (para me visitar).
 - `bötö nhidöpötsi` Todos os dias
 - `ꞌre ꞌmanharĩ dzaꞌra waꞌaba mono tsidöpötsi` a medida que vocês fizerem
+
+---
