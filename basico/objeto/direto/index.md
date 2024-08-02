@@ -63,6 +63,10 @@ Plural:
 - `te aiꞌupari` ele te apoia
 - `te   wadzéb dzaꞌra` eles respeitam
 - `te wawadzéb dzaꞌra` eles nos respeitam
+- `ma tô  atsarẽ` ele te perseguiu
+- `ma tô wadzarẽ dzaꞌra` ele nos perseguiu
+- `aimro te dza aiꞌrẽ` teu marido te abandonará
+- `hu hã te dza airẽ` a onça irá te comer (cuidado visto que apenas a falta da glotal muda o sentido)
 
 Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `te tirẽ` ele abandona
@@ -86,3 +90,4 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `höiwaꞌutu` ressuscitar
 - `pitsutu` escolher
 - `umnhatsi` confiar
+- `tsarẽ` perseguir

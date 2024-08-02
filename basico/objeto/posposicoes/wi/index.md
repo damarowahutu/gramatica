@@ -49,12 +49,19 @@ Especiais:
 - `E marĩ wa, ma tô wawi aimaꞌuri dzaꞌra` Por que, você esconde de nós?
 - `Ĩ̱nhibꞌapito wi, wa we tiwi aimani, Saraꞌihi wi.` Da minha senhora, eu vim fugir dela, de Sarai.
 - `Rotiꞌwai wi, ma tô tiwi tirobdzeiꞌõ` Ele entristeceu o cacique.
+- `ma tô ĩ̱wi ĩrobdzeiꞌõ` você me entristeceu
 - `te dza ĩ̱wi tirobdzeiꞌõ petse dzaꞌra` Eles me entristecerão muito.
+- `te dza aiwi ĩrobdzeiꞌõ` você entristecerá
+- `te dza aima robdze` ele irá te alegrar
 - `Te dza ĩ̱wi ti'ö` Ele vai levá-lo de mim
 - `Te dza aiwi ti'ö` Ele vai levá-lo de você
 - `ma tô tiwi wadze` Tirou dele
 - `wa ãma atsawi` eu te cumprimento
 - `wa aiwi tsawi` eu te proíbo
+- `ma tô ĩ̱ma rowẽ wadze` ele me deu alegrou
+- `ma tô ĩ̱ma tsaꞌré` ele me permitiu
+- `wa tô aima tsaꞌré` eu te permiti
+- `wa tô ĩ̱tsima tsaꞌré` eu me permiti (a mim mesmo)
 
 > Note que o verbo `tsawi` muda de significado quando o objeto recebe a posposição `wi`.
 
