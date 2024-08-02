@@ -1,7 +1,7 @@
 layout: page
 title: "Gramática Xavante"
 description: "Um estudo sobre o idioma xavante"
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
 plugins:
   - jekyll-relative-links
