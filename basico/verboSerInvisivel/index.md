@@ -53,7 +53,45 @@ Note que verbo ser fica invisível nessa construção, não aparece claramente e
 - `A norĩ waꞌwa hã waradzu norĩ õ di` - Vocês não são não-xavantes
 - `Õ norĩ hã romhuri petse ꞌwa norĩ õ di` - Eles são não trabalhadores diligentes
 
-## Usando apenas metade da fórmula
+---
+
+## Futuro
+
+```text
+[substantivo com hã] [substantivo] dza
+```
+
+- `Tsere hã rotiꞌwa dza` Tsere será cacique
+
+### Futuro negativo
+
+```text
+[substantivo com hã] [substantivo] õ di dza
+```
+
+- `Tsere hã rotiꞌwa õ di dza` Tsere será cacique
+
+## Passado
+
+```text
+[substantivo com hã] [substantivo] aré
+```
+
+- `Tsere hã rotiꞌwa aré` Tsere era cacique
+
+### Futuro negativo
+
+```text
+[substantivo com hã] [substantivo] õ di aré
+```
+
+- `Tsere hã rotiꞌwa õ di aré` Tsere não era
+
+---
+
+## Metade da fórmula
+
+Nas frases negativas é possível usar apenas metade da fórmula com um pronome pessoal ou substantivo.
 
 ```text
 substantivo hãi + õ di.
