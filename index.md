@@ -12,7 +12,7 @@
    2. Pronomes indefinidos ni'wa, niwa, marĩ
    3. [Pronomes demonstrativos](conteudo/pronomesDemonstrativos/index.md)
 7. [Verbo *ser* invisível](conteudo/verboSerInvisivel/index.md)
-    1. [Verbo ser invisível (futuro/passado)](conteudo/intermediario/verboSerInvisivel/index.md)
+    1. [Verbo ser invisível (futuro/passado)](conteudo/verboSerInvisivel/index.md)
 8. Verbos de 2º classe no indicativo
    1. [Tipo A](conteudo/verbosClasse2/tipoA/index.md)
    2. [Tipo B](conteudo/verbosClasse2/tipoB/index.md)
@@ -33,11 +33,11 @@
        1. [dawi](conteudo/objeto/posposicoes/wi/index.md)
        2. [dama](conteudo/objeto/posposicoes/ma/index.md)
        3. [dadzô](conteudo/objeto/posposicoes/dzo/index.md)
-       8. datẽme
-       6. daꞌwawi
-       4. daꞌãma
-       5. datsina
-       7. dadzada
+       4. datẽme
+       5. daꞌwawi
+       6. daꞌãma
+       7. datsina
+       8. dadzada
 12. Qualificadores
     1. [wẽ](conteudo/qualificadores/we/index.md)
     2. [petse](conteudo/qualificadores/petse/index.md)
@@ -48,17 +48,17 @@
     7. pari
     8. dzadzôri
     9. tsirõmo
-    8. tsuꞌu
-    9. hö
-    10. ĩtsaꞌẽne
-    11. prã
-    12. dzahu
-    13. uwaibaba
+    10. tsuꞌu
+    11. hö
+    12. ĩtsaꞌẽne
+    13. prã
+    14. dzahu
+    15. uwaibaba
 13. Verbos de 2º classe no infinitivo
     1. [Conjugação](conteudo/verbosClasse2/infinitivo/conjugacao/index.md)
     2. [Tempos verbais](conteudo/verbosClasse2/infinitivo/temposVerbais/index.md)
 14. [Modificadores](conteudo/modificadores/index.md)
-    15. [Orações subordinadas](conteudo/oracoesSubordinadas/index.md)
+    1. [Orações subordinadas](conteudo/oracoesSubordinadas/index.md)
 15. [Imperativo com verbos de 2º classe](/conteudo/imperativo/classe2/index.md)    
 16. [Adjetivos](/conteudo/adjetivos/index.md)
 17. Posse
