@@ -15,7 +15,7 @@ Dual:
             wadzô [verbo] 
              atsô [verbo] ˈwa / waˈwa
               tsô [verbo] dzahuré
-Plural: 
+Plural:
             wadzô [verbo] dzaˈra
              atsô [verbo] dzaˈra waˈwa
               tsô [verbo] dzaˈra
