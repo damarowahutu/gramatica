@@ -1,3 +1,53 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Modificadores](#modificadores)
+    * [Padrão](#padrão)
+    * [1. Negação: _õ di_](#1-negação-õ-di)
+        + [1(a). Negativo passado](#1a-negativo-passado)
+        + [1(b). Negativo futuro](#1b-negativo-futuro)
+    * [2. Sem: _ãna_](#2-sem-ãna)
+    * [3. Em busca / resposta sim ou não: _dzô_](#3-em-busca-resposta-sim-ou-não-dzô)
+    * [4. Objetivo, ser: _da_](#4-objetivo-ser-da)
+        + [4(b). Objetivo negativo, não ser: _tõ da_](#4b-objetivo-negativo-não-ser-tõ-da)
+    * [5. Objetivo único: _da tsi_](#5-objetivo-único-da-tsi)
+    * [6. Se, quando, casualidade: _wamhã_](#6-se-quando-casualidade-wamhã)
+    * [7. Somente quando: _waptsi_](#7-somente-quando-waptsi)
+    * [8. Depois: _parimhã_](#8-depois-parimhã)
+    * [8. Somente depois: _pariptsi_](#8-somente-depois-pariptsi)
+    * [10. Antes: _wana ré_](#10-antes-wana-ré)
+    * [11. Apesar, mesmo: _nherẽ_](#11-apesar-mesmo-nher)
+    * [12. Motivo: _wa_](#12-motivo-wa)
+    * [13. Motivo sentimental: _te_](#13-motivo-sentimental-te)
+    * [14. Por causa: _uꞌöbö_](#14-por-causa-uꞌöbö)
+    * [15. Através, por meio: _hawi_](#15-através-por-meio-hawi)
+    * [16. Dever, obrigação: _ĩ[verbo] da tsi_](#16-dever-obrigação-verbo-da-tsi)
+    * [17. De acordo com, conforme: _dzarina_](#17-de-acordo-com-conforme-dzarina)
+    * [18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasião-verbo-dzé)
+        + [18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”](#18a-indica-instrumento-tempo-ou-lugar-da-ação-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-língua-portuguesa-mento)
+        + [18(b). Indica onde (em que/no qual) a ação é realizada (pronome interrogativo/conjunção)](#18b-indica-onde-em-queno-qual-a-ação-é-realizada-pronome-interrogativoconjunção)
+        + [18(c). Indica quando a ação é realizada](#18c-indica-quando-a-ação-é-realizada)
+        + [18(d). Indica aquilo que / o que é realizado](#18d-indica-aquilo-que-o-que-é-realizado)
+        + [18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oração-sem-sujeito-voz-passiva-sintética)
+    * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-ré)
+    * [20. Enquanto (sujeitos iguais): _tsina_](#20-enquanto-sujeitos-iguais-tsina)
+    * [21. Comparação: _ĩ[verbo] ne_](#21-comparação-verbo-ne)
+    * [22. Suposição, irrealidade: _newa_](#22-suposição-irrealidade-newa)
+    * [23. Futuro do pretérito (se tivesse...): _waꞌöhã_](#23-futuro-do-pretérito-se-tivesse-waꞌöhã)
+    * [24. Capacidade, conseguir fazer: _waihuꞌu petse di_](#24-capacidade-conseguir-fazer-waihuꞌu-petse-di)
+        + [Negativo, não ter capaciade: _waihuꞌu õ di_ ](#negativo-não-ter-capaciade-waihuꞌu-õ-di)
+    * [25. Grupo de sujeitos: _ĩ[verbo] norĩ_](#25-grupo-de-sujeitos-verbo-nor)
+    * [26. Conjunção:  _ĩ[verbo] na_](#26-conjunção-verbo-na)
+    * [27. Pronome relativo: _ĩ[verbo]_](#27-pronome-relativo-verbo)
+        + [Qual está certo? _te te ĩnharĩ hã_ ou _te tinha_?](#qual-está-certo-te-te-nhar-hã-ou-te-tinha)
+            - [Outros exemplos](#outros-exemplos)
+    * [28. Agradável, prazeroso: _dze ti_](#28-agradável-prazeroso-dze-ti)
+    * [29. Desagradável, indesejável: _a di_](#29-desagradável-indesejável-a-di)
+    * [30. Significado oposto ou irônico: _bö_](#30-significado-oposto-ou-irônico-bö)
+    * [31. Possibilidade: _õꞌumnhatsite_](#31-possibilidade-õꞌumnhatsite)
+    * [32. Um depois do outro, em cada, a medida que: _tsidöpötsi_](#32-um-depois-do-outro-em-cada-a-medida-que-tsidöpötsi)
+
+<!-- TOC end -->
+
 # Modificadores
 
 Conjugue o verbo usando a tabela do infinitivo e coloque o modificador no final da locução para passar o sentido desejado. Alguns modificadores exigem que se prefixe algo ao verbo, ou que se use um advérbio (após o verbo).
@@ -21,7 +71,7 @@ da te [verbo] dzaꞌra [modificador]
 
 [substantivo] [modificador]
 ```
-Exemplo com modificador `parimhã` 
+Exemplo com modificador `parimhã`
 ```text
 te te [verbo] dzaꞌra [modificador] 
 te te pitsutu dzaꞌra parimhã
@@ -67,7 +117,7 @@ Um exemplo com advérbio `waihuꞌu` e modificador `õ di`:
 - `te romhuri õ di` eu não trabalho
 - `romhuri õ di` você não trabalha
 - `wa te wapari dzaꞌra õ di` nós não escutamos
-- `da te romhuri tsadaihuꞌu dzaꞌra õ di ` as pessoas não entendem 
+- `da te romhuri tsadaihuꞌu dzaꞌra õ di ` as pessoas não entendem
 
 ### 1(a). Negativo passado
 
@@ -111,7 +161,7 @@ ___
 ### 4(b). Objetivo negativo, não ser: _tõ da_
 
 - `Ãne ꞌmanharĩ marĩ te te aiwi roꞌwaꞌrutu tõ da` Faça assim para nada de atrapalhar
-- `Te dawi ꞌwaꞌrutu dzaꞌra roti ĩwẽ hã da te waihuꞌu dzaꞌra tõ da.` Eles atrapalham as pessoas para não aprenderem o bom conselho  
+- `Te dawi ꞌwaꞌrutu dzaꞌra roti ĩwẽ hã da te waihuꞌu dzaꞌra tõ da.` Eles atrapalham as pessoas para não aprenderem o bom conselho
 - `Ma tô wawi tsawi wa te upi tõ da` Ele nos proibiu de tocar
 
 ___
@@ -197,7 +247,7 @@ ___
 - `ĩ̱waptãꞌãdzé` lugar onde eu nasci / época em que eu nasci
 - `ĩtsõrédzé` revista (coisa de ler)
 - `dawaptãꞌãdzé` lugar de nascimento
-- `dawededzé` hospital (local que se medica) 
+- `dawededzé` hospital (local que se medica)
 - `datsiwaihuꞌudzé` amizade (transforma a ação de fazer amigos, em um substantivo)
 - `rotsaꞌratadzé` pensamento (o que se pensa)
 - `roꞌbrudzé` governo (coisa que manda em tudo)
@@ -220,10 +270,10 @@ ___
 
 ### 18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética
 
-- `E niha ĩromnhorédzé ĩhöiwarobo na.` Como se estuda a Bíblia? 
+- `E niha ĩromnhorédzé ĩhöiwarobo na.` Como se estuda a Bíblia?
 - `E niha dahöimanadzé Ropotoꞌwa nhimiroti dzarina.` Como viver / Como se vive segundo os conselhos de Deus.
-- `E niha ropire nherẽ rowẽ na dahöimanadzé.` Como ficar / Como se fica em paz apesar dos problemas? 
-- `Ĩhöiꞌrédzé` Revela-se 
+- `E niha ropire nherẽ rowẽ na dahöimanadzé.` Como ficar / Como se fica em paz apesar dos problemas?
+- `Ĩhöiꞌrédzé` Revela-se
 - `Ĩꞌuipradzé` Compra-se
 - `Ĩna ꞌmahörödzé hã Maria na.` Sua mãe chamava-se Maria.
 
@@ -253,9 +303,9 @@ ___
 
 ## 22. Suposição, irrealidade: _newa_
 Indica eventos não realizados, que se supõe que deveria ter acontecido, mas não aconteceu de fato. Também diga um fingimento, se passando por algo que não é.
-- `Buru u, aimorĩ newa, te atsã.` Parecia que você tinha ido, mas você está aqui. 
+- `Buru u, aimorĩ newa, te atsã.` Parecia que você tinha ido, mas você está aqui.
 - `Morĩ newa, te nhamra.` Parecia que ele tinha ido, (mas) ele está aqui.
-- `te ãma rotsaꞌrata dzaꞌra, tsima to na te te tãma nharĩ dzaꞌra newa.` Eles pensaram que ele estava fingindo falar com eles com brincadeira. (Gê 19:14) 
+- `te ãma rotsaꞌrata dzaꞌra, tsima to na te te tãma nharĩ dzaꞌra newa.` Eles pensaram que ele estava fingindo falar com eles com brincadeira. (Gê 19:14)
 
 ___
 
@@ -275,7 +325,7 @@ ___
 - `wa te ꞌre romhuri waihuꞌu petse dzaꞌra mono di` nós temos conseguido trabalhar
 - `wa ĩ̱tsima wẽ te te romhuri waihuꞌu petse da` eu quero que ele consiga trabalhar
 
-### Negativo, não ter capaciade: _waihuꞌu õ di_ 
+### Negativo, não ter capaciade: _waihuꞌu õ di_
 
 - `te romhuri waihuꞌu õ di` eu não consigo trabalhar
 - `te romhuri waihuꞌu ãna` sem eu conseguir trabalhar
@@ -313,7 +363,7 @@ De forma simples, liga um substantivo e um verbo (ao invés de ligar dois verbos
 > As frases restringem quem vai se salvar, apenas "o que escuta meu conselho"
 
 - `Ĩhöiwarobo te te ĩ̱ma ĩtsõmri hã wẽ uptabi di` O livro que ele me deu é ótimo.
-> Note que foi especificado qual o livro que é bom. Não são todos os livros bons, apenas o livro "que ele me deu" `te te ĩ̱ma ĩtsõmri` 
+> Note que foi especificado qual o livro que é bom. Não são todos os livros bons, apenas o livro "que ele me deu" `te te ĩ̱ma ĩtsõmri`
 
 - `Robduri wa te ĩꞌuipra dzaꞌra hã ma tô rowmnarĩ ni` O carro que compramos foi estragado.
 
@@ -321,7 +371,7 @@ De forma simples, liga um substantivo e um verbo (ao invés de ligar dois verbos
 
 - `Ĩ̱ma ĩpitsutu dzaꞌra hã te ꞌmanhimini õ di` Não perdi nenhum dos que você escolheu para mim.
 
-### Qual está certo? `te te ĩnharĩ hã` ou `te tinha` ?
+### Qual está certo? _te te ĩnharĩ hã_ ou _te tinha_?
 
 Qual a diferença entre estas frases em português?
 A. E que João disse assim.
@@ -333,7 +383,7 @@ Vamos analisá-las e ver um exemplo em xavante:
 
 **A. E que João disse assim.**
 
-> Esta frase é usada em um contexto onde há uma continuidade de uma frase anterior. O "que" funciona como um conectivo que dá uma sensação de continuidade e ênfase. Na frase abaixo conectar os verbos "ver" da primeira frase com o "falar" da segunda. 
+> Esta frase é usada em um contexto onde há uma continuidade de uma frase anterior. O "que" funciona como um conectivo que dá uma sensação de continuidade e ênfase. Na frase abaixo conectar os verbos "ver" da primeira frase com o "falar" da segunda.
 
 - `Wa tô ꞌmadö we ĩmorĩ na, duré ãne João te te ĩnharĩ na: ...` Eu vi que ele veio, e que João falou assim: ...
 
@@ -369,14 +419,14 @@ Vamos analisá-las e ver um exemplo em xavante:
 
 - `niꞌwam norĩ hã ma tô duré nharĩ dzaꞌra, höiwa hawi romhuriꞌwa Jesus ma, we te te ĩnharĩ na hã.` Outros também disseram que um anjo veio falar com Jesus. (João 12:29)
 
-- `wa tô duré wapa, damreme höiba amo hã höiwa hawi te te ĩnharĩ hã. Ãne te tinha:` Eu também ouvi uma outra voz que falava desde o céu. Assim ela diz: (Ap 18:4) 
+- `wa tô duré wapa, damreme höiba amo hã höiwa hawi te te ĩnharĩ hã. Ãne te tinha:` Eu também ouvi uma outra voz que falava desde o céu. Assim ela diz: (Ap 18:4)
 
 ___
 
 ## 28. Agradável, prazeroso: _dze ti_
 
-- `Tahã mreme wapari dze ti` Essa palavra é agradável de ouvir 
-- `romhuri dze ti` o trabalho é agradável 
+- `Tahã mreme wapari dze ti` Essa palavra é agradável de ouvir
+- `romhuri dze ti` o trabalho é agradável
 - `ꞌmadöꞌö dze ti` é agradável de ver / é bonito de aparência
 - `Robdzanhamrĩ dzei õ di` Conversar não é agradável (não quero conversar)
 - `wa te romhuri dze dzaꞌra di` nós gostamos de trabalhar
@@ -387,7 +437,7 @@ ___
 
 - `wapari a di` estar cansado de ouvir, sem vontade
 - `ĩ̱morĩ a di` estou sem vontade de ir
-- `marĩ da te ꞌre ĩwapari a dzaꞌra mono ne...` assim como algo que é desagradável para as pessoas ficarem ouvindo... 
+- `marĩ da te ꞌre ĩwapari a dzaꞌra mono ne...` assim como algo que é desagradável para as pessoas ficarem ouvindo...
 
 ___
 
