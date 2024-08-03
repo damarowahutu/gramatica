@@ -8,9 +8,9 @@
    2. [Diálogo](conteudo/introducao/dialogo/index.md)
 5. [Substantivos](conteudo/substantivos/index.md)
 6. Pronomes
-   1. [Pronomes pessoais](conteudo/pronomesPessoais/index.md)
-   2. Pronomes indefinidos ni'wa, niwa, marĩ
-   3. [Pronomes demonstrativos](conteudo/pronomesDemonstrativos/index.md)
+   1. [Pronomes pessoais](conteudo/pronomes/pronomesPessoais/index.md)
+   2. [Pronomes indefinidos](conteudo/pronomes/pronomesIndefinidos/index.md)
+   3. [Pronomes demonstrativos](conteudo/pronomes/pronomesDemonstrativos/index.md)
 7. [Verbo *ser* invisível](conteudo/verboSerInvisivel/index.md)
     1. [Verbo ser invisível (futuro/passado)](conteudo/verboSerInvisivel/index.md)
 8. Verbos de 2º classe no indicativo
