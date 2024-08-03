@@ -30,10 +30,10 @@
     1. [Direto](conteudo/objeto/direto/index.md)
     2. [Indireto](conteudo/objeto/indireto/index.md)
     3. Posposições de objetos indiretos
-       1. [dawi](conteudo/objeto/posposicoes/wi/index.md)
-       2. [dama](conteudo/objeto/posposicoes/ma/index.md)
-       3. [dadzô](conteudo/objeto/posposicoes/dzo/index.md)
-       4. datẽme
+       1. [dawi](conteudo/objeto/posposicoes/dawi/index.md)
+       2. [dama](conteudo/objeto/posposicoes/dama/index.md)
+       3. [dadzô](conteudo/objeto/posposicoes/dadzo/index.md)
+       4. [datẽme](conteudo/objeto/posposicoes/dateme/index.md)
        5. daꞌwawi
        6. daꞌãma
        7. datsina
