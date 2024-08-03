@@ -1,11 +1,16 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Modificadores](#modificadores)
-    * [COnjugação](#conjugacao)
+    * [Conjugação Padrão](#conjugacao-padrao)
+        + [Verbos de 2º classe](#verbos-de-2-classe)
+        + [Verbos de 1º classe](#verbos-de-1-classe)
     * [1. Negação: _õ di_](#1-negacao-o-di)
+        + [1(a). Negativo passado](#1a-negativo-passado)
+        + [1(b). Negativo futuro](#1b-negativo-futuro)
     * [2. Sem: _ãna_](#2-sem-ana)
     * [3. Em busca resposta sim ou não: _dzô_](#3-em-busca-resposta-sim-ou-nao-dzo)
     * [4. Objetivo, ser: _da_](#4-objetivo-ser-da)
+        + [4(b). Objetivo negativo, não ser: _tõ da_](#4b-objetivo-negativo-nao-ser-to-da)
     * [5. Objetivo único: _da tsi_](#5-objetivo-unico-da-tsi)
     * [6. Se, quando, casualidade: _wamhã_](#6-se-quando-casualidade-wamha)
     * [7. Somente quando: _waptsi_](#7-somente-quando-waptsi)
@@ -20,15 +25,22 @@
     * [16. Dever, obrigação: _ĩ[verbo] da tsi_](#16-dever-obrigacao-iverbo-da-tsi)
     * [17. De acordo com, conforme: _dzarina_](#17-de-acordo-com-conforme-dzarina)
     * [18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasiao-iverbo-dze)
+        + [18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”](#18a-indica-instrumento-tempo-ou-lugar-da-acao-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-lingua-portuguesa-mento)
+        + [18(b). Indica onde (em que, no qual) a ação é realizada (pronome interrogativo/conjunção)](#18b-indica-onde-em-que-no-qual-a-acao-e-realizada-pronome-interrogativoconjuncao)
+        + [18(c). Indica quando a ação é realizada](#18c-indica-quando-a-acao-e-realizada)
+        + [18(d). Indica aquilo que, o que é realizado](#18d-indica-aquilo-que-o-que-e-realizado)
+        + [18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica)
     * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-re)
     * [20. Enquanto (sujeitos iguais): _tsina_](#20-enquanto-sujeitos-iguais-tsina)
     * [21. Comparação: _ĩ[verbo] ne_](#21-comparacao-iverbo-ne)
     * [22. Suposição, irrealidade: _newa_](#22-suposicao-irrealidade-newa)
     * [23. Futuro do pretérito (se tivesse...): _waꞌöhã_](#23-futuro-do-preterito-se-tivesse-waoha)
     * [24. Capacidade, conseguir fazer: _waihuꞌu petse di_](#24-capacidade-conseguir-fazer-waihuu-petse-di)
+        + [Negativo, não ter capaciade: _waihuꞌu õ di_](#negativo-nao-ter-capaciade-waihuu-o-di)
     * [25. Grupo de sujeitos: _ĩ[verbo] norĩ_](#25-grupo-de-sujeitos-iverbo-nori)
     * [26. Conjunção: _ĩ[verbo] na_](#26-conjuncao-iverbo-na)
     * [27. Pronome relativo: _ĩ[verbo]_](#27-pronome-relativo-iverbo)
+        + [Qual está certo? _te te ĩnharĩ hã_ ou _te tinha_?](#qual-esta-certo-te-te-inhari-ha-ou-te-tinha)
     * [28. Agradável, prazeroso: _dze ti_](#28-agradavel-prazeroso-dze-ti)
     * [29. Desagradável, indesejável: _a di_](#29-desagradavel-indesejavel-a-di)
     * [30. Significado oposto ou irônico: _bö_](#30-significado-oposto-ou-ironico-bo)
@@ -42,9 +54,10 @@
 
 Conjugue o verbo usando a tabela do infinitivo e coloque o modificador no final da locução para passar o sentido desejado. Alguns modificadores exigem que se prefixe algo ao verbo, ou que se use um advérbio (após o verbo).
 
-<!-- TOC --><a id="conjugacao"></a>
+<!-- TOC --><a id="conjugacao-padrao"></a>
 ## Conjugação Padrão
 
+<!-- TOC --><a id="verbos-de-2-classe"></a>
 ### Verbos de 2º classe
 
 ```text
@@ -107,6 +120,7 @@ te te [prefixo][verbo] [advérbio] dzaꞌra [modificador]
 te te          pitsutu   waihuꞌu   dzaꞌra õ di
 ```
 
+<!-- TOC --><a id="verbos-de-1-classe"></a>
 ### Verbos de 1º classe
 
 Segue um exemplo de conjugação usando um verbo de 1º classe do tipo A
@@ -149,11 +163,13 @@ wahöimana   waihuꞌu  dzaꞌra õ di
 - `wa te wapari dzaꞌra õ di` nós não escutamos
 - `da te romhuri tsadaihuꞌu dzaꞌra õ di ` as pessoas não entendem
 
+<!-- TOC --><a id="1a-negativo-passado"></a>
 ### 1(a). Negativo passado
 
 - `te romhuri õ di aré` eu não trabalhei
 - `te te ꞌre romhuri mono õ di aré` ele não trabalhava
 
+<!-- TOC --><a id="1b-negativo-futuro"></a>
 ### 1(b). Negativo futuro
 
 - `te romhuri õ di dza` eu não trabalharei
@@ -191,6 +207,7 @@ ___
 - `ma tô ĩ̱ma time ĩropodo te ꞌmadöꞌö da.` ele me enviou o vídeo para eu ver
 - `te dza wapawaptob dzaꞌra rowẽ na ꞌre wahöimana dzaꞌra mono da` ele nos ajudará a vivermos em paz
 
+<!-- TOC --><a id="4b-objetivo-negativo-nao-ser-to-da"></a>
 ### 4(b). Objetivo negativo, não ser: _tõ da_
 
 - `Ãne ꞌmanharĩ marĩ te te aiwi roꞌwaꞌrutu tõ da` Faça assim para nada de atrapalhar
@@ -288,6 +305,7 @@ ___
 <!-- TOC --><a id="18-coisa-lugar-ocasiao-iverbo-dze"></a>
 ## 18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_
 
+<!-- TOC --><a id="18a-indica-instrumento-tempo-ou-lugar-da-acao-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-lingua-portuguesa-mento"></a>
 ### 18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”
 
 - `ĩwamrodzé` vassoura (coisa de varrer)
@@ -300,14 +318,17 @@ ___
 - `roꞌbrudzé` governo (coisa que manda em tudo)
 > Note que os verbos que começam com `ro` e `da` geralmente não prefixam o `ĩ`.
 
+<!-- TOC --><a id="18b-indica-onde-em-que-no-qual-a-acao-e-realizada-pronome-interrogativoconjuncao"></a>
 ### 18(b). Indica onde (em que, no qual) a ação é realizada (pronome interrogativo/conjunção)
 
 - `Aꞌuwẽ ãma hã, öi ba, datsiꞌuptsõdzéb da hã.` Entre nos xavantes, o rio, é lugar para lavar-se.
 
+<!-- TOC --><a id="18c-indica-quando-a-acao-e-realizada"></a>
 ### 18(c). Indica quando a ação é realizada
 
 - `Jesus Lázaro te te ĩhöiwaꞌutudzé watsuꞌu` A história de quando Jesus ressuscitou Lázaro
 
+<!-- TOC --><a id="18d-indica-aquilo-que-o-que-e-realizado"></a>
 ### 18(d). Indica aquilo que, o que é realizado
 
 - `E tsadaihuꞌu petse di te aima ĩnharĩdzé.` Você conseguiu entender o que eu disse para você?
@@ -315,6 +336,7 @@ ___
 - `Wa te ĩwaihuꞌu dzaꞌra dzé.` O que aprendemos / Aquilo que aprendemos. (afirmação, diferente da pergunta `E marĩ, wa tô waihuꞌu dzaꞌra.` O que aprendemos?)
 - `Wa tô ꞌmanha te te tsima ĩwẽ dzaꞌra dzé hã` Eu fiz o desejo deles (aquilo que eles desejavam)
 
+<!-- TOC --><a id="18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica"></a>
 ### 18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética
 
 - `E niha ĩromnhorédzé ĩhöiwarobo na.` Como se estuda a Bíblia?
@@ -378,6 +400,7 @@ ___
 - `wa te ꞌre romhuri waihuꞌu petse dzaꞌra mono di` nós temos conseguido trabalhar
 - `wa ĩ̱tsima wẽ te te romhuri waihuꞌu petse da` eu quero que ele consiga trabalhar
 
+<!-- TOC --><a id="negativo-nao-ter-capaciade-waihuu-o-di"></a>
 ### Negativo, não ter capaciade: _waihuꞌu õ di_
 
 - `te romhuri waihuꞌu õ di` eu não consigo trabalhar
@@ -427,6 +450,7 @@ De forma simples, liga um substantivo e um verbo (ao invés de ligar dois verbos
 
 - `Ĩ̱ma ĩpitsutu dzaꞌra hã te ꞌmanhimini õ di` Não perdi nenhum dos que você escolheu para mim.
 
+<!-- TOC --><a id="qual-esta-certo-te-te-inhari-ha-ou-te-tinha"></a>
 ### Qual está certo? _te te ĩnharĩ hã_ ou _te tinha_?
 
 Qual a diferença entre estas frases em português?
