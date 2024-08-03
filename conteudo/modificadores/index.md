@@ -1,58 +1,51 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Modificadores](#modificadores)
-    * [Padrão](#padrão)
-    * [1. Negação: _õ di_](#1-negação-õ-di)
-        + [1(a). Negativo passado](#1a-negativo-passado)
-        + [1(b). Negativo futuro](#1b-negativo-futuro)
-    * [2. Sem: _ãna_](#2-sem-ãna)
-    * [3. Em busca / resposta sim ou não: _dzô_](#3-em-busca-resposta-sim-ou-não-dzô)
+    * [COnjugação](#conjugacao)
+    * [1. Negação: _õ di_](#1-negacao-o-di)
+    * [2. Sem: _ãna_](#2-sem-ana)
+    * [3. Em busca resposta sim ou não: _dzô_](#3-em-busca-resposta-sim-ou-nao-dzo)
     * [4. Objetivo, ser: _da_](#4-objetivo-ser-da)
-        + [4(b). Objetivo negativo, não ser: _tõ da_](#4b-objetivo-negativo-não-ser-tõ-da)
-    * [5. Objetivo único: _da tsi_](#5-objetivo-único-da-tsi)
-    * [6. Se, quando, casualidade: _wamhã_](#6-se-quando-casualidade-wamhã)
+    * [5. Objetivo único: _da tsi_](#5-objetivo-unico-da-tsi)
+    * [6. Se, quando, casualidade: _wamhã_](#6-se-quando-casualidade-wamha)
     * [7. Somente quando: _waptsi_](#7-somente-quando-waptsi)
-    * [8. Depois: _parimhã_](#8-depois-parimhã)
+    * [8. Depois: _parimhã_](#8-depois-parimha)
     * [8. Somente depois: _pariptsi_](#8-somente-depois-pariptsi)
-    * [10. Antes: _wana ré_](#10-antes-wana-ré)
-    * [11. Apesar, mesmo: _nherẽ_](#11-apesar-mesmo-nher)
+    * [10. Antes: _wana ré_](#10-antes-wana-re)
+    * [11. Apesar, mesmo: _nherẽ_](#11-apesar-mesmo-nhere)
     * [12. Motivo: _wa_](#12-motivo-wa)
     * [13. Motivo sentimental: _te_](#13-motivo-sentimental-te)
-    * [14. Por causa: _uꞌöbö_](#14-por-causa-uꞌöbö)
-    * [15. Através, por meio: _hawi_](#15-através-por-meio-hawi)
-    * [16. Dever, obrigação: _ĩ[verbo] da tsi_](#16-dever-obrigação-verbo-da-tsi)
+    * [14. Por causa: _uꞌöbö_](#14-por-causa-uobo)
+    * [15. Através, por meio: _hawi_](#15-atraves-por-meio-hawi)
+    * [16. Dever, obrigação: _ĩ[verbo] da tsi_](#16-dever-obrigacao-iverbo-da-tsi)
     * [17. De acordo com, conforme: _dzarina_](#17-de-acordo-com-conforme-dzarina)
-    * [18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasião-verbo-dzé)
-        + [18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”](#18a-indica-instrumento-tempo-ou-lugar-da-ação-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-língua-portuguesa-mento)
-        + [18(b). Indica onde (em que/no qual) a ação é realizada (pronome interrogativo/conjunção)](#18b-indica-onde-em-queno-qual-a-ação-é-realizada-pronome-interrogativoconjunção)
-        + [18(c). Indica quando a ação é realizada](#18c-indica-quando-a-ação-é-realizada)
-        + [18(d). Indica aquilo que / o que é realizado](#18d-indica-aquilo-que-o-que-é-realizado)
-        + [18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oração-sem-sujeito-voz-passiva-sintética)
-    * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-ré)
+    * [18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasiao-iverbo-dze)
+    * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-re)
     * [20. Enquanto (sujeitos iguais): _tsina_](#20-enquanto-sujeitos-iguais-tsina)
-    * [21. Comparação: _ĩ[verbo] ne_](#21-comparação-verbo-ne)
-    * [22. Suposição, irrealidade: _newa_](#22-suposição-irrealidade-newa)
-    * [23. Futuro do pretérito (se tivesse...): _waꞌöhã_](#23-futuro-do-pretérito-se-tivesse-waꞌöhã)
-    * [24. Capacidade, conseguir fazer: _waihuꞌu petse di_](#24-capacidade-conseguir-fazer-waihuꞌu-petse-di)
-        + [Negativo, não ter capaciade: _waihuꞌu õ di_ ](#negativo-não-ter-capaciade-waihuꞌu-õ-di)
-    * [25. Grupo de sujeitos: _ĩ[verbo] norĩ_](#25-grupo-de-sujeitos-verbo-nor)
-    * [26. Conjunção:  _ĩ[verbo] na_](#26-conjunção-verbo-na)
-    * [27. Pronome relativo: _ĩ[verbo]_](#27-pronome-relativo-verbo)
-        + [Qual está certo? _te te ĩnharĩ hã_ ou _te tinha_?](#qual-está-certo-te-te-nhar-hã-ou-te-tinha)
-            - [Outros exemplos](#outros-exemplos)
-    * [28. Agradável, prazeroso: _dze ti_](#28-agradável-prazeroso-dze-ti)
-    * [29. Desagradável, indesejável: _a di_](#29-desagradável-indesejável-a-di)
-    * [30. Significado oposto ou irônico: _bö_](#30-significado-oposto-ou-irônico-bö)
-    * [31. Possibilidade: _õꞌumnhatsite_](#31-possibilidade-õꞌumnhatsite)
-    * [32. Um depois do outro, em cada, a medida que: _tsidöpötsi_](#32-um-depois-do-outro-em-cada-a-medida-que-tsidöpötsi)
+    * [21. Comparação: _ĩ[verbo] ne_](#21-comparacao-iverbo-ne)
+    * [22. Suposição, irrealidade: _newa_](#22-suposicao-irrealidade-newa)
+    * [23. Futuro do pretérito (se tivesse...): _waꞌöhã_](#23-futuro-do-preterito-se-tivesse-waoha)
+    * [24. Capacidade, conseguir fazer: _waihuꞌu petse di_](#24-capacidade-conseguir-fazer-waihuu-petse-di)
+    * [25. Grupo de sujeitos: _ĩ[verbo] norĩ_](#25-grupo-de-sujeitos-iverbo-nori)
+    * [26. Conjunção: _ĩ[verbo] na_](#26-conjuncao-iverbo-na)
+    * [27. Pronome relativo: _ĩ[verbo]_](#27-pronome-relativo-iverbo)
+    * [28. Agradável, prazeroso: _dze ti_](#28-agradavel-prazeroso-dze-ti)
+    * [29. Desagradável, indesejável: _a di_](#29-desagradavel-indesejavel-a-di)
+    * [30. Significado oposto ou irônico: _bö_](#30-significado-oposto-ou-ironico-bo)
+    * [31. Possibilidade: _õꞌumnhatsite_](#31-possibilidade-oumnhatsite)
+    * [32. Um depois do outro, em cada, a medida que: _tsidöpötsi_](#32-um-depois-do-outro-em-cada-a-medida-que-tsidopotsi)
 
 <!-- TOC end -->
 
+<!-- TOC --><a id="modificadores"></a>
 # Modificadores
 
 Conjugue o verbo usando a tabela do infinitivo e coloque o modificador no final da locução para passar o sentido desejado. Alguns modificadores exigem que se prefixe algo ao verbo, ou que se use um advérbio (após o verbo).
 
-## Padrão
+<!-- TOC --><a id="conjugacao"></a>
+## Conjugação Padrão
+
+### Verbos de 2º classe
 
 ```text
    te [verbo] [modificador]
@@ -69,15 +62,19 @@ te te [verbo] dzaꞌra [modificador]
 
 da te [verbo] dzaꞌra [modificador]
 
-[substantivo] [modificador]
 ```
+
 Exemplo com modificador `parimhã`
 ```text
 te te [verbo] dzaꞌra [modificador] 
 te te pitsutu dzaꞌra parimhã
+```
 
+Pode ser usado também com substantivos usando este padrão conforme o exemplo usando o modificador `parimhã`
+
+```
 [substantivo] [modificador]
- datsiꞌrãꞌõtõ     parimhã
+datsiꞌrãꞌõtõ     parimhã
 ```
 
 Alguns modificadores exigem o uso de prefixos e/ou advérbios para dar o sentido correto. Esta é a posição destes complementos:
@@ -100,18 +97,51 @@ da te [prefixo][verbo] [advérbio] dzaꞌra [modificador]
 
 Um exemplo com prefixo `ĩ` e modificador `dzé`:
 ```text
-`te te [prefixo][verbo] [advérbio] dzaꞌra [modificador]`
-`te te         ĩpitsutu            dzaꞌra dzé`
+te te [prefixo][verbo] [advérbio] dzaꞌra [modificador]
+te te         ĩpitsutu            dzaꞌra dzé
 ```
 
 Um exemplo com advérbio `waihuꞌu` e modificador `õ di`:
 ```text
-`te te [prefixo][verbo] [advérbio] dzaꞌra [modificador]`
-`te te          pitsutu   waihuꞌu   dzaꞌra õ di`
+te te [prefixo][verbo] [advérbio] dzaꞌra [modificador]
+te te          pitsutu   waihuꞌu   dzaꞌra õ di
 ```
+
+### Verbos de 1º classe
+
+Segue um exemplo de conjugação usando um verbo de 1º classe do tipo A
+
+```text
+  ĩ̱[verbo] [modificador
+ai/a[verbo] [modificador]
+    [verbo] [modificador]
+
+  wa[verbo] [modificador]
+ai/a[verbo] aba/waꞌaba [modificador]
+    [verbo] dzahuré [modificador]
+
+  wa[verbo] dzaꞌra [modificador]
+ai/a[verbo] dzaꞌra waꞌaba [modificador]
+    [verbo] dzaꞌra [modificador]
+```
+
+Exemplos com a 1ª pessoa do plural:
+
+```text
+wa[verbo] dzaꞌra [modificador]
+wahöimana dzaꞌra õ di
+
+wa[verbo] [advérbio] dzaꞌra [modificador]
+wahöimana   waihuꞌu  dzaꞌra õ di
+
+[prefixo]wa[verbo] dzaꞌra [modificador]
+        ĩwahöimana dzaꞌra da tsi
+```
+
 
 ---
 
+<!-- TOC --><a id="1-negacao-o-di"></a>
 ## 1. Negação: _õ di_
 
 - `te romhuri õ di` eu não trabalho
@@ -131,13 +161,15 @@ Um exemplo com advérbio `waihuꞌu` e modificador `õ di`:
 
 ---
 
+<!-- TOC --><a id="2-sem-ana"></a>
 ## 2. Sem: _ãna_
 
 - `te romhuri ãna` sem eu trabalhar
 
 ___
 
-## 3. Em busca / resposta sim ou não: _dzô_
+<!-- TOC --><a id="3-em-busca-resposta-sim-ou-nao-dzo"></a>
+## 3. Em busca resposta sim ou não: _dzô_
 
 Usado para indicar que foi em busca de algo
 - `ma tô mo öi ba peꞌa dzô` foi ao rio em busca de peixe
@@ -150,6 +182,7 @@ Usado quando a resposta é sim ou não
 
 ___
 
+<!-- TOC --><a id="4-objetivo-ser-da"></a>
 ## 4. Objetivo, ser: _da_
 
 - `wa ĩ̱tsima wẽ te aipawaptob da` eu quero te ajudar
@@ -166,6 +199,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="5-objetivo-unico-da-tsi"></a>
 ## 5. Objetivo único: _da tsi_
 
 - `wa ꞌre ĩ̱höimana te romhuri da tsi` Eu vivo só para trabalhar
@@ -173,6 +207,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="6-se-quando-casualidade-wamha"></a>
 ## 6. Se, quando, casualidade: _wamhã_
 - `te aiꞌmadöꞌö wamhã, wa dza aima tinha` Se te ver, te direi
 - `wa te aiꞌmadöꞌö dzaꞌra õ wamhã, watsiꞌabaꞌré õ di dza` Se não te vermos, não iremos
@@ -180,65 +215,77 @@ ___
 
 ___
 
+<!-- TOC --><a id="7-somente-quando-waptsi"></a>
 ## 7. Somente quando: _waptsi_
 - `wei ĩmorĩ na te ꞌmadöꞌö waptsi, wa tô tsadaihuꞌu` Só quando eu vi que ele veio, eu entendi
 
 ___
 
+<!-- TOC --><a id="8-depois-parimha"></a>
 ## 8. Depois: _parimhã_
 - `wei ĩmorĩ na te ꞌmadöꞌö parimhã, wa tô tsadaihuꞌu` Depois de ver que ele veio, eu entendi
 
 ___
 
+<!-- TOC --><a id="8-somente-depois-pariptsi"></a>
 ## 8. Somente depois: _pariptsi_
 - `wei ĩmorĩ na te ꞌmadöꞌö pariptsi, wa tô tsadaihuꞌu` Só depois de ver que ele veio, eu entendi
 
 ___
 
+<!-- TOC --><a id="10-antes-wana-re"></a>
 ## 10. Antes: _wana ré_
 - `wei ĩmorĩ na te ꞌmadöꞌö wana ré, wa tô tsadaihuꞌu` Antes de ver que ele veio, eu entendi
 
 ___
 
+<!-- TOC --><a id="11-apesar-mesmo-nhere"></a>
 ## 11. Apesar, mesmo: _nherẽ_
 - `wei ĩmorĩ na te ꞌmadöꞌö nherẽ, wa tô tsadaihuꞌu` Apesar de ver que ele veio, eu entendi
 
 ___
 
+<!-- TOC --><a id="12-motivo-wa"></a>
 ## 12. Motivo: _wa_
 - `E marĩ wa, ma tô ĩtsadaihu. - Wa tô tsadaihuꞌu te te ĩ̱ma tsõre wa` Por que você entendeu? - Eu entendi porque ele leu para mim.
 
 ___
 
+<!-- TOC --><a id="13-motivo-sentimental-te"></a>
 ## 13. Motivo sentimental: _te_
 - `robdzei õ te, te tiwawa` Ele chora por estar triste
 - `ĩ̱ma aipahi te, te aiwawa` Por estar com medo de mim, você chora
 
 ___
 
+<!-- TOC --><a id="14-por-causa-uobo"></a>
 ## 14. Por causa: _uꞌöbö_
 - `ĩtsimidzadze uꞌöbö, ma tô tsiwi titsẽ dadzadzéb ꞌre` por causa de sua religião, eles o colocaram na prisão
 - `niꞌwa hã aiwatsédé te te aiꞌãma hiri aba tõ ... ĩhöꞌrẽne aba uꞌöbö` Que ninguém de condene por causa do que (pelo que) você bebe.
 
 ___
 
+<!-- TOC --><a id="15-atraves-por-meio-hawi"></a>
 ## 15. Através, por meio: _hawi_
 - `datsiꞌrãꞌõno rowaꞌuꞌu hawi` reunião online (através da internet)
 - `te te ĩꞌaipawaptobdzéb hawi, te duré ĩ̱pawapto` Através da ajuda que ele te dá, ele também me ajuda
 
 ___
 
+<!-- TOC --><a id="16-dever-obrigacao-iverbo-da-tsi"></a>
 ## 16. Dever, obrigação: _ĩ[verbo] da tsi_
 - `te te ĩromhuri dzaꞌra da tsi` eles devem trabalhar
 
 ___
 
+<!-- TOC --><a id="17-de-acordo-com-conforme-dzarina"></a>
 ## 17. De acordo com, conforme: _dzarina_
 - `te te ĩ̱ma nharĩ dzarina, wa ꞌmanha` Conforme ele me diz, eu faço
 - `te te ĩ̱ma ĩnharĩdzéb dzarina, wa dza ꞌmanha` De acordo com o que ele me diz, eu farei
 
 ___
 
+<!-- TOC --><a id="18-coisa-lugar-ocasiao-iverbo-dze"></a>
 ## 18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_
 
 ### 18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”
@@ -253,7 +300,7 @@ ___
 - `roꞌbrudzé` governo (coisa que manda em tudo)
 > Note que os verbos que começam com `ro` e `da` geralmente não prefixam o `ĩ`.
 
-### 18(b). Indica onde (em que/no qual) a ação é realizada (pronome interrogativo/conjunção)
+### 18(b). Indica onde (em que, no qual) a ação é realizada (pronome interrogativo/conjunção)
 
 - `Aꞌuwẽ ãma hã, öi ba, datsiꞌuptsõdzéb da hã.` Entre nos xavantes, o rio, é lugar para lavar-se.
 
@@ -261,7 +308,7 @@ ___
 
 - `Jesus Lázaro te te ĩhöiwaꞌutudzé watsuꞌu` A história de quando Jesus ressuscitou Lázaro
 
-### 18(d). Indica aquilo que / o que é realizado
+### 18(d). Indica aquilo que, o que é realizado
 
 - `E tsadaihuꞌu petse di te aima ĩnharĩdzé.` Você conseguiu entender o que eu disse para você?
 - `Wa dza watsipoꞌre pu'u dzaꞌra ni wa te ĩwaihuꞌu dzaꞌra dzém na hã rowahutu ré` Vamos relembrar o que nós aprendemos no discurso.
@@ -279,6 +326,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="19-enquanto-sujeitos-diferentes-re"></a>
 ## 19. Enquanto (sujeitos diferentes): _ré_
 - `Morĩ ré, ma tô waptãrã, ĩ'ra hã.` Enquanto ele foi, nasceu o seu filho.
 - `Wa dza aipawaptob datsi'rã'õtõ ré hã` Vou te ajudar durante a reunião.
@@ -286,6 +334,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="20-enquanto-sujeitos-iguais-tsina"></a>
 ## 20. Enquanto (sujeitos iguais): _tsina_
 
 - `Morĩ tsina, te tiwawa.` Indo, ele chorava.
@@ -293,6 +342,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="21-comparacao-iverbo-ne"></a>
 ## 21. Comparação: _ĩ[verbo] ne_
 - `Ĩ̠mama ne, ĩ̱'ubu hã.` Meu rosto parece o do meu pai.
 - `'manharĩ ĩ̱tsine` faça como eu
@@ -301,6 +351,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="22-suposicao-irrealidade-newa"></a>
 ## 22. Suposição, irrealidade: _newa_
 Indica eventos não realizados, que se supõe que deveria ter acontecido, mas não aconteceu de fato. Também diga um fingimento, se passando por algo que não é.
 - `Buru u, aimorĩ newa, te atsã.` Parecia que você tinha ido, mas você está aqui.
@@ -309,6 +360,7 @@ Indica eventos não realizados, que se supõe que deveria ter acontecido, mas n�
 
 ___
 
+<!-- TOC --><a id="23-futuro-do-preterito-se-tivesse-waoha"></a>
 ## 23. Futuro do pretérito (se tivesse...): _waꞌöhã_
 Expressa o sentido do subjuntivo pretérito imperfeito, a oração no indicativo precisa usar o `aré`.
 - `we morĩ 'wa'öhã, wa aré tsatõ` se ele tivesse vindo, eu o teria mandado embora
@@ -318,6 +370,7 @@ Expressa o sentido do subjuntivo pretérito imperfeito, a oração no indicativo
 
 ___
 
+<!-- TOC --><a id="24-capacidade-conseguir-fazer-waihuu-petse-di"></a>
 ## 24. Capacidade, conseguir fazer: _waihuꞌu petse di_
 
 - `te romhuri waihuꞌu petse di` eu consigo trabalhar
@@ -334,13 +387,15 @@ ___
 
 ___
 
+<!-- TOC --><a id="25-grupo-de-sujeitos-iverbo-nori"></a>
 ## 25. Grupo de sujeitos: _ĩ[verbo] norĩ_
 
 - `Campinápolis ãma te te ĩromhuri dzaꞌra nori hã` Os que trabalham em Campinápolis
 - `Ĩtsimiroti dzarina ꞌre ĩhöimana dzaꞌra mono norĩ` Os que vivem de acordo com as leis dele.
 ___
 
-## 26. Conjunção:  _ĩ[verbo] na_
+<!-- TOC --><a id="26-conjuncao-iverbo-na"></a>
+## 26. Conjunção: _ĩ[verbo] na_
 De forma simples, é usado para ligar 2 verbos de duas orações.
 
 - `ĩ̱ma waihuꞌu petse di romhutu na dza ĩ̱ꞌmadöꞌö na apö` sei que em breve vocês me verão novamente
@@ -354,6 +409,7 @@ De forma simples, é usado para ligar 2 verbos de duas orações.
 
 ___
 
+<!-- TOC --><a id="27-pronome-relativo-iverbo"></a>
 ## 27. Pronome relativo: _ĩ[verbo]_
 
 De forma simples, liga um substantivo e um verbo (ao invés de ligar dois verbos). Ele restringe o significado do substantivo, especificando uma qualidade ou situação. O `na` vai aparecer ns posição de modificador apenas se o verbo exigir devido sua regência verbal.
@@ -423,6 +479,7 @@ Vamos analisá-las e ver um exemplo em xavante:
 
 ___
 
+<!-- TOC --><a id="28-agradavel-prazeroso-dze-ti"></a>
 ## 28. Agradável, prazeroso: _dze ti_
 
 - `Tahã mreme wapari dze ti` Essa palavra é agradável de ouvir
@@ -433,6 +490,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="29-desagradavel-indesejavel-a-di"></a>
 ## 29. Desagradável, indesejável: _a di_
 
 - `wapari a di` estar cansado de ouvir, sem vontade
@@ -441,6 +499,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="30-significado-oposto-ou-ironico-bo"></a>
 ## 30. Significado oposto ou irônico: _bö_
 
 - `e niha bö.` como assim?
@@ -452,6 +511,7 @@ ___
 
 ___
 
+<!-- TOC --><a id="31-possibilidade-oumnhatsite"></a>
 ## 31. Possibilidade: _õꞌumnhatsite_
 
 Indica algo que poderia acontecer
@@ -463,6 +523,7 @@ Indica algo que poderia acontecer
 
 ___
 
+<!-- TOC --><a id="32-um-depois-do-outro-em-cada-a-medida-que-tsidopotsi"></a>
 ## 32. Um depois do outro, em cada, a medida que: _tsidöpötsi_
 
 - `'Ri tsidöpötsi, 'ri nhitom na, te 're tsimatsa` Uma após outra as casas ficam fechadas.
