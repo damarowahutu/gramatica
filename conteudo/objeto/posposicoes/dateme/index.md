@@ -8,7 +8,7 @@ Dependendo do contexto indica *para perto de*, *em direção a* alguém ou algo.
 
 ```text
 Singular:
-            ĩ̱tẽme [verbo]
+             ĩ̱tẽme [verbo]
              atẽme [verbo]
             ĩtẽtsô [verbo]
 Dual:
