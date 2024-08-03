@@ -18,6 +18,7 @@
     * [8. Somente depois: _pariptsi_](#8-somente-depois-pariptsi)
     * [10. Antes: _wana ré_](#10-antes-wana-re)
     * [11. Apesar, mesmo: _nherẽ_](#11-apesar-mesmo-nhere)
+      + [11(b). Apesar de não, a menos que, senão: _õ nherẽ_](#11b-apesar-de-nao-a-menos-que-senao-o-nhere)
     * [12. Motivo: _wa_](#12-motivo-wa)
     * [13. Motivo sentimental: _te_](#13-motivo-sentimental-te)
     * [14. Por causa: _uꞌöbö_](#14-por-causa-uobo)
@@ -246,30 +247,56 @@ ___
 
 <!-- TOC --><a id="8-somente-depois-pariptsi"></a>
 ## 8. Somente depois: _pariptsi_
+
 - `wei ĩmorĩ na te ꞌmadöꞌö pariptsi, wa tô tsadaihuꞌu` Só depois de ver que ele veio, eu entendi
 
 ___
 
 <!-- TOC --><a id="10-antes-wana-re"></a>
 ## 10. Antes: _wana ré_
+
 - `wei ĩmorĩ na te ꞌmadöꞌö wana ré, wa tô tsadaihuꞌu` Antes de ver que ele veio, eu entendi
 
 ___
 
 <!-- TOC --><a id="11-apesar-mesmo-nhere"></a>
 ## 11. Apesar, mesmo: _nherẽ_
-- `wei ĩmorĩ na te ꞌmadöꞌö nherẽ, wa tô tsadaihuꞌu` Apesar de ver que ele veio, eu entendi
+
+- `wei ĩmorĩ na te ꞌmadöꞌö nherẽ, wa tô watobro` Apesar de ver que ele veio, eu saí
+- `Uburé ma tô ãne hã wama tiromhöimana dza'ra, wa norĩ hã ai'ãma wapo're tsi'öri dza'ra õ nherẽ` Tudo isso nos sobreveio, apesar de nós não te esquecermos. (Sa 44:17 RZW)
+
+<!-- TOC --><a id="11b-apesar-de-nao-a-menos-que-senao-o-nhere"></a>
+### 11(b). Apesar de não, a menos que, senão: _õ nherẽ_
+
+#### Apesar de não
+
+- `wa dza wapa te tsadaihuꞌu õ nherẽ` vou escutar apesar de eu não entender
+- `Ta hã aima tsawi dza'ra wa'aba di, niwa 'madö'ö dza'ra wa'aba õ nherẽ` Embora (apesar de não) nunca o tenham visto, vocês o amam (1Pe 1:18 RZW)
+
+#### Senão (caso contrário, a não ser, mas sim)
+
+- `Ni'wa hã ĩ̱'ãma 're morĩ õ nherẽ, Ĩ̱mama u hã witsi waihu'u õ di.` Ninguém vem ao Pai senão por mim. (Jo 14:6 RZW)
+
+#### A menos que, Se não (condição: caso não, quando não, se por acaso)
+
+- `Te dza wamna robduri, te te ꞌmadöꞌö wẽ õ nherẽ` Ele vai arruinar o carro, a menos qu cuide bem dele (se não cuidar bem)
+- `Tô tsenai õ nherẽ, niha na dawatsu'u tõ` Lit. Se não for verdade, não fale da pessoa desta forma não dê falso testemunho (Lc 18:20 RZW)
+- `E niha wa dza tsadaihu'u, ni'wa hã te te ãma ĩ̱ma rowatsu'u õ nherẽ.` Como entenderei a menos que alguém me oriente. (se ninguém não me orientar) (At 8:31 RZW)
+- `Da'ãma rowairébédzéb ãma, atsiré hã dama watsu'u watsété tõ, marĩ ãma höimana õ nherẽ.` No tribunal, não acuse seu colega, se não haver nada. (Pr 24:28 RZW)
+- `E maparane a'uwẽ norĩ hã te dza tsiré tineb dzahuré, ãma tsitsadze tsiromo dzahuré õ nherẽ.` Será que dois xavantes viajarão juntos, a menos que tenham se concordado antecipadamente? (Am 3:3 RZW)
 
 ___
 
 <!-- TOC --><a id="12-motivo-wa"></a>
 ## 12. Motivo: _wa_
+
 - `E marĩ wa, ma tô ĩtsadaihu. - Wa tô tsadaihuꞌu te te ĩ̱ma tsõre wa` Por que você entendeu? - Eu entendi porque ele leu para mim.
 
 ___
 
 <!-- TOC --><a id="13-motivo-sentimental-te"></a>
 ## 13. Motivo sentimental: _te_
+
 - `robdzei õ te, te tiwawa` Ele chora por estar triste
 - `ĩ̱ma aipahi te, te aiwawa` Por estar com medo de mim, você chora
 
