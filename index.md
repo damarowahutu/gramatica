@@ -46,7 +46,7 @@
     5. [uꞌötsi](/conteudo/qualificadores/uotsi/index.md)
     6. [danhimiꞌẽ](/conteudo/qualificadores/danhimie/index.md)
     7. pari
-    8. dzadzôri
+    8. dzadzöri
     9. tsirõmo
     10. tsuꞌu
     11. hö
