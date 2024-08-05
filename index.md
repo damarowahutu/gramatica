@@ -37,7 +37,7 @@
        5. daꞌwawi
        6. daꞌãma
        7. datsina
-       8. dadzada
+       8. dadzada    
 12. Qualificadores
     1. [wẽ](conteudo/qualificadores/we/index.md)
     2. [petse](conteudo/qualificadores/petse/index.md)
@@ -69,6 +69,7 @@
     5. Alienável (date robduri) - Passível a troca de dono.
 18. Reflexivo
 19. Mudanças de estado ou ser
+20. [Locução verbal](conteudo/locucaoVerbal/index.md)
 20. Interjeições
     1. bété
     2. maꞌãpé
