@@ -25,12 +25,13 @@
     * [15. Através, por meio: _hawi_](#15-atraves-por-meio-hawi)
     * [16. Dever, obrigação: _ĩ[verbo] da tsi_](#16-dever-obrigacao-iverbo-da-tsi)
     * [17. De acordo com, conforme: _dzarina_](#17-de-acordo-com-conforme-dzarina)
-    * [18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasiao-iverbo-dze)
+    * [18. Coisa, lugar, ocasião, maneira: _ĩ[verbo] dzé_](#18-coisa-lugar-ocasiao-maneira-iverbo-dze)
         + [18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”](#18a-indica-instrumento-tempo-ou-lugar-da-acao-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-lingua-portuguesa-mento)
         + [18(b). Indica onde (em que, no qual) a ação é realizada (pronome interrogativo/conjunção)](#18b-indica-onde-em-que-no-qual-a-acao-e-realizada-pronome-interrogativoconjuncao)
         + [18(c). Indica quando a ação é realizada](#18c-indica-quando-a-acao-e-realizada)
         + [18(d). Indica aquilo que, o que é realizado](#18d-indica-aquilo-que-o-que-e-realizado)
-        + [18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica)
+        + [18(e). Indica a maneira como a ação é feia, o jeito que é feita](#18e-indica-a-maneira-que-a-acao-e-feita-o-jeito-e-feita)
+        + [18(f). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica)
     * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-re)
     * [20. Enquanto (sujeitos iguais): _tsina_](#20-enquanto-sujeitos-iguais-tsina)
     * [21. Comparação: _ĩ[verbo] ne_](#21-comparacao-iverbo-ne)
@@ -329,8 +330,8 @@ ___
 
 ___
 
-<!-- TOC --><a id="18-coisa-lugar-ocasiao-iverbo-dze"></a>
-## 18. Coisa, lugar, ocasião: _ĩ[verbo] dzé_
+<!-- TOC --><a id="18-coisa-lugar-ocasiao-maneira-iverbo-dze"></a>
+## 18. Coisa, lugar, ocasião, maneira: _ĩ[verbo] dzé_
 
 <!-- TOC --><a id="18a-indica-instrumento-tempo-ou-lugar-da-acao-lugar-onde-se-faz-ou-coisa-com-que-se-faz-corresponde-muitas-vezes-ao-sufixo-da-lingua-portuguesa-mento"></a>
 ### 18(a). Indica instrumento, tempo ou lugar da ação. Lugar onde se faz ou coisa com que se faz. Corresponde muitas vezes ao sufixo da língua portuguesa “-mento”
@@ -341,7 +342,7 @@ ___
 - `dawaptãꞌãdzé` lugar de nascimento
 - `dawededzé` hospital (local que se medica)
 - `datsiwaihuꞌudzé` amizade (transforma a ação de fazer amigos, em um substantivo)
-- `rotsaꞌratadzé` pensamento (o que se pensa)
+- `rotsaꞌratadzé` pensamento (aquilo que se pensa)
 - `roꞌbrudzé` governo (coisa que manda em tudo)
 > Note que os verbos que começam com `ro` e `da` geralmente não prefixam o `ĩ`.
 
@@ -363,15 +364,23 @@ ___
 - `Wa te ĩwaihuꞌu dzaꞌra dzé.` O que aprendemos / Aquilo que aprendemos. (afirmação, diferente da pergunta `E marĩ, wa tô waihuꞌu dzaꞌra.` O que aprendemos?)
 - `Wa tô ꞌmanha te te tsima ĩwẽ dzaꞌra dzé hã` Eu fiz o desejo deles (aquilo que eles desejavam)
 
-<!-- TOC --><a id="18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica"></a>
-### 18(e). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética
+<!-- TOC --><a id="18e-indica-a-maneira-que-a-acao-e-feita-o-jeito-e-feita"></a>
+### 18(e). Indica a maneira como a ação é feia, o jeito que é feita
+
+- `dahöimanadzé` maneira de viver, cultura
+- `ĩtsihötödzé` maneira de escrever, escrita
+- `ĩꞌmanharĩdzé` maneira de fazer
+- `rotsaꞌratadzé` maneira de pensar
+
+<!-- TOC --><a id="18f-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica"></a>
+### 18(f). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética
 
 - `E niha ĩromnhorédzé ĩhöiwarobo na.` Como se estuda a Bíblia?
 - `E niha dahöimanadzé Ropotoꞌwa nhimiroti dzarina.` Como viver / Como se vive segundo os conselhos de Deus.
 - `E niha ropire nherẽ rowẽ na dahöimanadzé.` Como ficar / Como se fica em paz apesar dos problemas?
 - `Ĩhöiꞌrédzé` Revela-se
 - `Ĩꞌuipradzé` Compra-se
-- `Ĩna ꞌmahörödzé hã Maria na.` Sua mãe chamava-se Maria.
+- `Ĩna ĩꞌmahörödzé hã Maria na.` Sua mãe chamava-se Maria.
 
 ___
 
