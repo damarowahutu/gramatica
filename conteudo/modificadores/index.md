@@ -31,7 +31,7 @@
         + [18(c). Indica quando a ação é realizada](#18c-indica-quando-a-acao-e-realizada)
         + [18(d). Indica aquilo que, o que é realizado](#18d-indica-aquilo-que-o-que-e-realizado)
         + [18(e). Indica a maneira como a ação é feia, o jeito que é feita](#18e-indica-a-maneira-que-a-acao-e-feita-o-jeito-e-feita)
-        + [18(f). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18e-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica)
+        + [18(f). Indica o verbo impessoal, oração sem sujeito, voz passiva sintética](#18f-indica-o-verbo-impessoal-oracao-sem-sujeito-voz-passiva-sintetica)
     * [19. Enquanto (sujeitos diferentes): _ré_](#19-enquanto-sujeitos-diferentes-re)
     * [20. Enquanto (sujeitos iguais): _tsina_](#20-enquanto-sujeitos-iguais-tsina)
     * [21. Comparação: _ĩ[verbo] ne_](#21-comparacao-iverbo-ne)
