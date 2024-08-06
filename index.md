@@ -62,11 +62,9 @@
 15. [Imperativo com verbos de 2º classe](/conteudo/imperativo/classe2/index.md)    
 16. [Adjetivos](/conteudo/adjetivos/index.md)
 17. Posse
-    1. Inalienável / Cultural (damama) - Obrigatoriamente possuídos
-    2. Substantivo (danhitobꞌru) - Opcionalmente possuídos
-    3. Produzida (danhimirotsaꞌrada) - Ação feita por uma pessoa.
-    4. Produzida em si mesmo - (ĩ̱tsiꞌupté) - Ação feita por uma pessoa em si mesma.
-    5. Alienável (date robduri) - Passível a troca de dono.
+    1. [Inalienável - não mudaria de dono](conteudo/posse/inalienavel/index.md)
+    2. [Alienável - é passível a troca de dono](conteudo/posse/alienavel/index.md)
+    3. [Produzida - ação feita pela pessoa](conteudo/posse/produzida/index.md)
 18. Reflexivo
 19. Mudanças de estado ou ser
 20. [Locução verbal](conteudo/locucaoVerbal/index.md)
