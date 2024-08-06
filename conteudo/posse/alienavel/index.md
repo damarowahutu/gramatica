@@ -24,7 +24,7 @@ Exemplos:
 3º (dele)           ĩte dzahuré
 3º (dele próprio)  tite dzahuré
 
-   Plural: 
+   Plural:
 1º (nosso)         wate dzaˈra      
 2º (teu)            ate dzaˈra waˈwa
 3º (dele)           ĩte dzaˈra
@@ -40,13 +40,12 @@ de alguém    [substantivo] te  (3º pessoa com substantivo)
 - `ĩ̱te robduri` / `robduri  ĩ̱te` meu carro
 - `ate robduri` / `robduri  ate` teu carro (de você)
 - `wate robduri` nosso carro
-- `ꞌriꞌahö` cidade (muitas casas)
 - `ate dahörödzé` teu celular
 - `ĩ̱dzawi na hã, öri ate ĩbaihö` pega tua Bíblia por favor 
 - `öri José te ĩbaihö` pega a Bíblia do José.
 - `wate dzaꞌra robduri` nosso carro
-> 💡 Parece ser mais comum colocar o `te` após o substantivo, e os demais antes 
 - `robduri Tsere te` ⇒ carro do Tsere
+> 💡 Parece ser mais comum colocar o `te` após o substantivo como em `Tsere te`.
 - `ate computador` ⇒ teu computador
 - `Ãhã ĩhöiwarobo, e ate waꞌwa.` ⇒ Esse livro, é de vocês dois?
 - `E ꞌwa te.` ⇒ De quem é?
