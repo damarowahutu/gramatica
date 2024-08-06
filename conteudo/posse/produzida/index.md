@@ -1,4 +1,4 @@
-# Posso produzida
+# Posse produzida
 
 São as coisas feitas, produzidas, realizadas por alguém e que, por isso, são posses delas. Se algo é seu porque você que fez, então entra nesta categoria.
 

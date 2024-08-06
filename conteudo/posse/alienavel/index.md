@@ -1,4 +1,4 @@
-# Alienável
+# Posse Alienável
 
 Coisas que podem mudar de dono, que podem ser vendidas, ou referente a termos que não são da cultura xavante.
 

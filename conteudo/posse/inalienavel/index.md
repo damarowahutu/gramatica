@@ -1,4 +1,4 @@
-# Posse inalienável de objetos ou pessoas
+# Posse Inalienável ou Cultural
 
 Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
 
