@@ -75,7 +75,7 @@
     4. tu
     5. dzahadu
 21. Verbos de 1º classe (indicativo e infinitivo)
-     1. [Prefixados simples - Tipo A](/conteudo/verbosClasse1/indicativo/tipoa/index.md)
+     1. [Prefixados simples - Tipo A](/conteudo/verbosClasse1/tipoa/index.md)
      2. Prefixados com `tsi`/`ai` Tipo B
      3. Prefixados com `a`/`atsi` Tipo C
      4. Prefixados com `ma`/`atsimi` Tipo D

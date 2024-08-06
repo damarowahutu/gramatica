@@ -1,4 +1,4 @@
-# Verbos de 1º classe no indicativo
+# Verbos de 1º classe no indicativo - tipo A
 
 ## Padrão de conjugação
 
@@ -31,9 +31,9 @@ te   da[verbo] dzaꞌra
 - `te ãma tiwata dzaꞌra` eles todos o adoram
 - `Tsere te tiwata Ropotoꞌwai ãma` Tsere adora a Deus
 - `te tihöimana dzaꞌra` eles estão
-- `wa ĩ̱höiba` eu estou
+- `wa ĩ̱höiba` eu estou / eu sou
 
-# Verbos de 1º classe no infinitivo
+# Verbos de 1º classe no infinitivo - Tipo A
 
 ## Padrão de conjugação
 
@@ -53,11 +53,12 @@ ai/a[verbo] dzaꞌra waꞌaba
   da[verbo] dzaꞌra
 ```
 
-## Exemplos
+### Exemplos
 
-- `ĩ̱höimana` eu viver
-- `aihöimana` você viver
-- `höimana` ele viver
+- `ĩ̱höiba` eu viver
+- `aihöiba` você viver
+- `höiba` ele viver
+> No singular é usado `dahöiba` e no plural o `dahöimana`
 - `wahöimana` nós dois vivermos
 - `aihöimana waꞌaba` vocês dois viverem
 - `höimana dzahuré` eles dois viveram
@@ -69,3 +70,8 @@ ai/a[verbo] dzaꞌra waꞌaba
 Essa conjugação é a base de outras conjugações. Ela desta forma sozinha é raramente usada. Na maioria das vezes são necessários complementos e modificadores para passar o sentido desejado. Exemplos:
 
 - `te dza aipawapto rowẽ na aihöimana da` ele te ajudará a ficar bem
+
+## Alguns verbos desta classe
+
+- `daꞌaꞌa` tossir
+- `wa ĩ̱ꞌaꞌa` eu tusso (mas perde na 2º pessoa `te aiꞌa` você tosse)
