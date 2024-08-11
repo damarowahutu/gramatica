@@ -48,6 +48,8 @@
     * [30. Significado oposto ou irônico: _bö_](#30-significado-oposto-ou-ironico-bo)
     * [31. Possibilidade: _õꞌumnhatsite_](#31-possibilidade-oumnhatsite)
     * [32. Um depois do outro, em cada, a medida que: _tsidöpötsi_](#32-um-depois-do-outro-em-cada-a-medida-que-tsidopotsi)
+    * [33. Em troca, ao invés: _waꞌrãmi_](#33-em-troca-ao-inves-warami)
+    * [34. No lugar de: _upana_](#34-no-lugar-de-upana)
 
 <!-- TOC end -->
 
@@ -592,3 +594,18 @@ ___
 - `ꞌre ꞌmanharĩ dzaꞌra waꞌaba mono tsidöpötsi` a medida que vocês fizerem
 
 ---
+
+<!-- TOC --><a id="33-em-troca-ao-inves-warami"></a>
+## 33. Em troca, ao invés: _waꞌrãmi_
+
+Como retribuição a algo ou ação, dar em troca de, contradizer, ao invés de.
+
+- `Tahawa te dza ĩtsimiꞌmanharĩ wẽ dzé waꞌrãmi ĩwẽ hã tãma titsõ.` Por isso ele lhe dará algo bom como retribuição pela boa ação dele. (Pr 19:17 RZW ) 
+- `te tãma ĩropitsutu dzaꞌra dzé waꞌrãmi, ĩ̱nhimiroti hã te te ꞌre ꞌmadöꞌö dzaꞌra mono õ di` Em troca da minha promessa para eles, eles não observaram meu conselho. (Heb 8:9 RZW)
+
+---
+
+<!-- TOC --><a id="34-no-lugar-de-upana"></a>
+## 34. No lugar de: _upana_
+
+- `Uburé Danhibꞌapito te te tãma ĩrobꞌrudzéb upana, ma tô aimawi Jope na ꞌri waꞌõtõ nhitsi u tsi mo.` No lugar do que o Senhor havia lhe ordenado, foi para uma diferente cidade chamada Jope.
