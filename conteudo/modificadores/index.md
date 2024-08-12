@@ -50,6 +50,7 @@
     * [32. Um depois do outro, em cada, a medida que: _tsidöpötsi_](#32-um-depois-do-outro-em-cada-a-medida-que-tsidopotsi)
     * [33. Em troca, ao invés: _waꞌrãmi_](#33-em-troca-ao-inves-warami)
     * [34. No lugar de: _upana_](#34-no-lugar-de-upana)
+    * [35. Mais que, além de: _nhipai u_](#35-mais-que-alem-de-nhipai-u)
 
 <!-- TOC end -->
 
@@ -609,3 +610,19 @@ Como retribuição a algo ou ação, dar em troca de, contradizer, ao invés de.
 ## 34. No lugar de: _upana_
 
 - `Uburé Danhibꞌapito te te tãma ĩrobꞌrudzéb upana, ma tô aimawi Jope na ꞌri waꞌõtõ nhitsi u tsi mo.` No lugar do que o Senhor havia lhe ordenado, foi para uma diferente cidade chamada Jope.
+
+---
+
+<!-- TOC --><a id="35-mais-que-alem-de-nhipai-u"></a>
+## 35. Mais que, além de: _nhipai u_
+
+- `taha nhipai u` além disso
+- `danhipai u ĩwẽ` melhor
+- `danhipai u ĩtsiptede` mais forte
+- `danhipai u ĩwaihu'u pe` mais sábio
+- `te ĩwaihuꞌu da tsi, te tsõré nhipai u.` Devo aprender, além de ler.
+- `Duré niꞌwa ã ꞌri ꞌremhã ĩ̱nhipai u hã höimana õ di.` E não há ninguém maior que eu dentro desta casa.
+- `E marĩ duré ĩtsiptete uptabi, huꞌu dzérépa nhipai u hã.` E o que é mais forte do que o leão?
+- `aihiꞌrata norĩ te te ꞌre ĩꞌmadöꞌö dza'ra mono nhipai u` mais do que seus antepassados viam
+- `wa ĩ̱tsima wẽ danhipai u te tãma romhuri da` quero trabalhar mais para ele
+- `wa ĩ̱tsima wẽ danhipai u ĩwẽ na te tãma romhuri da` quero trabalhar de forma melhor para ele
