@@ -37,7 +37,7 @@
        5. daꞌwawi
        6. daꞌãma
        7. datsina
-       8. dadzada    
+       8. dadzada
 12. Qualificadores
     1. [wẽ](conteudo/qualificadores/we/index.md)
     2. [petse](conteudo/qualificadores/petse/index.md)
@@ -59,7 +59,7 @@
     2. [Tempos verbais](conteudo/verbosClasse2/infinitivo/temposVerbais/index.md)
 14. [Modificadores](conteudo/modificadores/index.md)
     1. [Orações subordinadas](conteudo/oracoesSubordinadas/index.md)
-15. [Imperativo com verbos de 2º classe](/conteudo/imperativo/classe2/index.md)    
+15. [Imperativo com verbos de 2º classe](/conteudo/imperativo/classe2/index.md)
 16. [Adjetivos](/conteudo/adjetivos/index.md)
 17. Posse
     1. [Inalienável - não mudaria de dono](conteudo/posse/inalienavel/index.md)
@@ -68,13 +68,13 @@
 18. Reflexivo
 19. Mudanças de estado ou ser
 20. [Locução verbal](conteudo/locucaoVerbal/index.md)
-20. Interjeições
+21. Interjeições
     1. bété
     2. maꞌãpé
     3. oto
     4. tu
     5. dzahadu
-21. Verbos de 1º classe (indicativo e infinitivo)
+22. Verbos de 1º classe (indicativo e infinitivo)
      1. [Prefixados simples - Tipo A](/conteudo/verbosClasse1/tipoa/index.md)
      2. Prefixados com `tsi`/`ai` Tipo B
      3. Prefixados com `a`/`atsi` Tipo C
@@ -82,28 +82,28 @@
      5. Prefixados com `wa`/`ti` Tipo E
      6. Prefixados com o `danhimi`  Tipo X
      7. Exceções
-22. [Imperativo com verbos de 1º classe](/conteudo/imperativo/classe1/index.md)
-23. Ação contínua com `ꞌre` e `mono`
+23. [Imperativo com verbos de 1º classe](/conteudo/imperativo/classe1/index.md)
+24. Ação contínua com `ꞌre` e `mono`
     1. Indicativo
        1. Verbos de 2º classe
        2. Verbos de 1º classe
     2. Infinitivo
        1. Verbos de 2º classe
        2. Verbos de 1º classe
-24. Prefixos
+25. Prefixos
     1. ꞌma-
     2. a-
     3. ro-/rob-
-25. Sufixos
+26. Sufixos
     1. -re
     2. ꞌrare
     3. wawẽ
     4. re
     5. ꞌre
-26. Verbos múltiplos
+27. Verbos de tema múltiplo
      1. [Objeto múltiplo](conteudo/verbosObjetoMultiplo/index.md)
      2. Sujeito múltiplo
-27. Modificadores
+28. Modificadores
      1. wab da
      2. da wamhã
      3. da nherẽ
@@ -115,38 +115,32 @@
      9. döꞌötsina
      10. ꞌrudza
      11. ate
-28. Interjeições
+29. Interjeições
     1. nadza
-29. Modificações
+30. Modificações
     1. para ligação
     2. de temas não verbais
-30. Flexões
+31. Flexões
     1. tsiro/tsiromo
     2. dzöri/höri
     3. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
-31. Comparações
-32. [Verbo estar](conteudo/verboEstar/index.md)
-33. Passagem do tempo (tenho 20 anos..., faz um ano...)
-34. Sufixo -re (desprezo)
-35. Pluralizador datsiwi
-36. Honorífico
-37. Linguagem do Aꞌãma
-38. Marcador enfático Hã
-39. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
-    1. Ação de duração indefinida ou habitual (re...mono)
-       1. Completa
-       2. Atual
-       3. Futura
+32. Comparações
+33. [Verbo estar](conteudo/verboEstar/index.md)
+34. Passagem do tempo (tenho 20 anos..., faz um ano...)
+35. Sufixo -re (desprezo)
+36. Pluralizadores datsiwi/dzaꞌra
+37. Honorífico
+38. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
+    1. [Ação de duração indefinida ou habitual](conteudo/aspecto/reMono/index.md)
     2. Ação de pouca duração (... mono)
-       1. Completa
-       2. Atual
-       3. Futura
     3. Ação de resultado ...
        1. lógico ou esperado (ma)
        2. com natureza menos certa ou obrigatória (ma te)
     4. Ação não realizada com o sentido de ...
-       1. "quase" (aré)
-       2. "em vão" (aré...da)
+       1. [quase](conteudo/aspecto/quase/index.md)
+       2. [em vão](conteudo/aspecto/emVao/index.md)
+39. Linguagem do Aꞌãma
+40. Marcador enfático Hã
 
 ## Tabelas e Referências
 
