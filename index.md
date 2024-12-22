@@ -132,7 +132,7 @@
 37. Honorífico
 38. Aspecto (tabelas com exemplos de conjugações positivas e negativas das 2 classes de verbos)
     1. [Ação de duração indefinida ou habitual](conteudo/aspecto/reMono/index.md)
-    2. Ação de pouca duração (... mono)
+    2. [Ação de pouca duração](conteudo/aspecto/mono/index.md)
     3. Ação de resultado ...
        1. lógico ou esperado (ma)
        2. com natureza menos certa ou obrigatória (ma te)
