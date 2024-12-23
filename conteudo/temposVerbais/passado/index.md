@@ -2,7 +2,7 @@
 
 Ese tempo verbal corresponde ao pretérito perfeito do indicativo, ou ação simples completa. Descreve a ação simples feita no passado.
 
-## Conjugação no indicativo com verbos de 2º classe
+## Conjugação no indicativo com verbos com prefixo de objeto
 
 ```text
 Singular:

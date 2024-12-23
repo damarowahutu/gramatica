@@ -1,4 +1,4 @@
-# Verbos de 2º Classe - Tipo D
+# Verbos com prefixo de objeto - Tipo D
 
 Estes verbos sofrem as seguintes modificações no indicativo:
 

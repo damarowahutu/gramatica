@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 pre {
-    font-family: monospace, monospace;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-weight: bold;
 }
 u { 
@@ -13,7 +13,7 @@ u {
 samp { 
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-weight: bold;
-    padding: 2px 4px;  
+    padding: 2px 4px;
     font-size: 0.9rem;
     color: #567482;
     background-color: #f3f6fa;

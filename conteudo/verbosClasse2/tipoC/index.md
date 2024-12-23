@@ -1,4 +1,4 @@
-# Verbos de 2º Classe - Tipo C
+# Verbos com prefixo de objeto - Tipo C
 
 No indicativo, *perde a sílaba final* apenas na *2º pessoa* (tu/você) do *singular*.
 

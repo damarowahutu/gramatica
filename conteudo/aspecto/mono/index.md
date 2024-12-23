@@ -51,11 +51,11 @@ Ação de tempo indefinido ou habitual:
 
 A partícula `mono` não aparece quando a frase começa no indicativo e está na 1º ou 3º pessoa. E na 2º pessoa do indicativo ela perde a última sílaba, ficando `mo`. Já no infinitivo ela sempre aparece e usa a forma completa `mono`.
 
-### Verbos de 2º classe
+### Verbos com prefixo de objeto
 
-#### Passado com verbos de 2º classe
+#### Passado com verbos com prefixo de objeto
 
-##### Passado positivo com verbos de 2º classe
+##### Passado positivo com verbos com prefixo de objeto
 
 ```text
 wa tô te    're  romhuri       => eu estava trabalhando
@@ -71,7 +71,7 @@ ma tô       're ĩromhuri dza'ra wa'aba mo => vocês estavam trabalhando
 ma tô te te 're  romhuri dza'ra           => eles estavam trabalhando
 ```
 
-##### Passado negativo com verbos de 2º classe
+##### Passado negativo com verbos com prefixo de objeto
 
 > Note que no infinitivo o `mono` é obrigatório em todas pessoas
 
@@ -89,9 +89,9 @@ wa te 're  romhuri dza'ra mono õ di aré        => nós não estávamos trabalh
 te te 're  romhuri dza'ra mono õ di aré        => eles não estavam trabalhando
 ```
 
-#### Futuro com verbos de 2º classe
+#### Futuro com verbos com prefixo de objeto
 
-##### Futuro positivo com verbos de 2º classe
+##### Futuro positivo com verbos com prefixo de objeto
 
 ```text
 wa dza te    're  romhuri       => eu vou estar trabalhando
@@ -107,7 +107,7 @@ te dza       're ĩromhuri dza'ra wa'aba mo => vocês vão estar trabalhando
 te dza te te 're  romhuri dza'ra           => eles vão estar trabalhando
 ```
 
-##### Futuro negativo com verbos de 2º classe
+##### Futuro negativo com verbos com prefixo de objeto
 
 ```text
 te    're  romhuri mono õ di dza => eu não vou estar trabalhando
@@ -123,11 +123,11 @@ wa te 're  romhuri dza'ra mono õ di dza        => nós não vamos estar trabalh
 te te 're  romhuri dza'ra mono õ di dza        => eles não vão estar trabalhando
 ```
 
-#### Presente com verbos de 2º classe
+#### Presente com verbos com prefixo de objeto
 
 > O marcador de ação contínua `te te` ocorre na 1º pessoa do singular somente no caso de ação contínua limitada _presente_ quando há união do indicativo com o infinitivo. Nos tempos futuro ou passado, o marcador é apenas um `te`.
 
-##### Presente positivo com verbos de 2º classe
+##### Presente positivo com verbos com prefixo de objeto
 
 ```text
 wa te te  romhuri       => eu estou trabalhando
@@ -143,7 +143,7 @@ te       ĩromhuri dza'ra wa'aba mo => vocês estão trabalhando
 te    te  romhuri dza'ra           => eles estão trabalhando
 ```
 
-##### Presente negativo com verbos de 2º classe
+##### Presente negativo com verbos com prefixo de objeto
 
 ```text
    te  romhuri mono õ di => eu não estou trabalhando
@@ -159,11 +159,11 @@ wa te  romhuri dza'ra mono õ di        => nós não estamos trabalhando
 te te  romhuri dza'ra mono õ di        => eles não estão trabalhando
 ```
 
-### Verbos de 1º classe
+### Verbos com prefixo de sujeito
 
-#### Passado com verbos de 1º classe
+#### Passado com verbos com prefixo de sujeito
 
-##### Passado positivo com verbos de 1º classe
+##### Passado positivo com verbos com prefixo de sujeito
 
 ```text
 wa tô ĩ̱nhipi      =>  eu estava cozinhando
@@ -179,7 +179,7 @@ ma tô  atsipi dza'ra wa'aba mo  => vocês estavam cozinhando
 ma tô   tsipi dza'ra            => eles estavam cozinhando
 ```
 
-##### Passado negativo com verbos de 1º classe
+##### Passado negativo com verbos com prefixo de sujeito
 
 ```text
 ĩ̱nhipi mono õ di aré =>  eu não estava cozinhando
@@ -195,9 +195,9 @@ wanhipi dza'ra mono õ di aré        => nós não estávamos cozinhando
   tsipi dza'ra mono õ di aré        => eles não estavam cozinhando
 ```
 
-#### Futuro com verbos de 1º classe
+#### Futuro com verbos com prefixo de sujeito
 
-##### Futuro positivo com verbos de 1º classe
+##### Futuro positivo com verbos com prefixo de sujeito
 
 ```text
 wa dza ĩ̱nhipi      =>  eu vou estar cozinhando
@@ -213,7 +213,7 @@ te dza  atsipi dza'ra wa'aba mo  => vocês vão estar cozinhando
 te dza   tsipi dza'ra            => eles vão estar cozinhando
 ```
 
-##### Futuro negativo com verbos de 1º classe
+##### Futuro negativo com verbos com prefixo de sujeito
 
 ```text
 ĩ̱nhipi mono õ di dza =>  eu não vou estar cozinhando
@@ -229,9 +229,9 @@ wanhipi dza'ra mono õ di dza        => nós não vamos estar cozinhando
   tsipi dza'ra mono õ di dza        => eles não vão estar cozinhando
 ```
 
-#### Presente com verbos de 1º classe
+#### Presente com verbos com prefixo de sujeito
 
-##### Presente positivo com verbos de 1º classe
+##### Presente positivo com verbos com prefixo de sujeito
 
 ```text
 wa ĩ̱nhipi      =>  eu estou cozinhando
@@ -247,7 +247,7 @@ te  atsipi dza'ra wa'aba mo  => vocês estão cozinhando
 te   tsipi dza'ra            => eles estão cozinhando
 ```
 
-##### Presente negativo com verbos de 1º classe
+##### Presente negativo com verbos com prefixo de sujeito
 
 ```text
 ĩ̱nhipi mono õ di =>  eu não estou cozinhando

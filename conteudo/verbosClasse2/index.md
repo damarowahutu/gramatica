@@ -1,6 +1,6 @@
-# Verbos de 2º Classe
+# Verbos com prefixo de objeto
 
-Nessa classe o verbo não carrega o sujeito prefixado, como acontece nos verbos de 1º classe.
+Nessa classe o verbo não carrega o sujeito prefixado, como acontece nos verbos com prefixo de sujeito.
 
 O que é Sujeito?
 

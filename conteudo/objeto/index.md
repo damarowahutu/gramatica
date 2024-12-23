@@ -7,3 +7,6 @@ O que é Objeto?
 Em xavante o objeto tem uma posposição porque ela fica depois do objeto, ao contrário do português que tem uma preposição pois ela fica antes do objeto.
 
 Nos próximos artigos, analise o objeto diretos e indiretos em xavante.
+
+- [Objeto Direto](/conteudo/objeto/direto/index.md)
+- [Objeto Indireto](/conteudo/objeto/indireto/index.md)

@@ -1,10 +1,10 @@
-# Imperativo simples com verbos de 2º classe
+# Imperativo simples com verbos com prefixo de objeto
 
 ## Imperativo simples
 
 Use a forma do imperativo, incluindo o `na` com alguns verbos.
 
-```
+```text
    te [verbo]
       [verbo] (na)
 te te [verbo]
@@ -39,12 +39,12 @@ Como saber se deve incluir o `na`? A partícula `na` só ocorre no singular em v
 
 - `Wei aimorĩ, Matsédonia u. Waꞌãma aime dzaꞌra na.` Venha à Macedônia. Nos ajude.
 
-> Note que a primeira ordem é apenas para uma pessoa: venha (e não: `we aiꞌabaꞌréi waꞌaba`). A segunda ordem é para uma pessoa (sujeito singular). O objeto é plural (nós: `waꞌãma ... dzaꞌra`). 
+> Note que a primeira ordem é apenas para uma pessoa: venha (e não: `we aiꞌabaꞌréi waꞌaba`). A segunda ordem é para uma pessoa (sujeito singular). O objeto é plural (nós: `waꞌãma ... dzaꞌra`).
 
 - `Maꞌãpé, Aimama hã wama höiꞌré dzaꞌra na` vamos, que você nos mostre o seu pai (Jo 14:9)
 
-
 ### Outros exemplos
+
 - `te höꞌrẽne` que eu o beba
 - `te te höꞌrẽne` que ele o beba
 - `waihuꞌu aba!` saibam vocês dois!
@@ -61,9 +61,10 @@ Como saber se deve incluir o `na`? A partícula `na` só ocorre no singular em v
 - `te te höꞌrẽne dzaꞌra` que eles o bebam
 
 ## Imperativo inclusivo
-Dá uma ordem que inclui a pessoa que está falando na ação 
 
-```
+Dá uma ordem que inclui a pessoa que está falando na ação
+
+```text
 wa te [verbo] (na)            (eu e você)
 wa te [verbo] aba/waꞌaba     (eu e vocês dois)
 wa te [verbo] dzaꞌra waꞌaba  (eu e vocês todos)
@@ -81,9 +82,9 @@ wa te [verbo] dzaꞌra waꞌaba  (eu e vocês todos)
 
 ## Imperativo negativo
 
-Usa a mesma estrutura do imperativo com o modificador `tõ`, mas sem a ocorrência do `na` em nenhuma situação. 
+Usa a mesma estrutura do imperativo com o modificador `tõ`, mas sem a ocorrência do `na` em nenhuma situação.
 
-```
+```text
    te [verbo] tõ
       [verbo] tõ
 te te [verbo] tõ
@@ -104,9 +105,9 @@ te te [verbo] dzaꞌra tõ
 - `tsabu waꞌaba tõ!` não olhem vocês dois!
 - `tsabu dzaꞌra waꞌaa tõ` não olhem vocês todos!
 
-# Outras formas de dar ordens
+## Outras formas de dar ordens
 
-## Imperativo Suave
+### Imperativo Suave
 
 Conjugue o verbo no futuro simples do indicativo para formar um tipo mais suave de dar ordens.
 
@@ -118,16 +119,16 @@ Conjugue o verbo no futuro simples do indicativo para formar um tipo mais suave 
 - `te dza we aiꞌabaꞌréi waꞌwa` venha cá vocês todos!
 - `wa dza romhuri dzaꞌra ni!` trabalhemos todos nós!
 
-### Forma negativa do imperativo suave
+#### Forma negativa do imperativo suave
 
 É idêntica à forma do negativo comum.
 
 - `romhuri õ di dza!` não trabalhe!
-- `wa te romhuri dzaꞌra õ di dza!` que nós todos não trabalhemos! 
+- `wa te romhuri dzaꞌra õ di dza!` que nós todos não trabalhemos!
 
-## Obrigação de fazer
+### Obrigação de fazer
 
-Indica uma obrigação ou necessidade. Embora não seja estritamente uma forma imperativa, tem um tom imperativo forte, implicando que algo é necessário ou obrigatório. Também indica desejo muito forte de fazer algo. 
+Indica uma obrigação ou necessidade. Embora não seja estritamente uma forma imperativa, tem um tom imperativo forte, implicando que algo é necessário ou obrigatório. Também indica desejo muito forte de fazer algo.
 
 Usando a tabela do infinitivo, prefixe o `ĩ` no verbo com o modificador `da tsi` no final da locução.
 
@@ -135,7 +136,7 @@ Usando a tabela do infinitivo, prefixe o `ĩ` no verbo com o modificador `da tsi
 - `ĩwaihuꞌu da tsi tsõré da` você deve aprender a ler
 - `wa te ĩrotsaꞌrata dzaꞌra da tsi taha na` devemos pensar nisso
 
-### Forma negativa da obrigação
+#### Forma negativa da obrigação
 
 Usando a tabela do infinitivo, prefixa-se o `ĩ` no verbo com o modificador `tõ da tsi` no final da locução.
 
@@ -143,9 +144,9 @@ Usando a tabela do infinitivo, prefixa-se o `ĩ` no verbo com o modificador `tõ
 - `ĩwapari tõ da tsi` você não deve escutar
 - `te te ĩwapawaptob dzaꞌra tõ da tsi` eles não devem nos ajudar
 
-## Sugerir que há capacidade de fazer
+### Sugerir que há capacidade de fazer
 
-Refere-se à capacidade ou possibilidade de fazer algo. Novamente, não é uma forma imperativa, mas pode ser usado para sugerir que alguém tem a capacidade de realizar uma ação. 
+Refere-se à capacidade ou possibilidade de fazer algo. Novamente, não é uma forma imperativa, mas pode ser usado para sugerir que alguém tem a capacidade de realizar uma ação.
 
 Usando a tabela do infinitivo, anexe `waihuꞌu petse` depois do verbo usando o modificador `di`.
 
@@ -153,7 +154,7 @@ Usando a tabela do infinitivo, anexe `waihuꞌu petse` depois do verbo usando o 
 - `romhuri waihuꞌu petse di!` você consegue trabalhar!
 - `wa te upari waihuꞌu petse dzaꞌra di` nós conseguimos apoiar
 
-## Forma negativa de sugerir não haver capacidade de fazer
+### Forma negativa de sugerir não haver capacidade de fazer
 
 Usando a tabela do infinitivo, anexe `waihuꞌu` depois do verbo usando o modificador `õ di`.
 

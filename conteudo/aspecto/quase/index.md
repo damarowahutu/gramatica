@@ -4,7 +4,7 @@ Algo que se tentou fazer mas que na realidade não foi feito, ou seja, _quase_ f
 
 ## Exemplos
 
-### Com verbos de 2º classe
+### Com verbos com prefixo de objeto
 
 - `wa aré tĩwĩ` eu quase o matei
 - `te aré ĩwĩ` você quase o matou
@@ -13,7 +13,7 @@ Algo que se tentou fazer mas que na realidade não foi feito, ou seja, _quase_ f
 - `te aré ĩ̱nhitsi wẽ hã ĩ̱wi uprotsi dzahuré` eles quase acabaram com minha reputação
 - `te aré duré ãma ĩ̱nhitsém hiri dzahuré` eles quase me humilharam
 
-### Com verbos de 1º classe
+### Com verbos com prefixo de sujeito
 
 - `wa aré dörö` eu quase morri
 - `wa aré waptãrã` quase caí

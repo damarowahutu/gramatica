@@ -1,4 +1,4 @@
-# Verbos de 2º Classe - Tipo A
+# Verbos com prefixo de objeto - Tipo A
 
 Estes verbos não perdem e nem ganham nenhuma sílaba.
 

@@ -2,7 +2,7 @@
 
 Descreve ação simples que será realizada em breve ou num futuro distante.
 
-## Conjugação no indicativo com verbos de 2º classe
+## Conjugação no indicativo com verbos com prefixo de objeto
 
 ```text
 Singular:

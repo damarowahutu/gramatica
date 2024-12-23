@@ -34,7 +34,7 @@ Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
 
 ## Exemplos
 
-- `damama` pai da pessoa 
+- `damama` pai da pessoa
 - `ĩ̱mama` meu pai
 - `aimama` teu pai
 - `ĩmama` pai dele
@@ -57,12 +57,12 @@ Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
 - `ĩ̱di` minha barriga
 - `dapara` pé da pessoa
 - `ĩ̱para` meu pé
-- `dahöimanadzé` vida 
-- `ĩ̱höimanadzé` minha vida 
-- `aihöimanadzé` tua vida 
-- `ĩhöimanadzé` vida dele 
+- `dahöimanadzé` vida
+- `ĩ̱höimanadzé` minha vida
+- `aihöimanadzé` tua vida
+- `ĩhöimanadzé` vida dele
 - `wahöimanadzé` nossa vida (dual / coloquial para todos)
-- `wahöimanadzé dzaꞌra` nossa vida (todos) 
+- `wahöimanadzé dzaꞌra` nossa vida (todos)
 - `Jesus höimanadzé` vida de Jesus  
 - `dahiꞌrada` antepassado
 - `Jesus hiꞌrada` Antepassado de Jesus
@@ -73,60 +73,60 @@ Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
 - `ĩmro` cônjuge dele (esposa/marido)
 - `timro` cônjuge dele mesmo (esposa/marido)
 
-### Alguns sofrem mudança de _nhi_ para _tsi_
+### Alguns sofrem mudança de *nhi* para *tsi*
 
-- `danhihudu` descendentes ⇒
+- `danhihudu` descendentes
 - `ĩ̱nhihudu`  meu descendente
 - `atsihudu`  teu descendente
 - `ĩtsihudu`  descendente dele
 - `wanhihudu`  nosso descendente
 - `atsihudu dzaꞌra`  descendente de vocês (todos)
 - `Adão nhihudu` descendente de adão
-- `danhihödö`  escrita 
+- `danhihödö`  escrita
 - `danhibdzari` donativo, presente  
 - `ĩ̱nhibdzari` meu donativo  
 - `atsibdzari` teu donativo  
-- `Wa tô titsõ ĩ̱nhibdzari` Eu dei meu donativo 
-- `danhibꞌaꞌuwẽ` povo 
+- `Wa tô titsõ ĩ̱nhibdzari` Eu dei meu donativo
+- `danhibꞌaꞌuwẽ` povo
 - `ĩ̱nhibꞌaꞌuwẽ` meu povo  
 - `atsibꞌaꞌuwẽ` teu povo  
 - `ĩtsibꞌaꞌuwẽ` povo dele  
 
-### Outros sofrem mudança de _nho_ para _tsõ_
+### Outros sofrem mudança de *nho* para *tsõ*
 
-`danho'reptui'wa` salvador
-`ĩ̱nho'reptui'wa` meu salvador
-`atsõ'reptui'wa` teu salvador 
-`ĩtsõꞌreptuiꞌwa` salvador dele 
-`wanhoꞌreptuiꞌwa` nosso salvador 
-`danho'reptudzé` salvação 
-`danho're` pescoço, cântico, canto 
-`wanhoꞌre` nosso cântico 
-`atsõꞌre` teu cântico 
-`Danhorõwa` casa xavante de alguém
-`ĩ̱nhorõwa` ⇒ minha casa
-`atsõrõwa` tua casa (a casa de você)  
-`ĩtsõrõwa` a casa dele
-`tinhorõwa` ⇒ a casa dele mesmo
-`wanhorõwa` ⇒ nossa casa (a casa de nós dois)
-`atsõrõwa ꞌwa` ⇒ a casa de vocês dois
-`ĩtsõrõwa dzahuré` ⇒ a casa deles dois
-`tinhorõwa dzahuré` ⇒ a casa deles dois mesmos
-`wanhorõwa dzaꞌra` ⇒ nossa casa (a casa de nós 3 ou mais)
-`atsõrõwa dzaꞌra waꞌwa` ⇒ a casa de vocês (3 ou mais)
-`ĩtsõrõwa dzaꞌra` ⇒ a casa deles (3 ou mais)
-`tinhorõwa dzaꞌra` ⇒ a casa deles mesmos (3 ou mais)
-`Tsere nhorõwa` ⇒ a casa do Tsere
+- `danho'reptui'wa` salvador
+- `ĩ̱nho'reptui'wa` meu salvador
+- `atsõ'reptui'wa` teu salvador
+- `ĩtsõꞌreptuiꞌwa` salvador dele
+- `wanhoꞌreptuiꞌwa` nosso salvador
+- `danho'reptudzé` salvação
+- `danho're` pescoço, cântico, canto
+- `wanhoꞌre` nosso cântico
+- `atsõꞌre` teu cântico
+- `Danhorõwa` casa xavante de alguém
+- `ĩ̱nhorõwa` ⇒ minha casa
+- `atsõrõwa` tua casa (a casa de você)  
+- `ĩtsõrõwa` a casa dele
+- `tinhorõwa` ⇒ a casa dele mesmo
+- `wanhorõwa` ⇒ nossa casa (a casa de nós dois)
+- `atsõrõwa ꞌwa` ⇒ a casa de vocês dois
+- `ĩtsõrõwa dzahuré` ⇒ a casa deles dois
+- `tinhorõwa dzahuré` ⇒ a casa deles dois mesmos
+- `wanhorõwa dzaꞌra` ⇒ nossa casa (a casa de nós 3 ou mais)
+- `atsõrõwa dzaꞌra waꞌwa` ⇒ a casa de vocês (3 ou mais)
+- `ĩtsõrõwa dzaꞌra` ⇒ a casa deles (3 ou mais)
+- `tinhorõwa dzaꞌra` ⇒ a casa deles mesmos (3 ou mais)
+- `Tsere nhorõwa` ⇒ a casa do Tsere
 
 > Note que alguns objetos, como casa, são conjugados como uma posse inalienável, embora possam passar para outros donos. Uma explicação para isso seria que a casa xavante faz parte da cultura e por isso segue a mesma forma de conjugação das posses que não mudam de dono.
 
-## Prefixo _ti_ com posses
+## Prefixo *ti* com posses
 
 Indica dele próprio, dele mesmo. É usada nas frases onde a ação é realizada na própria posse do ator (sujeito) da oração. Sempre será um objeto da ação, nunca será o sujeito (ator principal) da oração.
 
 Por exemplo:
 
-- `te romhu timama ma ` ele trabalha para o pai dele (o pai dele mesmo)
+- `te romhu timama ma` ele trabalha para o pai dele (o pai dele mesmo)
 - `te romhu ĩmama ma` ele trabalha para o pai dele (o pai de outra pessoa)
 
 O xavante é mais específico que o português. Em xavante é obrigatório ser específico, indicando exatamente de quem está falando. No português essa frase é ambígua, pois dá margem para entender de duas maneiras. Nas figuras abaixo duas pessoas estão conversando sobre o que outra pessoa viu.
@@ -139,4 +139,3 @@ Ele viu o pai dele mesmo?! Ou seria o pai de outra pessoa?!
 
 ![img_2.png](img_2.png)
 `timama` o pai dele mesmo, o pai da pessoa de quem estamos falando, é posse do sujeito (ator) da oração.
-

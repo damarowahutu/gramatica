@@ -1,4 +1,4 @@
-# Verbos de 2º Classe - Tipo B
+# Verbos com prefixo de objeto - Tipo B
 
 No indicativo, *perde a sílaba final* em todas pessoas do *singular*.
 

@@ -60,7 +60,7 @@ Quando a frase está no presente (sem o `dza` do exemplo acima) e é preciso uni
 - não podemos deixar 3 `te` juntos, então removemos um deles.
   - `te te aima ꞌre romhuri dzaꞌra` => frase final: _eles sempre estão trabalhando para você_
 
-O mesmo ocorre com verbos de 1º classe, sempre usando a forma padrão de conjugação do infinitivo para estes verbos. Veja o exemplo para formar a frase _vocês sempre estão nos elogiando_:
+O mesmo ocorre com verbos com prefixo de sujeito, sempre usando a forma padrão de conjugação do infinitivo para estes verbos. Veja o exemplo para formar a frase _vocês sempre estão nos elogiando_:
 
 - indicativo (sem indicar aspecto de duração):
   - `te waꞌãma aiwata dzaꞌra waꞌwa` => frase inicial: _vocês nos elogiam_
@@ -77,11 +77,11 @@ O mesmo ocorre com verbos de 1º classe, sempre usando a forma padrão de conjug
 
 Note nos exemplos abaixo que o `mono` não aparece na 1º e 3º pessoa, e perde a última sílaba na 2º pessoa. Observe também que o verbo usa a forma completa mesmo que a frase esteja iniciada no indicativo (não é `romhu`, mas sim a forma completa `romhuri`)
 
-### Verbos de 2º classe
+### Verbos com prefixo de objeto
 
-#### Passado com verbos de 2º classe
+#### Passado com verbos com prefixo de objeto
 
-##### Passado positivo com verbos de 2º classe
+##### Passado positivo com verbos com prefixo de objeto
 
 ```text
 wa tô te    're  romhuri       => eu sempre trabalhava
@@ -97,7 +97,7 @@ ma tô       're ĩromhuri dza'ra wa'aba mo => vocês sempre trabalhavam
 ma tô te te 're  romhuri dza'ra           => eles sempre trabalhavam
 ```
 
-##### Passado negativo com verbos de 2º classe
+##### Passado negativo com verbos com prefixo de objeto
 
 > Note que no infinitivo o `mono` é obrigatório em todas pessoas
 
@@ -115,9 +115,9 @@ wa te 're  romhuri dza'ra mono õ di aré        => nós nem sempre trabalhávam
 te te 're  romhuri dza'ra mono õ di aré        => eles nem sempre trabalhavam
 ```
 
-#### Futuro com verbos de 2º classe
+#### Futuro com verbos com prefixo de objeto
 
-##### Futuro positivo com verbos de 2º classe
+##### Futuro positivo com verbos com prefixo de objeto
 
 ```text
 wa dza te    're  romhuri       => eu sempre vou trabalhar
@@ -133,7 +133,7 @@ te dza       're ĩromhuri dza'ra wa'aba mo => vocês sempre vão trabalhar
 te dza te te 're  romhuri dza'ra           => eles sempre vão trabalhar
 ```
 
-##### Futuro negativo com verbos de 2º classe
+##### Futuro negativo com verbos com prefixo de objeto
 
 ```text
 te    're  romhuri mono õ di dza => eu nem sempre vou trabalhar
@@ -149,9 +149,9 @@ wa te 're  romhuri dza'ra mono õ di dza        => nós nem sempre vamos trabalh
 te te 're  romhuri dza'ra mono õ di dza        => eles nem sempre vão trabalhar
 ```
 
-#### Presente com verbos de 2º classe
+#### Presente com verbos com prefixo de objeto
 
-##### Presente positivo com verbos de 2º classe
+##### Presente positivo com verbos com prefixo de objeto
 
 ```text
 wa    te 're  romhuri       => eu sempre trabalho
@@ -167,7 +167,7 @@ te       're ĩromhuri dza'ra wa'aba mo => vocês sempre trabalham
 te    te 're  romhuri dza'ra           => eles sempre trabalham
 ```
 
-##### Presente negativo com verbos de 2º classe
+##### Presente negativo com verbos com prefixo de objeto
 
 ```text
    te 're  romhuri mono õ di => eu nem sempre trabalho
@@ -183,11 +183,11 @@ wa te 're  romhuri dza'ra mono õ di        => nós nem sempre trabalhamos
 te te 're  romhuri dza'ra mono õ di        => eles nem sempre trabalham
 ```
 
-### Verbos de 1º classe
+### Verbos com prefixo de sujeito
 
-#### Passado com verbos de 1º classe
+#### Passado com verbos com prefixo de sujeito
 
-##### Passado positivo com verbos de 1º classe
+##### Passado positivo com verbos com prefixo de sujeito
 
 ```text
 wa tô 're ĩ̱nhipi      =>  eu sempre cozinhava
@@ -203,7 +203,7 @@ ma tô 're  atsipi dza'ra wa'aba mo  => vocês sempre cozinhavam
 ma tô 're   tsipi dza'ra            => eles sempre cozinhavam
 ```
 
-##### Passado negativo com verbos de 1º classe
+##### Passado negativo com verbos com prefixo de sujeito
 
 ```text
 're ĩ̱nhipi mono õ di aré =>  eu nem sempre cozinhava
@@ -219,9 +219,9 @@ ma tô 're   tsipi dza'ra            => eles sempre cozinhavam
 're   tsipi dza'ra mono õ di aré        => eles nem sempre cozinhavam
 ```
 
-#### Futuro com verbos de 1º classe
+#### Futuro com verbos com prefixo de sujeito
 
-##### Futuro positivo com verbos de 1º classe
+##### Futuro positivo com verbos com prefixo de sujeito
 
 ```text
 wa dza 're ĩ̱nhipi      =>  eu vou sempre cozinhar
@@ -237,7 +237,7 @@ te dza 're  atsipi dza'ra wa'aba mo  => vocês vão sempre cozinhar
 te dza 're   tsipi dza'ra            => eles vão sempre cozinhar
 ```
 
-##### Futuro negativo com verbos de 1º classe
+##### Futuro negativo com verbos com prefixo de sujeito
 
 ```text
 're ĩ̱nhipi mono õ di dza =>  eu nem sempre vou cozinhar
@@ -253,9 +253,9 @@ te dza 're   tsipi dza'ra            => eles vão sempre cozinhar
 're   tsipi dza'ra mono õ di dza        => eles nem sempre vão cozinhar
 ```
 
-#### Presente com verbos de 1º classe
+#### Presente com verbos com prefixo de sujeito
 
-##### Presente positivo com verbos de 1º classe
+##### Presente positivo com verbos com prefixo de sujeito
 
 ```text
 wa 're ĩ̱nhipi      =>  eu sempre cozinho
@@ -271,7 +271,7 @@ te 're  atsipi dza'ra wa'aba mo  => vocês sempre cozinham
 te 're   tsipi dza'ra            => eles sempre cozinham
 ```
 
-##### Presente negativo com verbos de 1º classe
+##### Presente negativo com verbos com prefixo de sujeito
 
 ```text
 're ĩ̱nhipi mono õ di =>  eu nem sempre cozinho

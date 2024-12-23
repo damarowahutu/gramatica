@@ -2,7 +2,7 @@
 
 Usado para ações feitas uma vez no momento em que se fala. Também se aplicado a ações estão sendo feitas de forma contínua no presente.
 
-## Conjugação no indicativo com verbos de 2º classe
+## Conjugação no indicativo com verbos com prefixo de objeto
 
 ```text
 Singular:

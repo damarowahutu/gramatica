@@ -1,4 +1,4 @@
-# Imperativo com Verbos de 1º classe
+# Imperativo com Verbos com prefixo de sujeito
 
 ## Imperativo simples
 
@@ -42,7 +42,7 @@ a/ai[verbo] (dzaꞌra) aba/waꞌaba
 ## Imperativo inclusivo
 Dá uma ordem que inclui a pessoa que está falando na ação 
 
-## Verbos de 1º classe
+## Verbos com prefixo de sujeito
 
 ```
 [verbo] na
@@ -57,11 +57,11 @@ Dá uma ordem que inclui a pessoa que está falando na ação
 - `wanhipi dzaꞌra awaꞌaba!` cozinhemos vocês todos e eu!
 - `watsiꞌabaꞌréi waꞌaba!` vamos todos embora!
 
-> Nos verbos de 1º classe de tema múltiplo, somente os temas verbais do dual e do plural são empregados no imperativo inclusivo
+> Nos verbos com prefixo de sujeito de tema múltiplo, somente os temas verbais do dual e do plural são empregados no imperativo inclusivo
 
 ## Imperativo negativo
 
-## Verbos de 1º classe
+## Verbos com prefixo de sujeito
 
 ```
    ĩ̱[verbo] tõ

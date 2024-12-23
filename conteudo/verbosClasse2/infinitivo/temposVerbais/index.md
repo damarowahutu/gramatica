@@ -1,4 +1,4 @@
-# Tempos verbais com verbos de 2º classe no infinitivo
+# Tempos verbais com verbos com prefixo de objeto no infinitivo
 
 Dependendo do modificador usado o verbo do infinitivo vai seguir o tempo verbal usado no indicativo, ou vai ficar subentendido no contexto.
 

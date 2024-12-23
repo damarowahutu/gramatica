@@ -49,7 +49,7 @@ Especiais:
 - `Ma tô duré atsô tihörö dzaꞌra waꞌwa` Ele chamou vocês (todos)
 - `Te atsô tirĩtĩ dzaꞌra` Eles procuram por você
 
-> Note que alguns verbos de 1º classe ganham o prefixo `ti-` quando o objeto ou o sujeito é plural.
+> Note que alguns verbos com prefixo de sujeito ganham o prefixo `ti-` quando o objeto ou o sujeito é plural.
 
 - `e marĩ ma atsô watobro` o que aconteceu com você?
 - `e marĩ te dza wadzô tiwatobro dzaꞌra` ⇒ o que acontecerá conosco?

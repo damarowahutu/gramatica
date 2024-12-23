@@ -1,4 +1,4 @@
-# Conjugação de verbos de 2º classe no infinitivo
+# Conjugação de verbos com prefixo de objeto no infinitivo
 
 Estes verbos não perdem e nem ganham nenhuma sílaba.
 

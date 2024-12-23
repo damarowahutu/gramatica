@@ -73,6 +73,7 @@ Especiais:
 - `hu hã te dza airẽ` a onça irá te comer (cuidado visto que apenas a falta da glotal muda o sentido)
 
 Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
+
 - `te tirẽ` ele abandona
 - <samp>te <u>ĩ</u>rẽ</samp> ele me abandona
 - `te warẽ` ele nos abandona (a nós 2)
@@ -101,7 +102,7 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `ma tô ĩ̱rẽ` ⇒ ele me abandonou (eu)
 - `ma tô ĩ̱rẽ` ⇒ você me abandonou (eu)
 
-> No caso dos verbos da tipo D de 2º classe, no lugar o prefixo `ti` ficará o objeto direto. Na frase acima o prefixo `ti` do verbo `rẽme` foi substituído por `ĩ̱`.
+> No caso dos verbos da tipo D com prefixo de objeto, no lugar o prefixo `ti` ficará o objeto direto. Na frase acima o prefixo `ti` do verbo `rẽme` foi substituído por `ĩ̱`.
 
 ## Verbos que usam objeto direto
 
