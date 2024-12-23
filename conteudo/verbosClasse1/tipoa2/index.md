@@ -3,15 +3,15 @@
 Estes verbos seguem um padrão parecido com os do [tipo A1](../tipoa1/index.md). Mas há duas diferenças:
 
 1. No singular do indicativo apenas a 2º pessoa recebe o prefixo `ai` ou `a`.
-2. Sempre perde a última sílaba da 2º pessoa do singular.
+1. Sempre perde a última sílaba da 2º pessoa do singular.
 
 Seguindo as regras gerais do idioma, alguns verbos sofrem algumas modificações fonéticas:
 
 1. A última sílaba com `du` sofre uma mutação para `tu` quando um sufixo é anexado. Exemplo: `wa udu` => `wa waꞌutu ni`.
-2. Muda de `nho` para `tsõ` quando recebe o prefixo `a`. Exemplo: `wa ĩ̱nhoꞌre` => `te atsõꞌre`
-3. A última sli, ou de `no` para `tõ`. Exemplo: `wa nhono` => `wa wanhotõ ni`
-4. Alguns verbos sofrem mudação de `ꞌö` para `rö`. Exemplo: `ma tô dörö` => `ma tö tidöꞌö dzahuré`
-5. Quando o sujeito `ai` ou `a` é prefixado, o `dz` sofre mutação para `ts`. Exemplo: `wa tô wadzatsuꞌu ni` => `te atsatsuꞌu ꞌwa`
+1. Muda de `nho` para `tsõ` quando recebe o prefixo `a`. Exemplo: `wa ĩ̱nhoꞌre` => `te atsõꞌre`
+1. A última sli, ou de `no` para `tõ`. Exemplo: `wa nhono` => `wa wanhotõ ni`
+1. Alguns verbos sofrem mudação de `ꞌö` para `rö`. Exemplo: `ma tô dörö` => `ma tö tidöꞌö dzahuré`
+1. Quando o sujeito `ai` ou `a` é prefixado, o `dz` sofre mutação para `ts`. Exemplo: `wa tô wadzatsuꞌu ni` => `te atsatsuꞌu ꞌwa`
 
 ## Padrão de conjugação do indicativo
 
