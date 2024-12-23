@@ -15,10 +15,10 @@
     1. [Verbo ser invisível (futuro/passado)](conteudo/verboSerInvisivel/index.md)
 1. [Prefixo verbal de sujeito ou objeto](/conteudo/verbos/prefixoVerbal/index.md)
 1. Verbos com prefixo de objeto no indicativo
-   1. [Tipo A](conteudo/verbosClasse2/tipoA/index.md)
-   1. [Tipo B](conteudo/verbosClasse2/tipoB/index.md)
-   1. [Tipo C](conteudo/verbosClasse2/tipoC/index.md)
-   1. [Tipo D](conteudo/verbosClasse2/tipoD/index.md)
+   1. [Tipo A - não perde sílabas](conteudo/verbosClasse2/tipoA/index.md)
+   1. [Tipo B - perde no singular](conteudo/verbosClasse2/tipoB/index.md)
+   1. [Tipo C - perde na 2º pessoa do singular](conteudo/verbosClasse2/tipoC/index.md)
+   1. [Tipo D - perde no singular e ganha ti-](conteudo/verbosClasse2/tipoD/index.md)
 1. Números e Tempo
    1. [Números](conteudo/numeros/index.md)
    1. [Períodos](conteudo/periodosTempo/index.md)
@@ -80,12 +80,12 @@
     1. dzahadu
     1. nadza
 1. [Verbos com prefixo de sujeito](/conteudo/verbosClasse1/index.md)
-     1. [Tipo A1](/conteudo/verbosClasse1/tipoa1/index.md)
-     1. [Tipo A2](/conteudo/verbosClasse1/tipoa2/index.md)
-     1. [Tipo B](/conteudo/verbosClasse1/tipob/index.md)
-     1. Prefixados com o `danhimi`  Tipo C1
-     1. Prefixados com `a`/`atsi` Tipo C2
-     1. Prefixados com `ma`/`atsimi` Tipo C3
+     1. [Tipo A1 - ĩ̱/wa/ai/ti](/conteudo/verbosClasse1/tipoa1/index.md)
+     1. [Tipo A2 - wa/ai/ti](/conteudo/verbosClasse1/tipoa2/index.md)
+     1. [Tipo B - ai/tsi](/conteudo/verbosClasse1/tipob/index.md)
+     1. Tipo C1 - `danhimi`
+     1. Tipo C2 - `a`/`atsi`
+     1. Tipo C3 - `ma`/`atsimi`
 1. Prefixos
     1. ꞌma-
     1. a-
