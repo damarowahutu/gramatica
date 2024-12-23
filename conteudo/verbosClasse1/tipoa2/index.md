@@ -99,10 +99,17 @@ ai/a[verbo] dzaꞌra waꞌaba
   - `te dza atséptöꞌö dzaꞌra waꞌwa` vocês sararão
   - `ĩ̱dzéptöꞌö wamhã` quando eu sarar
   - `atséptöꞌö wamhã` quando você sarar
-- `dawitsi` chegar (singular)
-  - `ma tô wi` eu cheguei
-  - `ma tô aiwi` você chegou
-  - `ma tô ai` ele chegou
-  - `ĩ̱witsi wamhã` quando eu chegar
-  - `aiwitsi wamhã` quando você chegar
-  - `witsi wamhã` quando ele chegar
+- `danomro` deitar-se (singular)
+  - `wa nomro` eu deito
+  - `te ano` você deita
+  - `te nomro` ele deita
+  - `ĩ̱nomro õ di` eu não me deito
+  - `anomro õ di` você não se deita
+  - `nomro õ di` ele não se deita
+- `darĩni` procurar
+  - `wa tsô rĩni` eu o procuro
+  - `te tsô airĩ` você o procura
+  - `te tsô rĩni` ele o procura
+  - `wa tsô warĩtĩ dzaꞌra` nós o procuramos
+  - `te tsô tirĩtĩ dzaꞌra` eles o procuram
+  

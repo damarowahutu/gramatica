@@ -59,3 +59,5 @@ danhi[verbo] dzaꞌra
   - `wanhiptsaihuri õ di` nós não roubamos
   - `ma atsiptsaihu` você roubou
   - `atsiptsaihuri õ di` você não roubou
+- `dabaꞌwara` deixar (plural)
+  
