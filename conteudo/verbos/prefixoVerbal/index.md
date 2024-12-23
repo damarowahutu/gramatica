@@ -53,14 +53,14 @@ Note os seguintes dois padrões nos verbos acima:
 
 Tente identificar qual é o tipo de prefixo em todos verbos em xavante. Desta forma você irá usar o verbo se forma correta, prefixando um sujeito ou um objeto direto.
 
-É preciso ver os verbos conjugados para identificar quais verbos recebem prefixo de objeto direito e quais verbos recebem prefixo de sujeito. Os verbos que recebem prefixo de sujeito podem ter uma ou mais das seguinte características:
+É preciso ver os verbos conjugados para identificar se ele recebe prefixo de objeto direto ou de sujeito. Os verbos que recebem prefixo de sujeito podem ter uma ou mais das seguintes características:
 
 - recebe o prefixo `ti` _apenas_ na terceira pessoa
 - no indicativo é prefixado com `ai` e no infinitivo é prefixado com `tsi`
 - é prefixado com `atsi`, `ĩ̱nhi`, `wanh` ou `danhi` em uma ou mais pessoas do infinitivo
 - não recebe os prefixos `te`, `te te`, `wa te` e `da te` no infinitivo
 
-## Exceção: verbos com os dois tipos de prefixos
+## Exceção: verbos permitem os dois tipos de prefixos
 
 Dependendo do contexto o verbo pode receber um prefixo de sujeito ou de objeto direto. É preciso entender o assunto para identificar se ação é sobre o próprio sujeito da oração, ou se é sobre outra pessoa, o objeto da oração. Veja os exemplos:
 
@@ -70,7 +70,12 @@ Dependendo do contexto o verbo pode receber um prefixo de sujeito ou de objeto d
 - `dapetse` curar-se (a si mesmo)
   - `ma tô tipetse` ele curou-se
 - `dahöiwaꞌudu` ressuscitar alguém
+  - `ma tô höiwaꞌutu` ele ressuscitou (outra pessoa)
+  - `te dza wahöiwaꞌutu` ele nos ressuscitará
+  > quando é prefixo de objeto direto, o `d` da última sílaba muda para `t`
 - `dahöiwaꞌudu` ressuscitar-se (a si mesmo)
+  - `wa dza apö höiwaꞌudu` eu me ressuscitarei novamente (a mim mesmo)
+  > quando é prefixo de sujeito, não há mudança na última sílaba de `d` para `t`
 - `dapodo` criar algo
   - `ma tô aipoto` ele criou você
   - `ma tô poto` eu criei (algo)

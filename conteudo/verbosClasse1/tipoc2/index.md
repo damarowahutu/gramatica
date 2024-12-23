@@ -45,4 +45,17 @@ danhi[verbo] dzaꞌra
 ## Exemplos
 
 - `danhipi` cozinhar
+  - `wa api` eu cozinho
+  - `ĩ̱nhipi õ di` eu não cozinho
+  - `wa api dzaꞌra ni` nós cozinhamos
+  - `wanhipi dzaꞌra õ di` nós não cozinhamos
+  - `te api dzaꞌra` eles cozinham
+  - `sipi dzaꞌra õ di` eles não cozinham
+  - `te atsipi` você cozinha
+  - `atsipi õ di` você não cozinha
 - `danhiptsaihuri` roubar
+  - `wa aptsaihu` eu roubei
+  - `ma aptsaihu` ele roubou
+  - `wanhiptsaihuri õ di` nós não roubamos
+  - `ma atsiptsaihu` você roubou
+  - `atsiptsaihuri õ di` você não roubou
