@@ -83,9 +83,9 @@
      1. [Tipo A1 - ĩ̱/wa/ai/ti](/conteudo/verbosClasse1/tipoa1/index.md)
      1. [Tipo A2 - wa/ai/ti](/conteudo/verbosClasse1/tipoa2/index.md)
      1. [Tipo B - ai/tsi](/conteudo/verbosClasse1/tipob/index.md)
-     1. Tipo C1 - `danhimi`
-     1. Tipo C2 - `a`/`atsi`
-     1. Tipo C3 - `ma`/`atsimi`
+     1. [Tipo C1 - danhimi](/conteudo/verbosClasse1/tipoc2/index.md)
+     1. Tipo C2 - a/atsi
+     1. Tipo C3 - ma/atsimi
 1. Prefixos
     1. ꞌma-
     1. a-

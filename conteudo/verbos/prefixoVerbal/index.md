@@ -27,7 +27,7 @@ Objeto se refere a coisa ou pessoa que sofre a ação do sujeito.
 - Eu comprei a comida
   - `comida` é o objeto, pois é comprada por "eu"
 
-## Prefixos dos verbos em xavante
+## Identificando o tipo de prefixo
 
 Poderá ver com mais detalhes sobre como funcionam os prefixos de sujeito e objeto no verbos nos artigos sobre [objeto direto](/conteudo/objeto/direto/index.md) e sobre [verbos com prefixo de sujeito](/conteudo/verbosClasse1/index.md).
 
@@ -59,3 +59,24 @@ Tente identificar qual é o tipo de prefixo em todos verbos em xavante. Desta fo
 - no indicativo é prefixado com `ai` e no infinitivo é prefixado com `tsi`
 - é prefixado com `atsi`, `ĩ̱nhi`, `wanh` ou `danhi` em uma ou mais pessoas do infinitivo
 - não recebe os prefixos `te`, `te te`, `wa te` e `da te` no infinitivo
+
+## Exceção: verbos com os dois tipos de prefixos
+
+Dependendo do contexto o verbo pode receber um prefixo de sujeito ou de objeto direto. É preciso entender o assunto para identificar se ação é sobre o próprio sujeito da oração, ou se é sobre outra pessoa, o objeto da oração. Veja os exemplos:
+
+- `dapetse` curar (alguém)
+  - `ma tô aipetse` ele te curou
+  - `ma tô petse` ele curou (alguém)
+- `dapetse` curar-se (a si mesmo)
+  - `ma tô tipetse` ele curou-se
+- `dahöiwaꞌudu` ressuscitar alguém
+- `dahöiwaꞌudu` ressuscitar-se (a si mesmo)
+- `dapodo` criar algo
+  - `ma tô aipoto` ele criou você
+  - `ma tô poto` eu criei (algo)
+  - `te te poto wamhã` quando ele criar (algo)
+- `dapodo` pessoa nascer
+  - `wa podo` eu nasci
+  - `ma aipo` você nasceu
+  - `ma podo` ele nasceu
+  - `ĩ̱poto parimhã` depois que eu nasci

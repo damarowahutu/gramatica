@@ -9,6 +9,8 @@ Estes verbos ganham os seguintes prefixos:
 
 ## Padrão de conjugação do indicativo
 
+Nas conjugações abaixo, use o tema do verbo. Por exemplo, para o verbo `dawata`, descarte a partícula `da` e use apenas `wata`.
+
 ```text
 wa    ĩ̱[verbo]
 te ai/a[verbo]
@@ -104,3 +106,38 @@ ai/a[verbo] dzaꞌra waꞌaba
   - `wa tô ĩ̱mro Tsere ãma` eu casei com Tsere
   - `ma tô aimro Tsere ãma` você casou com Tsere
   - `ma tô timro Tsere ãma` ela casou com Tsere
+- `dawawa` chorar
+  - `wa ĩ̱wawa` eu choro
+  - `ĩ̱wawai õ di` eu não choro
+  - `te tiwawa dzahuré` eles dois choram
+  - `wawawai õ di` nós dois não choramos
+- `datobꞌudzu` admirar-se
+  - `ma tô ãma titobꞌudzu` ele admirou-se com algo
+  - `ma tô ãma aitobꞌudzu dzaꞌra waꞌwa` vocês admiraram-se com algo
+- `dapẽꞌẽdzé` compadecer-se
+  - `ma tô ãma tipẽꞌẽdzé` ele teve compadeceu-se por ele
+  - `ma tô waꞌãma aipẽꞌẽdzé` você compadeceu-se por nós
+  - `daꞌãma wapẽꞌẽdzé wamhã` se nós nos compadecermos pelas pessoas
+- `danhitiꞌru` ficar com ódio
+  - `ma tô atsitiꞌru` você ficou com ódio
+  - `ma tô tinhitiꞌru` ele ficou com ódio
+  - `wanhitiꞌrui wamhã` quando ficarmos com ódio
+- `danhopré` empenhar-se
+  - `ma tô tsô atsõpré` você se empenhou por algo
+  - `tsô wanhopré dzaꞌra wamhã` se nos empenharmos por algo
+- `daputsi` sair (dual)
+  - `wa tô waputsi ni` nós dois saímos
+  - `aiputsi wamhã` quando vocês dois saírem
+- `daprédu` amadurecer-se
+  - `ma tô tiprédu` ele amadureceu-se
+  - `waprédub dzaꞌra wamhã` quando nos amadurecermos
+- `dadzahi` zangar-se
+  - `ma tô atsahi` você ficou zangado
+  - `wadzahi wamhã` quando nos zangarmos
+- `dadzaꞌẽtẽ` crescer-se
+  - `ma tô tidzaꞌẽtẽ` ele cresceu (a si mesmo)
+  - `wadzaꞌẽtẽ wamhã` se crescermos
+- `dane` ir (dual)
+  - `wa wanem ni` nós dois vamos
+  - `te ane waꞌwa` vocês dois vão
+  - `neb dzahuré wamhã` quando eles dois forem

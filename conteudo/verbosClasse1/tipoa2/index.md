@@ -15,6 +15,8 @@ Seguindo as regras gerais do idioma, alguns verbos sofrem algumas modificações
 
 ## Padrão de conjugação do indicativo
 
+Nas conjugações abaixo, use o tema do verbo. Por exemplo, para o verbo `danhono`, descarte a partícula `da` e use apenas `nhono`.
+
 ```text
 wa     [verbo]
 te ai/a[verbo sem a última sílaba]
