@@ -1,4 +1,4 @@
-# Verbos com prefixo de sujeito - tipo A1
+# Verbos com prefixo de sujeito tipo A1 - ĩ̱/wa/ai/ti
 
 Estes verbos ganham os seguintes prefixos:
 

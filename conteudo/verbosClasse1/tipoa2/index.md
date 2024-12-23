@@ -1,4 +1,4 @@
-# Verbos com prefixo de sujeito - tipo A2
+# Verbos com prefixo de sujeito tipo A2 - wa/ai/ti
 
 Estes verbos seguem um padrão parecido com os do [tipo A1](../tipoa1/index.md). Mas há duas diferenças:
 

@@ -1,4 +1,4 @@
-# Verbos com prefixo de sujeito - tipo B
+# Verbos com prefixo de sujeito tipo B - ai/tsi
 
 Estes verbos recebem o prefixo `ai` no indicativo e não sofrem mudanças. No infinitivo recebem `tsi` e também recebem prefixos pessoais, com exceção da 2º pessoa que continua apenas com `ai`.
 
@@ -72,7 +72,7 @@ datsi[verbo] dzaꞌra
 - `datsime` ajudar
   - `ma tô aiꞌãma aime` ele te ajudou
   - `aiꞌãma watsime dzaꞌra wamhã` quando nós te ajudarmos
-- `datsiꞌudu` * contestar, retrucar
+- `datsiꞌudu` contestar, retrucar *
 - `datsiꞌabaꞌré` ir, vir (plural)
   - `wa aiꞌabaꞌré ni` nós vamos
   - `te aiꞌabaꞌréi waꞌwa` vocês vão
@@ -80,15 +80,20 @@ datsi[verbo] dzaꞌra
   - `watsiꞌabaꞌré wamhã` quando formos
   - `atsiꞌabaꞌrei waꞌaba wamhã` quando vocês forem
   - `tsiꞌabaꞌré wamhã` quando eles forem
-- `datsime` deitar-se
 - `datsimapa` proteger
   - `te ĩ̱ꞌwawi aimapa` ele me protege
   - `te aiꞌwawi aimapa dzaꞌra ni` nós te protegemos
 - `datsiwaꞌaba` condenar, executar
 - `datsiꞌutõrĩ` terminar, acabar, morrer *
+  - `ma tô aiꞌutõ` acabou
+  - `tsiꞌutõrĩ wamhã` se acabar
 - `datsimaꞌuri` esconder-se
+  - `ma tô aimaꞌuri dzaꞌra` escoderam-se
+  - `watsimaꞌuri parimhã` depois de nos escondermos
 - `datsihutu` chegar (plural)
 - `datsimatsitsi` vir, chegar (dual) *
+  - `wa tô aimatsitsi ni` nós dois chegamos
+  - `watsimatsitsi wamhã` quando chegarmos
 - `datsiwanhidzari` separar, afastar *
 
 > \* perdem a última sílaba no singular do indicativo
