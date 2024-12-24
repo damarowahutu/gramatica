@@ -1,55 +1,41 @@
 # Aspecto de ação de duração limitada
 
-## Definição
+Quando você fala sobre a duração de uma ação, você pode dizer que ela tem duração limitada ou duração indefinida.
 
-Veja a explicação no artigo sobre [duração indefinida](../reMono/index.md#definição).
+A duração indefinida não tem início ou fim, é como se você dissesse: "Eu vou estar trabalhando para você" e não há um prazo definido para terminar.
 
-## Duração limitada
+A duração limitada tem um prazo definido para terminar. Por exemplo: "Eu vou estar trabalhando para você por um mês" e você sabe que vai trabalhar por um mês e em seguida vai parar de trabalhar para ele.
 
-Indica que a ação será feita de forma contínua por um tempo mas que há um prazo definido para terminar. Por exemplo, o verbo _trabalhar_ pode estar relacionado a sempre estar trabalhando para alguém, sem nunca ter um prazo definido para parar de trabalhar para ele. Mas o mesmo verbo _trabalhar_ pode estar numa oração onde está claro que a pessoa irá trabalhar para alguém por um prazo determinado e em seguida não vai mais trabalhar para ele.
+Para indicar esta duração limitada, você pode usar a partícula `mono` que pode ser usada com verbos de tema simples ou de tema múltiplo.
 
-Para indicar esta duração limitada é adicionado a partícula `mono` depois do verbo ou do complemento pluralizador do verbo (`dzaꞌra`), respeitando as mesmas regras de união do indicativo com o infinitivo explicadas no artigo sobre [duração indefinida](../reMono/index.md#unindo-indicativo-com-o-infinitivo).
+A partícula `mono` não aparece quando a frase começa no indicativo e está na 1º ou 3º pessoa. Mas na 2º pessoa do indicativo, a partícula `mono` perde a última sílaba e fica `mo`. Já no infinitivo, a partícula `mono` sempre aparece e usa a forma completa `mono`.
 
-Note como incluir o `mono` nestas frases simples:
+## Verbos de tema simples
 
-- frase no indicativo, sem indicar duração
-  - `wa dza aima romhu` frase inicial: _vou trabalhar para você_
-- forma do infinitivo sem modificador na 1º pessoa
-  - `te aima romhuri`
-- forma do infinitivo com partícula `mono`
-  - `te aima romhuri mono`
-- unindo o indicativo com o infinitivo
-  - `wa dza te aima romhuri mono`
-- a partícula `mono` não aparece quando a frase começa no indicativo e está na 1º ou 3º pessoa
-  - `wa dza te aima romhuri` frase final: _vou estar trabalhando para você por um tempo limitado_
+Veja como funciona com verbos de tema simples:
 
-> Note que o verbo fica na sua forma completa sem perder nenhuma sílaba (não fica `romhu`)
+- `wa dza aima romhu` -> eu vou trabalhar para você
+- `te dza aima romhu` -> ele vai trabalhar para você
+- `te dza te te aima romhuri mono` -> ele vai estar trabalhando para você por um tempo limitado
+- `wa dza te aima romhuri mono` -> eu vou estar trabalhando para você por um tempo limitado
 
 ## Verbos de tema múltiplo
 
-Veja nos exemplos abaixo como o verbo de tema múltiplo `dahöiba` (tema singular) se transforma em `dahöimana` (tema de 2º e 3º pessoas).
+Veja como funciona com verbos de tema múltiplo:
 
-Ação sem especificar duração:
+- `wa ĩ̱höiba` -> eu sou
+- `Wa tô ĩ̱watsété na hã ĩ̱höiba` -> eu era pecador
+- `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöiba` -> você me tratou bem
 
-- `te aihöiba` você está/é
-- `Wa tô ĩ̱watsété na hã ĩ̱höiba` eu era pecador
-- `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöiba` você me tratou bem
+- `wa ĩ̱höimana mo` -> eu está sendo
+- `Wa tô ĩ̱watsété na hã ĩ̱höimana` -> eu estive sendo pecador (por um tempo limitado)
+- `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöimana mo` -> você esteve me tratando bem (por um tempo limitado)
 
-Ação de tempo limitada:
+- `wa ꞌre ĩ̱höimana mo` -> estou sempre está sendo
+- `Wa tô ĩ̱watsété na hã ꞌre ĩ̱höimana` -> eu estive sempre sendo pecador
+- `A hã ma tô ĩwẽ na tsi ĩ̱ma ꞌre aihöimana mo` -> você sempre esteve me tratando bem
 
-- `te aihöimana mo` -> você está sendo
-- `Wa tô ĩ̱watsété na hã ĩ̱höimana` eu estive sendo pecador (por um tempo limitado)
-- `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöimana mo` você esteve me tratando bem (por um tempo limitado)
-
-Ação de tempo indefinido ou habitual:
-
-- `te ꞌre aihöimana mo` -> você sempre está sendo
-- `Wa tô ĩ̱watsété na hã ꞌre ĩ̱höimana` eu estive sempre sendo pecador
-- `A hã ma tô ĩwẽ na tsi ĩ̱ma ꞌre aihöimana mo` você sempre esteve me tratando bem
-
-## Tempos verbais
-
-A partícula `mono` não aparece quando a frase começa no indicativo e está na 1º ou 3º pessoa. E na 2º pessoa do indicativo ela perde a última sílaba, ficando `mo`. Já no infinitivo ela sempre aparece e usa a forma completa `mono`.
+## Conjugações
 
 ### Verbos com prefixo de objeto
 
