@@ -6,6 +6,7 @@
 1. Introdução
    1. [Perguntas](/conteudo/introducao/perguntas/index.md)
    1. [Diálogo](conteudo/introducao/dialogo/index.md)
+   1. [Como traduzir](conteudo/introducao/comoTraduzir/index.md)
 1. [Substantivos](conteudo/substantivos/index.md)
 1. Pronomes
    1. [Pronomes pessoais](conteudo/pronomes/pronomesPessoais/index.md)
@@ -69,8 +70,7 @@
     1. [Intransferível - não mudaria de dono](conteudo/posse/intransferivel/index.md)
     1. [Transferível - é passível a troca de dono](conteudo/posse/transferivel/index.md)
     1. [Produzida - ação feita pela pessoa](conteudo/posse/produzida/index.md)
-1. Reflexivo
-1. Mudanças de estado ou ser
+1. [Reflexivo](/conteudo/verbos/reflexivo/index.md)
 1. [Locução verbal](conteudo/locucaoVerbal/index.md)
 1. Interjeições
     1. bété
