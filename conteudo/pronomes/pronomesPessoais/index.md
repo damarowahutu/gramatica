@@ -2,18 +2,18 @@
 
 ## Tabela
 
-| Pessoas Verbais | Pronomes do Caso Reto Português | Xavante |
-|:----:|:-------:|:---:|
-| 1ª pessoa do singular | eu | `wa hã`
-| 2ª pessoa do singular | tu/você | `a hã`
-| 3ª pessoa do singular | ele/ela aqui, este, esta, isto | `ã hã`
-| ^^ | ele/ela aí, esse, essa, isso | `ta hã`
-| ^^ | ele/ela lá, aquele, aquela, aquilo | `õ hã`
-| 1ª pessoa do dual/plural | nós | `wa hã`
-| 2ª pessoa do dual/plural | vós | `a norĩ waꞌwa hã`
-| 3ª pessoa do dual/plural | eles/elas aqui, estes, estas | `ã norĩ hã`
-| ^^ | eles/elas aí, esses, essas | `ta norĩ hã`
-| ^^ | eles/elas lá, aqueles, aquelas | `õ norĩ hã`
+|     Pessoas Verbais      |  Pronomes do Caso Reto Português   |      Xavante      |
+| :----------------------: | :--------------------------------: | :---------------: |
+|  1ª pessoa do singular   |                 eu                 |      `wa hã`      |
+|  2ª pessoa do singular   |              tu/você               |      `a hã`       |
+|  3ª pessoa do singular   |   ele/ela aqui, este, esta, isto   |      `ã hã`       |
+|            ^^            |    ele/ela aí, esse, essa, isso    |      `ta hã`      |
+|            ^^            | ele/ela lá, aquele, aquela, aquilo |      `õ hã`       |
+| 1ª pessoa do dual/plural |                nós                 |      `wa hã`      |
+| 2ª pessoa do dual/plural |                vós                 | `a norĩ waꞌwa hã` |
+| 3ª pessoa do dual/plural |    eles/elas aqui, estes, estas    |    `ã norĩ hã`    |
+|            ^^            |     eles/elas aí, esses, essas     |   `ta norĩ hã`    |
+|            ^^            |   eles/elas lá, aqueles, aquelas   |    `õ norĩ hã`    |
 
 ## Distâncias na 3º pessoa
 

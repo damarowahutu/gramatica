@@ -35,7 +35,7 @@
 
 |Letra | Som em português | Exemplo em xavante | Tradução em português |
 |:----:|:----------------:|:-------:|:--------:|
-| B | Som de B como em **b**olo. | bödödi | estrada
+| B | Som de B como em **b**olo. | bödödi | estrada |
 | B | No final de sílaba ou palavra, tem som mudo como em a**b**duzido | ubdö | capivara
 | D | Som de D nordestino como em **d**ar. Nunca tem som de DJ. | dadi | barriga
 | H | Som de R frouxo como em ca**rr**o | dahi[🔉](audios/dahi.mp3) | osso

@@ -66,8 +66,8 @@
     1. [Imperativo com verbos com prefixo de sujeito](/conteudo/imperativo/classe1/index.md)
 1. [Adjetivos](/conteudo/adjetivos/index.md)
 1. Posse
-    1. [Inalienável - não mudaria de dono](conteudo/posse/inalienavel/index.md)
-    1. [Alienável - é passível a troca de dono](conteudo/posse/alienavel/index.md)
+    1. [Intransferível - não mudaria de dono](conteudo/posse/intransferivel/index.md)
+    1. [Transferível - é passível a troca de dono](conteudo/posse/transferivel/index.md)
     1. [Produzida - ação feita pela pessoa](conteudo/posse/produzida/index.md)
 1. Reflexivo
 1. Mudanças de estado ou ser

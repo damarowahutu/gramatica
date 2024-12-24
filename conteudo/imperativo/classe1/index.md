@@ -2,7 +2,7 @@
 
 ## Imperativo simples
 
-```
+```text
    ĩ̱[verbo] (na)
 a/ai[verbo]
     [verbo]
@@ -21,7 +21,7 @@ a/ai[verbo] (dzaꞌra) aba/waꞌaba
 - `ĩ̱watobro` que eu saia
 - `watobro` que ele saia
 - `atsipi na!` cozinhe!
-> ⚠️ A partícula `na` só ocorre no singular em verbos que *não perdem* sílabas em final de locução. Por exemplo, `watobro` perde na 2º pessoa do singular do indicativo `ma aiwato`. 
+  > ⚠️ A partícula `na` só ocorre no singular em verbos que _não perdem_ sílabas em final de locução. Por exemplo, `watobro` perde na 2º pessoa do singular do indicativo `ma aiwato`.
 - `ĩ̱dzô atsimipari!` Espere por mim!
 - `atsõtõ!` durma!
 - `aimorĩ!` vá!
@@ -35,22 +35,24 @@ a/ai[verbo] (dzaꞌra) aba/waꞌaba
 - `atsipi dzaꞌra waꞌaba!` cozinhem vocês todos!
 - `ĩ̱dzô atsimipari dzaꞌra waꞌaba!` Espere vocês todos por mim!
 - `atsõtõ dzaꞌra waꞌaba!` durmam vocês todos!
-> ⚠️ as partículas `dzahuré` e `dzaꞌra` vão aparecer apenas em verbos que *não são* de tema múltiplo.
+  > ⚠️ as partículas `dzahuré` e `dzaꞌra` vão aparecer apenas em verbos que _não são_ de tema múltiplo.
 - `aiꞌabaꞌréi waꞌaba!` vão vocês todos!
 - `wairébé` que eles saiam
 
 ## Imperativo inclusivo
-Dá uma ordem que inclui a pessoa que está falando na ação 
+
+Dá uma ordem que inclui a pessoa que está falando na ação
 
 ## Verbos com prefixo de sujeito
 
-```
+```text
 [verbo] na
 [verbo] aba/waꞌaba
 [verbo] dzaꞌra waꞌaba
 ```
 
 ### Exemplo
+
 - `wanhipi na!` cozinhemos você e eu!
 - `wane na!` vamos embora você e eu!
 - `wanhipi waꞌaba!` cozinhemos vocês dois e eu!
@@ -61,9 +63,9 @@ Dá uma ordem que inclui a pessoa que está falando na ação
 
 ## Imperativo negativo
 
-## Verbos com prefixo de sujeito
+### Imperativo negativo com Verbos com prefixo de sujeito
 
-```
+```text
    ĩ̱[verbo] tõ
 a/ai[verbo] tõ
     [verbo] tõ
@@ -77,8 +79,6 @@ a/ai[verbo] (dzaꞌra) aba/waꞌaba tõ
     [verbo] (dzaꞌra) tõ
 ```
 
-### Exemplos
-
 - `ĩ̱morĩ tõ!` que eu não vá!
 - `aimorĩ tõ!` não vá!
 - `wane tõ!` não vamos embora você e eu!
@@ -90,8 +90,6 @@ a/ai[verbo] (dzaꞌra) aba/waꞌaba tõ
 ## Imperativo Suave
 
 Conjugue o verbo no futuro simples do indicativo para formar um tipo mais suave de dar ordens
-
-### Exemplos
 
 - `te dza aimo` você vá
 - `te dza aiꞌabaꞌré` vão eles todos

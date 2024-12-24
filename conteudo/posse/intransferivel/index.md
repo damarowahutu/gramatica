@@ -1,10 +1,14 @@
-# Posse Inalienável ou Cultural
+# Posse intransferível ou Cultural
 
-Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
+A posse intransferível, ou cultural, é a forma de se referir a objetos ou coisas que fazem parte de uma pessoa ou família e que não podem ser vendidas, trocadas ou transferidas para outra pessoa. São coisas que fazem parte da identidade ou da família e que não podem ser separadas delas. Exemplos de coisas que são consideradas posse intransferível incluem:
 
 - pai (meu pai, teu pai, pai dele, etc)
 - mãe
 - corpo (meu corpo, teu corpo)
+
+Essas coisas são consideradas inalienáveis porque não podem ser separadas de quem as possuem. Elas fazem parte da identidade e da família de quem as possuem e não podem ser transferidas para outra pessoa. Por exemplo, um pai não pode vender ou transferir seu pai para outra pessoa, pois o pai faz parte da família e da identidade da pessoa. Da mesma forma, uma pessoa não pode vender ou transferir seu corpo para outra pessoa, pois o corpo faz parte da identidade e da individualidade da pessoa.
+
+Essa forma de posse é importante para se compreender a cultura e a linguagem xavante, pois reflete a forma como a sociedade xavante se organiza e se relaciona com as coisas e com as pessoas. Além disso, a posse intransferível é uma forma de se expressar a identidade e a família em xavante, e de se mostrar respeito e consideração pelas coisas e pelas pessoas que fazem parte da vida de uma pessoa.
 
 ## Conjugação
 
@@ -118,24 +122,24 @@ Coisas que não mudam de dono, que *não podem ser vendidas ou trocadas:*
 - `tinhorõwa dzaꞌra` ⇒ a casa deles mesmos (3 ou mais)
 - `Tsere nhorõwa` ⇒ a casa do Tsere
 
-> Note que alguns objetos, como casa, são conjugados como uma posse inalienável, embora possam passar para outros donos. Uma explicação para isso seria que a casa xavante faz parte da cultura e por isso segue a mesma forma de conjugação das posses que não mudam de dono.
+> Note que alguns objetos, como casa, são conjugados como uma posse intransferível, mesmo que, na prática, possam ser transferidos para outras pessoas. Isso ocorre porque a casa xavante é vista como parte integrante da cultura, e assim, segue a mesma regra de conjugação das posses que são intransferíveis.
 
-## Prefixo *ti* com posses
+## Uso do Prefixo *ti* com Posses
 
-Indica dele próprio, dele mesmo. É usada nas frases onde a ação é realizada na própria posse do ator (sujeito) da oração. Sempre será um objeto da ação, nunca será o sujeito (ator principal) da oração.
+O prefixo *ti* é utilizado para indicar que algo pertence a ele próprio, ou seja, à própria pessoa que realiza a ação. Esse prefixo é aplicado em frases onde a ação é realizada sobre algo que pertence ao sujeito da oração, mas nunca é o sujeito principal da oração.
 
 Por exemplo:
 
-- `te romhu timama ma` ele trabalha para o pai dele (o pai dele mesmo)
-- `te romhu ĩmama ma` ele trabalha para o pai dele (o pai de outra pessoa)
+- `te romhu timama ma` significa "ele trabalha para o pai dele mesmo", indicando que o trabalho é feito para o próprio pai do sujeito.
+- `te romhu ĩmama ma` significa "ele trabalha para o pai dele", mas neste caso, o pai é de outra pessoa, e não do próprio sujeito.
 
-O xavante é mais específico que o português. Em xavante é obrigatório ser específico, indicando exatamente de quem está falando. No português essa frase é ambígua, pois dá margem para entender de duas maneiras. Nas figuras abaixo duas pessoas estão conversando sobre o que outra pessoa viu.
+No idioma xavante, a especificidade é crucial. É obrigatório indicar claramente a quem ou a quê se refere, evitando qualquer ambiguidade. Isso difere do português, onde a mesma frase pode ser interpretada de diferentes maneiras. Por exemplo, nas figuras abaixo, duas pessoas discutem sobre o que alguém viu, e a clareza sobre a identidade de posse é mantida no xavante.
 
-![img.png](img.png)
+![img.png](../inalienavel/img.png)
 Ele viu o pai dele mesmo?! Ou seria o pai de outra pessoa?!
 
-![img_1.png](img_1.png)
+![img_1.png](../inalienavel/img_1.png)
 `ĩmama` o pai de dele (outra pessoa), não é posse do ator principal (sujeito) da oração.
 
-![img_2.png](img_2.png)
+![img_2.png](../inalienavel/img_2.png)
 `timama` o pai dele mesmo, o pai da pessoa de quem estamos falando, é posse do sujeito (ator) da oração.

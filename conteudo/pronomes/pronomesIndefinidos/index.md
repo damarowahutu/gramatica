@@ -2,7 +2,7 @@
 
 ## Alguém / Ninguém
 
-Ao usar `niꞌwa` no singular passa o sentido de "alguém". Mas se usar no negativo, o sentido passa a ser de "ninguém". 
+Ao usar `niꞌwa` no singular passa o sentido de "alguém". Mas se usar no negativo, o sentido passa a ser de "ninguém".
 
 - `niꞌwa te dza romhu` alguém trabalhará
 - `niꞌwa te te romhuri õ di dza` ninguém trabalhará

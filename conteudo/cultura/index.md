@@ -42,17 +42,9 @@ Ele tem `danhorõwa` ou `ꞌri`. *Oca* vem da língua tupi (outra etnia)
 
 [Os rituais dos guerreiros Xavantes](https://brasil.elpais.com/brasil/2014/11/28/politica/1417197438_573823.html)
 
-## Waiꞌa
-
-[![Assista o video](https://img.youtube.com/vi/z0bcoE9F7XE/hqdefault.jpg)](https://youtu.be/z0bcoE9F7XE)
-
 ## Waiꞌá
 
 [![Assista o video](https://img.youtube.com/vi/glp_vbxs8v4/hqdefault.jpg)](https://youtu.be/glp_vbxs8v4)
-
-## Pahöꞌriwa
-
-[![Assista o video](https://img.youtube.com/vi/FnzLiVB707Q/hqdefault.jpg)](https://youtu.be/FnzLiVB707Q)
 
 ## Uma casa, uma vida (2013, Xavantes, Raiz das imagens)
 

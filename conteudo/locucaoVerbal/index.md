@@ -1,11 +1,8 @@
 # Locução verbal
 
-1. Definição
-2. Com objeto indireto
-3. Com substantivo de posse
-4. Com advérbio
+Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com o bloco de madeira, você pode criar algo novo e útil, como uma mesa ou uma cadeira. Isso é o que acontece com as locuções verbais em xavante. Nós pegamos um verbo (o martelo) e o combinamos com uma preposição, advérbio ou substantivo (o bloco de madeira) para criar uma expressão com um significado específico. 
 
-Em ma locução verbal um verbo é combinado com uma preposição ou advérbio para formar uma expressão com significado específico. Essas combinações de verbo com preposições ou advérbios criam novos significados e são muito comuns na comunicação cotidiana em português. Aqui estão mais alguns exemplos:
+Em uma locução verbal um verbo é combinado com uma preposição ou advérbio para formar uma expressão com significado específico. Essas combinações de verbo com preposições ou advérbios criam novos significados e são muito comuns na comunicação cotidiana em português. Aqui estão mais alguns exemplos:
 
 1. Colocar em prática (aplicar)
    - Precisamos colocar em prática o que aprendemos na reunião.
@@ -22,7 +19,7 @@ Em ma locução verbal um verbo é combinado com uma preposição ou advérbio p
    - Eu prestei atenção na aula.
    - Você prestará atenção em toda aula.
 
-O mesmo fenômeno ocorre em xavante com várias palavras, algumas delas usando objetos, advérbios, substantivos ou preposições.
+O mesmo fenômeno ocorre em xavante com várias palavras, algumas delas usando objetos, advérbios, substantivos ou preposições. Essas combinações de verbo com preposições ou advérbios criam novos significados e são muito comuns na comunicação cotidiana em xavante.
 
 ## Com objeto indireto
 

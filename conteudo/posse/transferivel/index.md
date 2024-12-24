@@ -1,14 +1,12 @@
-# Posse Alienável
+# Posse transferível
 
-Coisas que podem mudar de dono, que podem ser vendidas, ou referente a termos que não são da cultura xavante.
+A posse transferível é o tipo de posse que se refere a objetos ou coisas que podem mudar de dono, ser vendidos, trocados ou transferidos para outra pessoa. Isso ocorre porque a cultura xavante não considera essas coisas como parte integrante da identidade ou família da pessoa. Exemplos de coisas que são consideradas posse transferível incluem:
 
-Exemplos:
+- Meu carro: embora seja meu, posso vender ou trocar por outro.
+- O local de reuniões deles: embora seja deles, podem mudar de novo.
+- Tua família: a palavra família no sentido de dois cônjuges com seus próprios filhos, não existe na cultura xavante. Em xavante a família engloba todos parentes ou todos que moram na mesma casa.
 
-- meu carro é meu, mas pode mudar de novo
-- o local de reuniões deles é deles, mas pode mudar de novo
-- tua família a palavra família no sentido de dois cônjuges com seus próprios filhos, não existe na cultura xavante.
-
-> Em xavante a família engloba todos parentes ou todos que moram na mesma casa.
+Portanto, a posse transferível é importante para se compreender a cultura e a linguagem xavante, pois reflete a forma como a sociedade xavante se organiza e se relaciona com as coisas e com as pessoas. Além disso, a posse transferível é uma forma de se expressar a identidade e a família em xavante, e de se mostrar respeito e consideração pelas coisas e pelas pessoas que fazem parte da vida de uma pessoa.
 
 ## Conjugação
 

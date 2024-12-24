@@ -10,21 +10,21 @@ Exemplos de objetos em português:
 - você me ajuda (eu)
 - ele nos olha (nós)
 
-> Artigos não são preposições! Exemplo de artigos definido: o, a, os, as. Exemplos de artigos indefinidos (com sentido de qualquer um):  um, uns, uma, umas.
+> Artigos não são preposições! Exemplo de artigos definido: o, a, os, as. Exemplos de artigos indefinidos (com sentido de qualquer um): um, uns, uma, umas.
 
 Os pronomes oblíquos átonos se referem às pessoas que sofrem a ação do sujeito do verbo. Por exemplo:
 
 > João me ajudou.
 
 - "João" => sujeito, o ator principal, que executa a ação no objeto.
-- "me" => pronome que indica o objeto (pessoa) que recebe a ação do sujeito. Neste caso "*me*" se refere a "*eu*", 1º pessoa do singular.
+- "me" => pronome que indica o objeto (pessoa) que recebe a ação do sujeito. Neste caso "_me_" se refere a "_eu_", 1º pessoa do singular.
 - "ajudou" => verbo que indica a ação realizada pelo sujeito (João)
 
 Em xavante, o objeto direto não precisa de uma posposição. Por isso é prefixado diretamente ao verbo desta forma: `objetoVerbo`
 
-Exemplo: `wa aipawapto` *te ajudo*. Nesta frase onde `ai` = te (você) e `pawapto`  = ajudar
+Exemplo: `wa aipawapto` _te ajudo_. Nesta frase onde `ai` = te (você) e `pawapto` = ajudar
 
-Um objeto direto em português não é sempre um objeto direto também em xavante. Por exemplo, em português *confiamos em você* usa objeto indireto com a preposição *em*. Mas em xavante o verbo `umnhatsi` (confiar) usa objeto direto prefixado ao verbo sem posposição: `wa aiꞌumnhatsi dzaꞌra ni`.
+Um objeto direto em português não é sempre um objeto direto também em xavante. Por exemplo, em português _confiamos em você_ usa objeto indireto com a preposição _em_. Mas em xavante o verbo `umnhatsi` (confiar) usa objeto direto prefixado ao verbo sem posposição: `wa aiꞌumnhatsi dzaꞌra ni`.
 
 ## Conjugação dos objetos
 
@@ -134,7 +134,7 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `te pawaptob dzahuré` ele os ajuda (eles 2)
 - `te pawaptob dzahuré` eles dois ajudam (ele ou eles 2)
 
-> As partículas `dzahuré` e `dzaꞌra` podem relacionar-se ao sujeito, ao objeto direto ou aos dois simultaneamente, conforme o  contexto.
+> As partículas `dzahuré` e `dzaꞌra` podem relacionar-se ao sujeito, ao objeto direto ou aos dois simultaneamente, conforme o contexto.
 
 - `te wapawaptob dzaꞌra` ele nos ajuda (nós 3 ou mais)
 - `te wapawaptob dzaꞌra` eles nos ajudam (nós 3 ou mais)
@@ -151,7 +151,7 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `wa aipawaptob dzaꞌra waꞌaba ni` nós (3 ou mais) vos ajudamos (vocês 3 ou mais)
 
 > Quando a partícula `waꞌwa` aparece antes do `ni`, sempre se transformará em `waꞌaba`.
- 
+
 ## Verbos que sofrem mudanças de _dza_ para _tsa_
 
 Verbos que começam dom `tsa` sofrem uma mudança fonética para `dza` quando prefixados com os objetos de 1º pessoa `ĩ̱` e `wa`, e também do objeto genérico `da`.
@@ -178,15 +178,14 @@ Verbos que começam dom `nho` sofrem uma mudança fonética para `tsõ` quando p
 - `wa dza atsõpẽtẽ dzaꞌra ni` nós te encontraremos
 - `wa dza danhopẽtẽ dzaꞌra ni` nós encontraremos as pessoas
 
-
 ## Alguns verbos com mudança fonética com objeto direto
 
 - `tsaprõni` guiar alguém
-    - `E marĩ te wadzaprõni dzaꞌra` O que nos guia?
+  - `E marĩ te wadzaprõni dzaꞌra` O que nos guia?
 - `tsapari` esperar alguém
-    - `Ĩ̱dzapari!` Me espere!
+  - `Ĩ̱dzapari!` Me espere!
 - `tsatõrĩ` expulsar/enviar
-    - `te dza atsatõrĩ dzaꞌra waꞌwa` ele vai expulsar vocês todos
+  - `te dza atsatõrĩ dzaꞌra waꞌwa` ele vai expulsar vocês todos
 - `tsabu` visitar alguém
   - `wa dza atsabu` te visitarei
 - `tsadanhari` perguntar à alguém

@@ -1,30 +1,43 @@
 # Perguntas
 
-## Estrutura
+## Estrutura das Perguntas
 
-Em português o sinal de interrogação ? no final de uma frase indica se aquela frase é uma pergunta.
-> O que você está fazendo?
+### Português
 
-No idioma espanhol é usado um sinal de interrogação invertido no começo da frase e outro no final para indicar que aquela frase é interrogativa.
-> ¿Habla espanhol?
+Em português, usamos o sinal de interrogação (?) no final de uma frase para indicar que é uma pergunta.
 
-Em inglês, em alguns casos, inverte-se a ordem *sujeito + verbo* no presente, para a ordem *verbo + sujeito* na forma interrogativa.
-> Are you a student?
+- Exemplo: "O que você está fazendo?"
 
-E no xavante? Todas frases que começam com a vogal **E** são perguntas.
+### Espanhol
+
+No espanhol, a interrogação é marcada por dois sinais: um invertido no início e outro no final da frase.
+
+- Exemplo: "¿Habla español?"
+
+### Inglês
+
+Em inglês, a forma interrogativa muitas vezes requer a inversão do sujeito e do verbo.
+
+- Exemplo: "Are you a student?"
+
+### Xavante
+
+No idioma xavante, todas as frases que começam com a vogal **E** são perguntas.
+
+- Exemplo: "E marĩ te ĩꞌmadö" (O que você está vendo?)
 
 ## Exemplos
 
-- O que? `E marĩ` *fala masculina*
+- O que? `E marĩ` _fala masculina_
   - O que você está vendo? `E marĩ te ĩꞌmadö.`
   - Com o que? / De que? `E marĩ na`
   - Para que? `E marĩ da`
-  - Por que? `E marĩ wa.`  
-- O que? `E tiha.` *fala feminina*
+  - Por que? `E marĩ wa.`
+- O que? `E tiha.` _fala feminina_
   - O que é isso? `E tiha tahã.`
   - Para que? `E tiha da.`
   - Por que? `E tihai wa.`
-  > Mulheres nunca falam *marĩ* mesmo que estejam lendo em voz alta. Enquanto que homens nunca falam *tiha* mesmo ao lerem. Para isso fazem automaticamente a substituição das expressões.
+    > Mulheres nunca falam _marĩ_ mesmo que estejam lendo em voz alta. Enquanto que homens nunca falam _tiha_ mesmo ao lerem. Para isso fazem automaticamente a substituição das expressões.
 - Por que? `E niha bö.`
 - Como? / Quanto? `E niha.`
   - Como é seu nome? `E niha atsitsi.`
@@ -41,7 +54,7 @@ E no xavante? Todas frases que começam com a vogal **E** são perguntas.
   - Para quem? `E ꞌwai ma.`
   - De quem é? `E ꞌwai te.`
 - Eu? `E wa hã.`
-  > Note que `wa` **sem glotal** compõe a expressão que significa *eu*, enquanto que nas frases anteriores `ꞌwa` compõe expressões que significam *quem*.
+  > Note que `wa` **sem glotal** compõe a expressão que significa _eu_, enquanto que nas frases anteriores `ꞌwa` compõe expressões que significam _quem_.
 - Você? `E a hã.`
 - Ele? `E õ hã.`
 - Qual? `E mahã.`
@@ -60,6 +73,6 @@ E no xavante? Todas frases que começam com a vogal **E** são perguntas.
 
 A vogal E vai ser coloca na parte da frase onde começa a oração interrogativa.
 
-Exemplo: Ele vai te explicar *por que* eu costumo estudar o idioma xavante.
+Exemplo: Ele vai te explicar _por que_ eu costumo estudar o idioma xavante.
 
 <code>Te dza aima watsuꞌu <b>e marĩ wa</b> wa natsi romnhoré aꞌuwẽ mreme na.</code>

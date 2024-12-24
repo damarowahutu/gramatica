@@ -1,4 +1,4 @@
-# Verbo *ser* invisível
+# Verbo _ser_ invisível
 
 Só funciona com frases simples ou com substantivos.
 
@@ -12,7 +12,7 @@ Fórmula:
 [substantivo com hã] [substantivo]
 ```
 
-Note que verbo ser fica invisível nessa construção, não aparece claramente em xavante a palavra *sou*.
+Note que verbo ser fica invisível nessa construção, não aparece claramente em xavante a palavra _sou_.
 
 ### Exemplos do presente afirmativo singular
 
@@ -106,7 +106,7 @@ substantivo hãi + õ di.
 - `A norĩ waꞌwa hãi õ di!` Não são vocês!
 - `Õ norĩ hãi õ di!` Não são eles!
 - `Wa hãi õ di dza!` Não serei eu!
-- `Wa hãi õ di dza, te ĩꞌupa hã` Não serei eu que pequei 
+- `Wa hãi õ di dza, te ĩꞌupa hã` Não serei eu que pequei
 
 ## Com substantivos
 
