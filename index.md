@@ -97,8 +97,8 @@
     1. re
     1. ꞌre
 1. Verbos de tema múltiplo
-     1. [Objeto múltiplo](conteudo/verbosObjetoMultiplo/index.md)
-     1. Sujeito múltiplo
+     1. [Objeto múltiplo](conteudo/verbos/objetoMultiplo/index.md)
+     1. [Sujeito múltiplo](conteudo/verbos/sujeitoMultiplo/index.md)
 1. Modificações fonéticas
     1. para ligação
     1. de temas não verbais
