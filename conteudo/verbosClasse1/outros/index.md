@@ -1,0 +1,29 @@
+# Outros tipos
+
+- `dadzaꞌo`
+  - `wa da'o` eu pendo
+  - `te atsa'o` você pende
+  - `te da'o` ele pende
+  - `ĩ̱dza'o` pender eu
+  - `atsa'o` pender você
+  - `tsa'o` pender ele
+  - `wa wadza'o ni` nós dois pendemos
+  - `te atsa'o wa'wa` vocês dois pendem
+  - `te tidza'o dzahuré` eles dois pendem
+  - `wadza'o` pendermos nós dois
+  - `atsa'o wa'aba` perderem vocês dois
+  - `tsa'o dzahuré` penderem eles dois
+  - `atsa'o aba` pendam vocês dois!
+- `danhimnhatã`
+  - `wa amnhatã ni` nós todos pendemos
+  - `te amnhatã 'wa` vocês todos pendem
+  - `te amnhatã` eles todos pendem
+  - `wanhimnhatã` pendermos todos nós
+  - `atsimnhatã aba` penderem todos vocês
+  - `tsimnhatã` penderem todos eles
+  - `atsimnhatã aba!` pendam todos vocês!
+- `danhimnhatsi`
+- `danhitsi`
+- `dzadzébré`
+- `danhitsitsi`
+- `danhopru`
