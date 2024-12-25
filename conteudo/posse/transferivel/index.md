@@ -12,19 +12,19 @@ Portanto, a posse transferível é importante para se compreender a cultura e a 
 
 ```text
    Singular:
-1º (meu)            ĩ̱te    
-2º (teu)            ate     
+1º (meu)            ĩ̱te
+2º (teu)            ate
 3º (dele)           ĩte
 3º (dele próprio)  tite
 
    Dual:
-1º (nosso)         wate     
+1º (nosso)         wate
 2º (teu)            ate waˈwa
 3º (dele)           ĩte dzahuré
 3º (dele próprio)  tite dzahuré
 
    Plural:
-1º (nosso)         wate dzaˈra      
+1º (nosso)         wate dzaˈra
 2º (teu)            ate dzaˈra waˈwa
 3º (dele)           ĩte dzaˈra
 3º (dele mesmo)    tite dzaˈra
@@ -44,9 +44,7 @@ de alguém    [substantivo] te  (3º pessoa com substantivo)
 - `öri José te ĩbaihö` pega a Bíblia do José.
 - `wate dzaꞌra robduri` nosso carro
 - `robduri Tsere te` carro do
-
-> 💡 Parece ser mais comum colocar o `te` após o substantivo como em `Tsere te`.
-
+  > 💡 Parece ser mais comum colocar o `te` após o substantivo como em `Tsere te`.
 - `ate computador` teu computador
 - `Ãhã ĩhöiwarobo, e ate waꞌwa.` Esse livro, é de vocês dois?
 - `E ꞌwa te.` De quem é?

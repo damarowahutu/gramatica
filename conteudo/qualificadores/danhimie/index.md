@@ -1,4 +1,4 @@
-# Qualificador danhimiꞌẽ
+# Qualificador `danhimiꞌẽ`
 
 Passa a ideia de algo feito com zelo, empenho, de forma aplicada, bem feita.
 
@@ -6,7 +6,8 @@ Passa a ideia de algo feito com zelo, empenho, de forma aplicada, bem feita.
 
 Este qualificador precisa estar em harmonia com a oração, sendo conjugado de acordo com o números de pessoas que estão fazendo a ação (um, dois, três ou mais), e de acordo com quem está fazendo a ação (eu, você, ele, nós, eles, etc). Porém, a conjugação é parcial, sendo mais simples, como verá abaixo.
 
-Esta tabela de conjugação se parece com a encontrada no artigo sobre os  [objetos diretos](/conteudo/objeto/direto/). Porém a tabela é simplificada, pois não precisamos nos preocupar com o "lado direito" da conjugação, ou seja, não precisamos usar `dzahuré`, `dzaꞌra` nem `waꞌaba`.
+Esta tabela de conjugação se parece com a encontrada no artigo sobre os [objetos diretos](/conteudo/objeto/direto/). Porém a tabela é simplificada, pois não precisamos nos preocupar com o "lado direito" da conjugação, ou seja, não precisamos usar `dzahuré`, `dzaꞌra` nem `waꞌaba`.
+
 ```text
 Singular:
          ĩ̱nhimiꞌẽ na => eu zelosamente

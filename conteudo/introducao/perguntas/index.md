@@ -75,4 +75,4 @@ A vogal E vai ser coloca na parte da frase onde começa a oração interrogativa
 
 Exemplo: Ele vai te explicar _por que_ eu costumo estudar o idioma xavante.
 
-<code>Te dza aima watsuꞌu <b>e marĩ wa</b> wa natsi romnhoré aꞌuwẽ mreme na.</code>
+`Te dza aima watsuꞌu e marĩ wa wa natsi romnhoré aꞌuwẽ mreme na.`

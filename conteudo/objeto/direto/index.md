@@ -30,9 +30,9 @@ Um objeto direto em português não é sempre um objeto direto também em xavant
 
 Nesta parte inicial da gramática, não utilizaremos a tabela completa de conjugação, embora esteja presente abaixo.
 
-<pre>
+```text
 Singular:
-         <u>ĩ</u>[verbo]    => me (eu)
+         ĩ̱[verbo]    => me (eu)
       ai/a[verbo]    => te (tu, você)
           [verbo]    => o, a, lhe (ele)
 Dual:
@@ -47,14 +47,14 @@ Plural:
 Especiais:
         da[verbo]        => pessoa genérica
         da[verbo] dzaꞌra => pessoas genéricas
-</pre>
+```
 
 ## Exemplos
 
 - `wa   pawapto` eu ajudo (alguém/ele)
 - `wa aipawapto` eu te ajudo
 - `te  pawapto` ele ajuda (alguém/ele)
-- <samp>te <u>ĩ</u>pawapto</samp> ele me ajuda
+- `te ĩ̱pawapto` ele me ajuda
 - `wa   pawaptob dzaꞌra ni` nós ajudamos (alguém/ele)
 - `wa aipawaptob dzaꞌra ni` nós te ajudamos (você)
 - `te   pawaptob dzaꞌra` eles ajudam (alguém/ele)
@@ -75,7 +75,7 @@ Especiais:
 Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 
 - `te tirẽ` ele abandona
-- <samp>te <u>ĩ</u>rẽ</samp> ele me abandona
+- `te ĩ̱rẽ` ele me abandona
 - `te warẽ` ele nos abandona (a nós 2)
 - `te warẽme dzaꞌra` ele nos abandona (a nós 3 ou mais)
 

@@ -1,4 +1,4 @@
-# Qualificador Waptu
+# Qualificador _waptu_
 
 Qualifica a ação como sendo executada rapidamente, algo feito depressa. Geralmente é usado como advérbio de modo assim como a palavra _rapidamente_ em português. Também pode receber o qualificador `petse` ou `tsaꞌẽtẽ` para intensificar a ação, como algo feito _muito_ rápido.
 

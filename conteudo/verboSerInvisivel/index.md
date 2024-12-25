@@ -37,7 +37,7 @@ Note que verbo ser fica invisível nessa construção, não aparece claramente e
 ### Fórmula do presente negativo
 
 ```text
-[substantivo com hã) [substantivo] õ di.
+[substantivo com hã] [substantivo] õ di.
 ```
 
 ### Exemplos do presente negativo singular
@@ -79,7 +79,7 @@ Note que verbo ser fica invisível nessa construção, não aparece claramente e
 
 - `Tsere hã rotiꞌwa aré` Tsere era cacique
 
-### Futuro negativo
+### Passado negativo
 
 ```text
 [substantivo com hã] [substantivo] õ di aré

@@ -12,17 +12,18 @@ Exemplos:
 - a crença da pessoa é dela porque ela que crê
 
 Essa forma de posse é importante porque nos permite expressar a ideia de que alguém é o responsável por algo, e que isso lhe pertence. Isso ajuda a evitar ambiguidades e a tornar a comunicação mais clara.
+
 ## Conjugação
 
 ```text
    Singular:
-1º (meu)            ĩ̱nhimi[verbo]                   
-2º (teu)            atsimi[verbo]                   
-3º (dele)           ĩtsimi[verbo]                   
-3º (dele próprio)  tinhimi[verbo]                   
-                                                
-   Dual:                                               
-1º (nosso)         wanhimi[verbo]             
+1º (meu)            ĩ̱nhimi[verbo]
+2º (teu)            atsimi[verbo]
+3º (dele)           ĩtsimi[verbo]
+3º (dele próprio)  tinhimi[verbo]
+
+   Dual:
+1º (nosso)         wanhimi[verbo]
 2º (teu)            atsimi[verbo] ˈwa
 3º (dele)           ĩtsimi[verbo] dzahuré
 3º (dele próprio)  tinhimi[verbo] dzahuré
@@ -55,9 +56,7 @@ de alguém    [substantivo] nhimi[verbo]  (3º pessoa com substantivo)
 - `ĩtsimiropitsudu` a promessa dele
 - `ĩtsimiropitsutu wẽ` a promessa boa dele
 - `wanhimiropitsutu dzaꞌra` nossa promessa
-
-> 💡 o final do tema verbal `pitsudu` modifica-se para `pitsutu`  (de `D` para `T`) quando está na forma de verbo conjugado ou se há algum complemento.
-
+  > 💡 o final do tema verbal `pitsudu` modifica-se para `pitsutu` (de `D` para `T`) quando está na forma de verbo conjugado ou se há algum complemento.
 - `danhimipitsudu` escolha da pessoa
 - `te pitsutu` ele escolhe
 - `ĩ̱nhimipitsudu` minha escolha (uma coisa que eu escolhi)
@@ -66,9 +65,7 @@ de alguém    [substantivo] nhimi[verbo]  (3º pessoa com substantivo)
 - `ĩtsimipitsutu norĩ` as escolhas dele (várias coisas que ele escolheu)
 - `wanhimipitsutu dzaꞌra` a nossa escolha (uma escolha que nós todos fizemos)
 - `wanhimipitsutu dzaꞌra norĩ` as nossas escolhas (várias escolhas que nós todos fizemos)
-
->💡 O modificador `norĩ` pluraliza a quantidade das coisas feitas. Enquanto `dzaꞌra` pluraliza os donos das coisas feitas.
-
+  > 💡 O modificador `norĩ` pluraliza a quantidade das coisas feitas. Enquanto `dzaꞌra` pluraliza os donos das coisas feitas.
 - `e atsimiromhuri.` é teu trabalho? / é você que faz?
 - `atsimirowaptẽrẽ` tua oração
 - `e niha atsimirotsaꞌrada taha na.` O você acha disso? / Como você sobre disso?

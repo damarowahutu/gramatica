@@ -1,16 +1,16 @@
-# Posposição `wi`
+# Posposição _wi_
 
 ## Significado
 
-Indica *de onde vem* ou *para onde vai* o objeto ou a ação do verbo. Mas tem significados diferentes dependendo do verbo.
+Indica _de onde vem_ ou _para onde vai_ o objeto ou a ação do verbo. Mas tem significados diferentes dependendo do verbo.
 
 Por exemplo, com o verbo `pedir` é preciso usar uma preposição antes do objeto (neste caso a pessoa) que é a origem de algo que está sendo pedido pelo sujeito da frase.
 
-- `wa aiwi waptẽ` eu peço *de* você (peço que você me dê algo)
+- `wa aiwi waptẽ` eu peço _de_ você (peço que você me dê algo)
 
-> Em português na frase *eu peço **para** você*, eu estou pedindo algo de alguém para dar a você? Ou estou pedindo que você me dê algo?
+> Em português na frase _eu peço **para** você_, eu estou pedindo algo de alguém para dar a você? Ou estou pedindo que você me dê algo?
 
-## Conjugação dos objetos com a posposição `wi`
+## Conjugação dos objetos com a posposição _wi_
 
 ```text
 Singular:
@@ -18,7 +18,7 @@ Singular:
             aiwi [verbo]
             tiwi [verbo]
 Dual:
-            wawi [verbo] 
+            wawi [verbo]
             aiwi [verbo] ˈwa / waˈwa
             tiwi [verbo] dzahuré
 Plural:
@@ -26,7 +26,7 @@ Plural:
             aiwi [verbo] dzaˈra waˈwa
             tiwi [verbo] dzaˈra
 Especiais:
-            dawi [verbo]  
+            dawi [verbo]
             dawi [verbo] dzaꞌra
 [substantivo] wi [verbo]
 ```

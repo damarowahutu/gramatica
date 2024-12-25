@@ -1,10 +1,8 @@
 # Substantivos
 
- ▶️ Assista a vídeo-aula
+Substantivos dão nomes para pessoas, animais, coisas, objetos, lugares, etc.
 
- Substantivos dão nomes para pessoas, animais, coisas, objetos, lugares, etc.
-
- > Exemplo: Um *homem* trabalha na *roça* - <code><i>Aibö</i> te romhu <i>buru</i> ãma</code>
+> Exemplo: Um homem trabalha na roça - `Aibö te romhu buru ãma`
 
 Subtantivos:
 
@@ -21,23 +19,23 @@ Subtantivos:
 
 ## Número de Substantivos
 
-Em português, em número, os substantivos  flexionam-se em singular e plural.
+Em português, em número, os substantivos flexionam-se em singular e plural.
 
 Singular:
 
 > criança, botão, cão, mar e cebola
 
-Plural:  
+Plural:
 
 > crianças, botões, cães, mares e cebolas
 
-Em português grande parte dos substantivos formam plural através do acréscimo do *-s*, outras palavras terminadas em –ão vira –ões. Algumas palavras terminadas em *–ão* viram *–ães*. Substantivos terminados em *–r*, *–z* e *–n* formam o plural pelo acréscimo de *–es*. E a lista continua.
+Em português grande parte dos substantivos formam plural através do acréscimo do _-s_, outras palavras terminadas em –ão vira –ões. Algumas palavras terminadas em _–ão_ viram _–ães_. Substantivos terminados em _–r_, _–z_ e _–n_ formam o plural pelo acréscimo de _–es_. E a lista continua.
 
 Mas em xavante é mais simples. Podemos usar o `norĩ` ou o `mono`.
 
-> Exemplo: <code><i>Aibö norĩ</i> te romhuri dzaꞌra buru ãma.</code> Os *homens* trabalha na *roça*
+> Exemplo: `Aibö norĩ te romhuri dzaꞌra buru ãma.` Os _homens_ trabalha na _roça_
 
-### Norĩ
+### Partícula _norĩ_
 
 Passa ideia de várias pessoas ou coisas juntas, ou pessoas e coisas que pertencem a um grupo. Exemplos:
 
@@ -47,9 +45,7 @@ Passa ideia de várias pessoas ou coisas juntas, ou pessoas e coisas que pertenc
 - `Duré damama norĩ nhimiroti hã da te ꞌre wapari dzaꞌra mono õ di dza` E as pessoas não escutam os conselhos dos pais.
 - `Ĩhödzé ré norĩ hã petse dzaꞌra waꞌaba mono` Curem os doentes. (Mt 10:8 RZW)
 
-- <code>Tawamhã Pedro, duré ĩtsiré <b>norĩ</b>, Zezusihi dzadawa watsuꞌuꞌwa <b>norĩ</b>, ma tô tsadaꞌöbö dzaꞌra, ãne: — ꞌRe ĩhöimana uꞌötsi mono mreme tsi, wa dza ꞌmadöꞌö petse dzaꞌra ni. Mare di, tiꞌai ãma aibö <b>norĩ</b> mreme hã.</code> Então Pedro, e os do grupo dele, as testemunhas da palavra de Jesus, responderam, assim: - Apenas a palavra de Deus, nós vamos obedecer. Não, a palavras dos homens terrenos.
-
-### Mono
+### Partícula _mono_
 
 Quando usado com substantivos, passa a ideia de cada uma das pessoas ou coisas. Exemplos:
 
@@ -57,16 +53,16 @@ Quando usado com substantivos, passa a ideia de cada uma das pessoas ou coisas. 
 - `Petse aba mono ĩhödzé ré mono hã` Curem cada um dos doentes (Mt 10:8 RTN)
 - `Nimahã na robꞌrãtsutu u hã oto roꞌrutu wamhã, dama mono hã ropire di dza` Quando o fim estiver perto, para cada pessoa será muito difícil.
 
-> Conforme será explicado posteriormente, o sentido é um pouco diferente quando o `norĩ` ou o `mono` é usado numa construção *verbal*.
+> Conforme será explicado posteriormente, o sentido é um pouco diferente quando o `norĩ` ou o `mono` é usado numa construção _verbal_.
 
 ## Composição dos substantivos
 
-Em português um substantivo é composto pelo tema (ou raiz) e o sufixo *dor*, "eiro", *ante*, etc. Por exemplo, o tema do verbo *trabalhar* é *trabalh*. Quando anexamos o prefixo *dor* neste tema temos o substantivo *trabalhador*. Esse padrão se repete em várias situações:
+Em português um substantivo é composto pelo tema (ou raiz) e o sufixo _dor_, "eiro", _ante_, etc. Por exemplo, o tema do verbo _trabalhar_ é _trabalh_. Quando anexamos o prefixo _dor_ neste tema temos o substantivo _trabalhador_. Esse padrão se repete em várias situações:
 
-- *trabalh* + *dor* = trabalhador
-- *pint* + *dor* = pintor
-- *faxin* + *eiro* = faxineiro
-- *estud* + *ante* = estudante
+- _trabalh_ + _dor_ = trabalhador
+- _pint_ + _dor_ = pintor
+- _faxin_ + _eiro_ = faxineiro
+- _estud_ + _ante_ = estudante
 
 Em xavante também podemos usar sufixos para construir substantivos que se referem às seguintes situações:
 
@@ -77,7 +73,7 @@ Em xavante também podemos usar sufixos para construir substantivos que se refer
 
 ### 1. Pessoa
 
-O sufixo `-wa` passa a ideia de *aquele que faz a ação*. Por exemplo, o tema da ação de trabalhar é `romhuri`. Ao acrescentar o sufixo `-wa` temos o substantivo que passa a ideia de *aquele que trabalha* ou *trabalhador*: `romhuriꞌwa`.
+O sufixo `-wa` passa a ideia de _aquele que faz a ação_. Por exemplo, o tema da ação de trabalhar é `romhuri`. Ao acrescentar o sufixo `-wa` temos o substantivo que passa a ideia de _aquele que trabalha_ ou _trabalhador_: `romhuriꞌwa`.
 
 Exemplos:
 
@@ -95,7 +91,7 @@ Exemplos:
 
 ### 2. Lugar
 
- Exemplos:
+Exemplos:
 
 - `romnhorédzé` escola
 - `dawededzé` hospital

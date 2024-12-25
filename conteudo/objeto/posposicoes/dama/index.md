@@ -1,4 +1,4 @@
-# Posposição `ma`
+# Posposição _ma_
 
 ## Significado
 
@@ -9,10 +9,10 @@ Indica destinatário ou beneficiário da ação do verbo.
 
 Com alguns poucos verbos, indica que o sujeito fará que o objeto receba sua ação.
 
-- `wa dza tãma waihuꞌu` eu vou ensiná-lo (Lit.: *eu saberei para ele / eu o farei saber*)
-- `wa dza aima romnhoré` eu vou dar aula para você (Lit.: *eu estudarei para você / eu te farei estudar*)
+- `wa dza tãma waihuꞌu` eu vou ensiná-lo (Lit.: _eu saberei para ele / eu o farei saber_)
+- `wa dza aima romnhoré` eu vou dar aula para você (Lit.: _eu estudarei para você / eu te farei estudar_)
 
-## Conjugação dos objetos com a posposição `ma`
+## Conjugação dos objetos com a posposição _ma_
 
 ```text
 Singular:
@@ -20,7 +20,7 @@ Singular:
             aima [verbo]
             tãma [verbo]
 Dual:
-            wama [verbo] 
+            wama [verbo]
             aima [verbo] ꞌwa / waꞌwa
             tãma [verbo] dzahuré
 Plural:
@@ -28,7 +28,7 @@ Plural:
             aima [verbo] dzaꞌra waꞌwa
             tãma [verbo] dzaꞌra
 Especiais:
-            dama [verbo]  
+            dama [verbo]
             dama [verbo] dzaꞌra
 [substantivo] ma [verbo]
 ```

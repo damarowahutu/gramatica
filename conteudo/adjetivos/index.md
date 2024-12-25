@@ -2,21 +2,21 @@
 
 ## Prefixados com o sujeito
 
-```
+```text
    ĩ̱[adjetivo] di
 a/ai[adjetivo] di
     [adjetivo] di
-    
+
   wa[adjetivo] di
 a/ai[adjetivo] aba/waꞌaba di
     [adjetivo] dzahuré di
-    
+
   wa[adjetivo] dzaꞌra di
 a/ai[adjetivo] dzaꞌra aba/waꞌaba di
     [adjetivo] dzaꞌra di
- 
+
  [substantivo] [adjetivo] di
-  ro[adjetivo] di 
+  ro[adjetivo] di
    ĩ[adjetivo]
    ĩ[adjetivo] dzaꞌra
 ```
@@ -49,7 +49,7 @@ Para indicar o futuro adiciona no final da conjugação o `dza`. Para indicar pa
 
 #### Exemplos
 
-- `ĩ̱wẽ di`  eu sou/estou bom
+- `ĩ̱wẽ di` eu sou/estou bom
 - `aiwatsété di` você é ruim
 - `aiwatsété dzaꞌra waꞌaba di` vocês todos são ruins
 - `rowẽ di` está tudo bem
@@ -57,7 +57,7 @@ Para indicar o futuro adiciona no final da conjugação o `dza`. Para indicar pa
 - `ĩwatsédé` ruim
 - `ĩwẽ` bom
 - `aipire di` você é pesado/importante
-- `ĩpire` pesado/importante 
+- `ĩpire` pesado/importante
 - `tahã ĩpire` isso é difícil
 - `dahöimanadzé pire di` a vida é/está difícil
 - `dahöimanadzé ĩpire` vida difícil
@@ -68,7 +68,9 @@ Para indicar o futuro adiciona no final da conjugação o `dza`. Para indicar pa
 - `aihöimanadzé upai õ di dza` a sua vida não será imperfeita
 
 ### Mudanças fonéticas ts/nh
-  As partículas `da`, `wa` e `ĩ̱` modificam o fonema de `ts` para `nh`
+
+As partículas `da`, `wa` e `ĩ̱` modificam o fonema de `ts` para `nh`
+
 - `danhibꞌru ti` pessoa é corajosa
 - `ĩ̱nhibꞌru ti` estou sou corajoso
 - `wanhibꞌru dzaꞌra di` nós somos corajosos
@@ -79,11 +81,11 @@ Para indicar o futuro adiciona no final da conjugação o `dza`. Para indicar pa
 - `atsõprub di` você é generoso
 - `ĩ̱nhoprub di` sou generoso
 
-## Regidos pelo `dama`
+## Regidos pelo _dama_
 
 ### Conjugação
 
-```
+```text
  ĩ̱ma [adjetivo] di
 aima [adjetivo] di
 tãma [adjetivo] di
@@ -97,7 +99,8 @@ aima [adjetivo] dzaꞌra waꞌaba di
 tãma [adjetivo] dzaꞌra di
 ```
 
-### Exemplos
+### Exemplos regidos pelo _dama_
+
 - `ĩ̱ma robdzei ti` estou feliz
 - `tãma robdze ti` ele está feliz
 - `wama robdze dzaꞌra di` nós estamos felizes
@@ -109,7 +112,8 @@ tãma [adjetivo] dzaꞌra di
 - `ĩ̱ma ꞌru ti` eu odeio (para mim é odiado)
 
 Em outros adjetivos o `dama` indica o objeto do adjetivo, e não o sujeito do adjetivo como exemplo acima. Exemplos:
-- `aipahi di` você está com medo 
+
+- `aipahi di` você está com medo
 - `tãma aipahi di` você está com medo dele
 - `tãma aipahi õ di` você não está com medo dele
 - `tãma aipahi tõ!` não fique com medo dele!
@@ -129,7 +133,7 @@ Diferente do português, alguns verbos no presente não são conjugados no indic
 - `e aima waihuꞌu õ di` você não sabe
 
 > o verbo amar no presente pode ser conjugado com a forma de adjetivo.
- 
+
 - `ĩ̱ma tsawi di` eu o amo (para mim ele é amado)
 - `ĩ̱ma atsawi di` eu te amo (para mim você é amado)
 - `aima ĩ̱dzawi di` você me ama (para você eu sou amado)

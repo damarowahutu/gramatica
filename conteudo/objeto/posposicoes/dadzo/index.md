@@ -1,10 +1,10 @@
-# Posposição `dzô`
+# Posposição _dzô_
 
 ## Significado
 
-Dependendo do contexto indica *motivo* ou *busca* de algo. Também pode significar *com* ou *sobre* alguma coisa, ou ainda *no lugar* de alguém (por alguém).
+Dependendo do contexto indica _motivo_ ou _busca_ de algo. Também pode significar _com_ ou _sobre_ alguma coisa, ou ainda _no lugar_ de alguém (por alguém).
 
-## Conjugação dos objetos com a posposição `dzô`
+## Conjugação dos objetos com a posposição _dzô_
 
 ```text
 Singular:
@@ -12,7 +12,7 @@ Singular:
              atsô [verbo]
               tsô [verbo]
 Dual:
-            wadzô [verbo] 
+            wadzô [verbo]
              atsô [verbo] ˈwa / waˈwa
               tsô [verbo] dzahuré
 Plural:
@@ -20,7 +20,7 @@ Plural:
              atsô [verbo] dzaˈra waˈwa
               tsô [verbo] dzaˈra
 Especiais:
-            dadzô [verbo]  
+            dadzô [verbo]
             dadzô [verbo] dzaꞌra
 [substantivo] dzô [verbo]
 ```
@@ -36,7 +36,7 @@ Especiais:
 - `te aiwi rowaptö dzeru dzô` você precisa de dinheiro
 - `te wawi tirowaptöꞌö dzaꞌra danhiptete dzô` ⇒ precisamos de força (falta de nós todos força)
 
-> Para passar a ideia de *precisar de algo* use `dawi` com a pessoa que precisa de algo, e o `dadzô` com a coisa que a pessoa precisa, sempre conjugando na 3º pessoa.
+> Para passar a ideia de _precisar de algo_ use `dawi` com a pessoa que precisa de algo, e o `dadzô` com a coisa que a pessoa precisa, sempre conjugando na 3º pessoa.
 
 - `E ꞌwa te atsô ꞌmadö, ꞌri hã` ⇒ Quem cuida dela por você, isto é, da casa? (para você, no teu lugar)
 - `te ĩ̱dzô ꞌmadöꞌö dzaꞌra, poneꞌẽrebö norĩ hã` ele cuida delas pra mim, das ovelhas (no meu lugar)
@@ -59,7 +59,7 @@ Especiais:
 
 - `Tsere dzô, ma tô aimaꞌuri dzaꞌra` ⇒ ficaram escondidos pelo Tsere (de emboscada para pegá-lo)
 
-> Note a diferença trocando a preposição `Tsere wi, ma tô aimaꞌuri dzaꞌra` *Se esconderam do Tsere*
+> Note a diferença trocando a preposição `Tsere wi, ma tô aimaꞌuri dzaꞌra` _Se esconderam do Tsere_
 
 - `ma tô tsõré dzaꞌra ĩhöiwarobo Pauluhu nhimirowatsuꞌu hã tô tsena dzô.` Eles leram o livro para saber de o ensino de Paulo era verdade ou não.
 - `wa dza ꞌmadö ĩꞌuptabi dzô` Vou ver se é verdadeiro ou não.

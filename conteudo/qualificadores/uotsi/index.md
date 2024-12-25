@@ -1,4 +1,4 @@
-# Qualificador uꞌötsi
+# Qualificador _uꞌötsi_
 
 Passa a ideia de algo eterno, feito para sempre, de forma contínua, sem parar.
 
@@ -25,13 +25,13 @@ Passa a ideia de algo eterno, feito para sempre, de forma contínua, sem parar.
 - `wa dza ö uꞌö hã te tãma ꞌre õb dzaꞌra, waꞌöbö ãna` eu darei para eles a água eterna, sem custo
 - `Ta norĩ tsi te dza robꞌrãi uꞌö hã te te ꞌre huri` somente aqueles comerão os frutos da árvore frutífera eterna
 
-## Junto com *õne*
+## Junto com _õne_
 
-Intensifica a ação com a ideia de algo feito *assim* sempre, por *toda* a eternidade, para *todo* o sempre. Pode perder ou não a última sílaba (por motivo ainda não identificado).
+Intensifica a ação com a ideia de algo feito _assim_ sempre, por _toda_ a eternidade, para _todo_ o sempre. Pode perder ou não a última sílaba (por motivo ainda não identificado).
 
 - `te dza õne uꞌötsi Rotiꞌwai ma te te tãma ꞌre romhuri dzaꞌra` eles estarão sempre assim trabalhando para o Rei
-- `wa tô atsiré õne uꞌö ꞌre ĩ̱höimana` eu estive junto de você sempre assim  
+- `wa tô atsiré õne uꞌö ꞌre ĩ̱höimana` eu estive junto de você sempre assim
 - `E watsiꞌwapé na, wa dza õne uꞌö wa te ãma udzutsi uꞌötsi dzaꞌra.` Nessa luta uns com os outros, sempre assim nós vamos estar continuando sempre?
-  > note que a ideia de *sempre* é usada de forma redundante, ocorrendo várias vezes na mesma frase
+  > note que a ideia de _sempre_ é usada de forma redundante, ocorrendo várias vezes na mesma frase
 - `te dza õne uꞌö duré ĩ̱me hã ꞌre tsai uꞌötsi, ꞌre ĩ̱tsimatsitsi mono dzéb ãmamhã` assim sempre ele comerá sempre comigo, (próximo) à minha mesa/cadeira
 - `Te õne uꞌötsi te te tsima ꞌre rowaꞌõtõ dzaꞌra, marĩ te te ꞌre ĩꞌmanharĩ watsété dzaꞌra mono dzéb da hã` Assim sempre eles ficam se planejando, para estarem fazendo algo ruim.

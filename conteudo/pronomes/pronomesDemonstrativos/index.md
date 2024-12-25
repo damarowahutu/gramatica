@@ -6,56 +6,56 @@ Veja a explicação no [artigo sobre pronomes pessoais](../pessoais/index.md).
 
 ## Semelhante a
 
-ãne - assim/semelhante a este/isto
+`ãne` - assim/semelhante a este/isto
 
-tane - assim/semelhante a esse/isso
+`tane` - assim/semelhante a esse/isso
 
-õne - assim/semelhante àquele/àquilo
+`õne` - assim/semelhante àquele/àquilo
 
 ## Origem
 
-ãhawi - daqui
+`ãhawi` - daqui
 
-tahawi - daí
+`tahawi` - daí
 
-õhawi - de lá
+`õhawi` - de lá
 
 ## Estar
 
-ãhãta - está aqui
+`ãhãta` - está aqui
 
-tahata - está aí
+`tahata` - está aí
 
-õhõta - está lá
+`õhõta` - está lá
 
 ## Depois
 
-ãhã pari - depois disto aqui
+`ãhã pari` - depois disto aqui
 
-taha pari - depois disso aí
+`taha pari` - depois disso aí
 
-õhõ pari - depois daquilo lá
+`õhõ pari` - depois daquilo lá
 
 ## Por causa, porque
 
-ãhã wa - por causa disto aqui
+`ãhã wa` - por causa disto aqui
 
-taha wa - por causa disso aí
+`taha wa` - por causa disso aí
 
-õhõ wa - por causa daquilo lá
+`õhõ wa` - por causa daquilo lá
 
 ## Apesar de
 
-ãhã nherẽ - apesar disto aqui
+`ãhã nherẽ` - apesar disto aqui
 
-taha nherẽ - apesar disso aí
+`taha nherẽ` - apesar disso aí
 
-õhõ nherẽ - apesar daquilo lá
+`õhõ nherẽ` - apesar daquilo lá
 
 ## Apesar de ser assim
 
-ãne nherẽ - apesar de ser assim/semelhante a este/isto
+`ãne nherẽ` - apesar de ser assim/semelhante a este/isto
 
-tane nherẽ - apesar de ser assim/semelhante a esse/isso
+`tane nherẽ` - apesar de ser assim/semelhante a esse/isso
 
-õne nherẽ - apesar de ser assim/semelhante àquele/àquilo
+`õne nherẽ` - apesar de ser assim/semelhante àquele/àquilo

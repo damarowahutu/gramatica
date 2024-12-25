@@ -1,6 +1,6 @@
 # Locução verbal
 
-Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com o bloco de madeira, você pode criar algo novo e útil, como uma mesa ou uma cadeira. Isso é o que acontece com as locuções verbais em xavante. Nós pegamos um verbo (o martelo) e o combinamos com uma preposição, advérbio ou substantivo (o bloco de madeira) para criar uma expressão com um significado específico. 
+Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com o bloco de madeira, você pode criar algo novo e útil, como uma mesa ou uma cadeira. Isso é o que acontece com as locuções verbais em xavante. Nós pegamos um verbo (o martelo) e o combinamos com uma preposição, advérbio ou substantivo (o bloco de madeira) para criar uma expressão com um significado específico.
 
 Em uma locução verbal um verbo é combinado com uma preposição ou advérbio para formar uma expressão com significado específico. Essas combinações de verbo com preposições ou advérbios criam novos significados e são muito comuns na comunicação cotidiana em português. Aqui estão mais alguns exemplos:
 
@@ -13,8 +13,8 @@ Em uma locução verbal um verbo é combinado com uma preposição ou advérbio 
    - Nós jogaremos fora nosso dinheiro se formos lá.
    - Não joguei fora o livro.
 4. Pegar emprestado (inglês: _borrow_)
-    - Ele não pegou emprestado (ing: _borrow_) o meu caderno. Mas eu emprestei (ing: _lend_) para ele meu livro.
-    - Posso pegar emprestado seu caderno?
+   - Ele não pegou emprestado (ing: _borrow_) o meu caderno. Mas eu emprestei (ing: _lend_) para ele meu livro.
+   - Posso pegar emprestado seu caderno?
 5. Prestar atenção (atentar)
    - Eu prestei atenção na aula.
    - Você prestará atenção em toda aula.
@@ -77,7 +77,7 @@ Literalmente _colocar o sentimento íntimo_.
 - `ma tô ĩ̱pẽꞌẽ ĩhi` você me consolou
 - `te dza aipẽꞌẽ hi` ele vai te consolar
 
-> Há um verbo *colocar* para cada variação de objeto: um objeto `hiri`, dois objetos `nomri`, vários objetos `tsaꞌra`  
+> Há um verbo _colocar_ para cada variação de objeto: um objeto `hiri`, dois objetos `nomri`, vários objetos `tsaꞌra`
 
 - `ma tô tino` ele colocou duas coisas
 - `ma tô wapẽꞌẽ nomri` ele consolou nossos corações (de nós dois)
@@ -98,10 +98,9 @@ Literalmente _colocar uma coisa bem_, sendo esta última palavra um advérbio. A
 
 - `te dza tihi` ele vai colocar uma coisa
 - `te dza hiri wẽ ĩhöimanadzé` ele vai melhorar a vida dele
-- `te dza ĩhiri wẽ aihöimanadzé` você vai melhorar a tua vida 
+- `te dza ĩhiri wẽ aihöimanadzé` você vai melhorar a tua vida
 
 > Visto ser um advérbio, faz o verbo volta a sua forma completa, de `tihi` no singular simples para `hiri` no singular com advérbio.
-
 
 ### Preparar-se _datsiꞌrata wẽ_
 
@@ -109,7 +108,7 @@ Literalmente _colocar-se bem_, sendo esta última palavra um advérbio.
 
 - `atsitsaꞌra wẽ na` prepare-se
 - `ma tô tsitsaꞌra wẽ` ele se preparou
-- `te dza atsitsaꞌra wẽ` você  
+- `te dza atsitsaꞌra wẽ` você
 
 ## Com verbos
 
@@ -117,7 +116,7 @@ Literalmente _colocar-se bem_, sendo esta última palavra um advérbio.
 
 Nesta locução o verbo `uptsibi` (cobrir) e `me` (jogar fora) trabalham juntos. Vamos conjugar o verbo `uptsibi` normalmente e anexar o verbo `me` nele sem nenhuma modificação, considerando a variação de objetos.
 
-> Há um verbo *jogar* para cada variação de objeto: um objeto `me`, dois objetos `wabdzuri`, vários objetos `tsãmra`
+> Há um verbo _jogar_ para cada variação de objeto: um objeto `me`, dois objetos `wabdzuri`, vários objetos `tsãmra`
 
 - `te dza uptsi` Ele vai cobrir
 - `te dza time` Ele vai jogar fora/afastar (de `me`)
@@ -127,4 +126,3 @@ Nesta locução o verbo `uptsibi` (cobrir) e `me` (jogar fora) trabalham juntos.
 - `wa dza uptsibi me dzaꞌra ni` nós descobriremos uma coisa
 - `ma tô uptsibi me dzaꞌra` eles descobriram uma coisa
 - `ma tô uptsibi nhamra dzaꞌra` eles descobriram várias coisas
-

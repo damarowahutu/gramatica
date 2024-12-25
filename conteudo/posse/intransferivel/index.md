@@ -135,11 +135,11 @@ Por exemplo:
 
 No idioma xavante, a especificidade é crucial. É obrigatório indicar claramente a quem ou a quê se refere, evitando qualquer ambiguidade. Isso difere do português, onde a mesma frase pode ser interpretada de diferentes maneiras. Por exemplo, nas figuras abaixo, duas pessoas discutem sobre o que alguém viu, e a clareza sobre a identidade de posse é mantida no xavante.
 
-![img.png](../inalienavel/img.png)
+![img.png](./img.png)
 Ele viu o pai dele mesmo?! Ou seria o pai de outra pessoa?!
 
-![img_1.png](../inalienavel/img_1.png)
+![img_1.png](./img_1.png)
 `ĩmama` o pai de dele (outra pessoa), não é posse do ator principal (sujeito) da oração.
 
-![img_2.png](../inalienavel/img_2.png)
+![img_2.png](./img_2.png)
 `timama` o pai dele mesmo, o pai da pessoa de quem estamos falando, é posse do sujeito (ator) da oração.

@@ -18,7 +18,7 @@ wa te [verbo] dzaꞌra
 te te [verbo] dzaꞌra
 ```
 
-### Partícula `na`
+### Partícula _na_
 
 Como saber se deve incluir o `na`? A partícula `na` só ocorre no singular em verbos que *não perdem* sílabas em final de locução. Por exemplo, `waihuꞌu` perde na 2ª pessoa do singular do indicativo `ma tô ĩwaihu`. Veja alguns exemplos:
 
