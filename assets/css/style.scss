@@ -3,21 +3,21 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 code {
-    font-family: "Source Code Pro" !important;
+    font-family: "Space Mono" !important;
     font-weight: bold;
 }
 pre {
-    font-family: "Source Code Pro" !important;
+    font-family: "Space Mono" !important;
     font-weight: bold;
 }
 u { 
     text-decoration: underline;
 }
 samp { 
-    font-family: "Source Code Pro" !important;
+    font-family: "Space Mono" !important;
     font-weight: bold;
     padding: 2px 4px;
     font-size: 0.9rem;
