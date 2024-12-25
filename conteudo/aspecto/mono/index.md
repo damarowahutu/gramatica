@@ -27,11 +27,11 @@ Veja como funciona com verbos de tema múltiplo:
 - `Wa tô ĩ̱watsété na hã ĩ̱höiba` -> eu era pecador
 - `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöiba` -> você me tratou bem
 
-- `wa ĩ̱höimana mo` -> eu está sendo
+- `wa ĩ̱höimana` -> eu estou sendo
 - `Wa tô ĩ̱watsété na hã ĩ̱höimana` -> eu estive sendo pecador (por um tempo limitado)
 - `A hã ma tô ĩwẽ na tsi ĩ̱ma aihöimana mo` -> você esteve me tratando bem (por um tempo limitado)
 
-- `wa ꞌre ĩ̱höimana mo` -> estou sempre está sendo
+- `wa ꞌre ĩ̱höimana` -> estou sempre sendo
 - `Wa tô ĩ̱watsété na hã ꞌre ĩ̱höimana` -> eu estive sempre sendo pecador
 - `A hã ma tô ĩwẽ na tsi ĩ̱ma ꞌre aihöimana mo` -> você sempre esteve me tratando bem
 
