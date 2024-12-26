@@ -72,13 +72,7 @@
     1. [Produzida - ação feita pela pessoa](conteudo/posse/produzida/index.md)
 1. [Reflexivo](/conteudo/verbos/reflexivo/index.md)
 1. [Locução verbal](conteudo/locucaoVerbal/index.md)
-1. Interjeições
-    1. bété
-    1. maꞌãpé
-    1. oto
-    1. tu
-    1. dzahadu
-    1. nadza
+1. [Interjeições](/conteudo/interjeicoes/index.md)
 1. [Verbos com prefixo de sujeito](/conteudo/verbosClasse1/index.md)
      1. [Tipo A1 - ĩ̱/wa/ai/ti](/conteudo/verbosClasse1/tipoa1/index.md)
      1. [Tipo A2 - wa/ai/ti](/conteudo/verbosClasse1/tipoa2/index.md)
@@ -86,32 +80,30 @@
      1. [Tipo B - ai](/conteudo/verbosClasse1/tipob/index.md)
      1. [Tipo C - a/atsi](/conteudo/verbosClasse1/tipoc/index.md)
      1. [Tipo D - ma/atsimi](/conteudo/verbosClasse1/tipod/index.md)
-1. Prefixos
-    1. ꞌma-
-    1. a-
-    1. ro-/rob-
-1. Sufixos
-    1. -re
-    1. ꞌrare
-    1. wawẽ
-    1. re
-    1. ꞌre
+1. Afixos 
+    1. Prefixos
+        1. ꞌma-
+        1. a-
+        1. ro-/rob-
+    1. Sufixos
+        1. -re
+        1. Sufixo -re (desprezo)
+        1. ꞌrare
+        1. wawẽ
+        1. re
+        1. ꞌre
 1. Verbos de tema múltiplo
      1. [Objeto múltiplo](conteudo/verbos/objetoMultiplo/index.md)
      1. [Sujeito múltiplo](conteudo/verbos/sujeitoMultiplo/index.md)
-1. Modificações fonéticas
-    1. para ligação
-    1. de temas não verbais
-1. Flexões
+1. Modificações
+    1. Modificações fonéticas para ligação
+    1. Modificações fonéticas de temas não verbais
     1. tsiro/tsiromo
     1. dzöri/höri
     1. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
 1. Comparações
 1. [Verbo estar](conteudo/verboEstar/index.md)
 1. Passagem do tempo (tenho 20 anos..., faz um ano...)
-1. Sufixo -re (desprezo)
-1. Pluralizadores datsiwi/dzaꞌra
-1. Honorífico
 1. Aspecto
     1. [Ação de duração indefinida ou habitual](conteudo/aspecto/reMono/index.md)
     1. [Ação de pouca duração](conteudo/aspecto/mono/index.md)
@@ -121,7 +113,9 @@
     1. Ação não realizada com o sentido de ...
        1. [quase](conteudo/aspecto/quase/index.md)
        1. [em vão](conteudo/aspecto/emVao/index.md)
+1. Pluralizadores datsiwi/dzaꞌra
 1. Linguagem do Aꞌãma
+1. Honorífico
 1. Marcador enfático Hã
 
 ## Tabelas e Referências
