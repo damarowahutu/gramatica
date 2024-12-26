@@ -35,10 +35,9 @@ Essas mudanças de forma do verbo dependem do número de sujeitos. Por exemplo, 
 | `danhamra`       | `datsimatsitsi` | `daꞌubumro`    | sentar, permanecer |
 | `dadzébré`       | `dadzatsi`      | `danhitsitsi`  | entrar             |
 | `dawatobro`      | `daputsi`       | `dawairébé`    | sair, acontecer    |
-| `danomri`        | `dadzaꞌwari`    | `dabaꞌwara`    | deitar-se          |
+| `danomro`        | `dadzaꞌwari`    | `dabaꞌwara`    | deitar-se          |
 | `dawitsi`        | `datsimatsitsi` | `datsihutu`    | chegar, vir        |
 | `dawaptãrã`      | `dawaptãꞌã`     | `darereꞌe`     | cair, nascer       |
 | `daꞌo`           | `dadzaꞌo`       | `danhimnhatã`  | pender, pendurar   |
 | `dawawa`         | `dawawa`        | `daꞌruꞌru`     | chorar             |
 | `dahöiba`        | `dahöimana`     | `dahöimana`    | ser, estar, viver  |
-
