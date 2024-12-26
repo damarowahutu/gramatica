@@ -2,10 +2,10 @@
 
 ## _Dama_
 
-`ĩ̱ma atsurure di` você é menor que eu (para mim, você é menorzinho)
-`tãma ĩ̱tsurure di` eu sou menor que ele (para ele, eu sou menorzinho)
-`aima waꞌru ti` ele é mais alto que você (para você, ele é mais alto)
-`tãma atsaꞌẽtẽ di` você é maior do que ele (para ele você é maior)
+- `ĩ̱ma atsurure di` você é menor que eu (para mim, você é menorzinho)
+- `tãma ĩ̱tsurure di` eu sou menor que ele (para ele, eu sou menorzinho)
+- `aima waꞌru ti` ele é mais alto que você (para você, ele é mais alto)
+- `tãma atsaꞌẽtẽ di` você é maior do que ele (para ele você é maior)
 
 ## _Danhipa_
 
