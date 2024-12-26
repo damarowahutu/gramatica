@@ -90,7 +90,7 @@
     1. tsiro/tsiromo
     1. dzöri/höri
     1. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
-1. Comparações
+1. [Comparações](/conteudo/comparacoes/index.md)
 1. Mudanças de condição
 1. [Verbo estar](conteudo/verboEstar/index.md)
 1. Passagem do tempo (tenho 20 anos..., faz um ano...)
