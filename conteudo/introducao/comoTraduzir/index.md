@@ -7,7 +7,7 @@ Para traduzir uma frase para o xavante, siga estas etapas detalhadas:
 ### Fase 1
 
 1. **Simplifique a frase:** Reduza a frase ao essencial, utilizando o vocabulário que você já domina. Isso facilitará a tradução.
-1. **Divida em orações:** Separe a frase em orações simples, cada uma contendo apenas um verbo. Traduza cada oração de forma independente.
+1. **Divida em orações:** Separe a frase em orações simples, cada uma contendo apenas um verbo, ou ações independentes. Traduza cada oração de forma independente.
 
 ### Fase 2
 
@@ -35,11 +35,14 @@ Frase simplificada:
 
 - Eu quero que ele aprenda xavante depois de trabalharmos para você.
 
-Orações divididas:
+Orações divididas por verbo (ação):
 
 1. Eu quero
+   > A ação (verbo) é _querer_
 1. que ele aprenda xavante
+   > A ação é _aprender_
 1. depois de trabalharmos para você.
+   > A ação é _trabalhar_
 
 ### Fase 2: tradução de cada oração
 
@@ -66,8 +69,8 @@ Orações divididas:
 - O sujeito é "nós dois", 1º pessoa do dual.
 - A ação é "trabalhar" `romhuri`
 - O objeto desta ação é "para você" `aima`
-- A ação está sem tempo verbal
-- É necessário o modificar para dar o sentido de "depois". Então a conjugação deve ser do infinitivo.
+- A ação está sem tempo verbal, sem especificar se é passado ou futuro. A oração anterior vai indicar o tempo verbal.
+- É necessário o modificador para dar o sentido de "depois". Então a conjugação deve ser do infinitivo.
 - O modificador deve ser o [`parimhã` de depois](/conteudo/modificadores/#depois-parimhã).
 - **Tradução**: `wa te aima romhuri parimhã`
 
@@ -81,15 +84,15 @@ Tradução reversa:
 
 Analise:
 
-1. Está exata?
-1. Está clara?
-1. Está natural?
+1. Está exata? Passa a mesma ideia da frase original?
+1. Está clara? Está fácil de entender?
+1. Está natural? Está no jeito mais comum de falar em xavante?
 
 Talvez ela esteja mais natural se modificarmos duas coisas:
 
 - colocar as frases em ordem de tempo
-  - *Depois de trabalharmos para você*, eu quero que ele aprenda xavante.
+  - _Depois de trabalharmos para você_, eu quero que ele aprenda xavante.
   - `Wa te aima romhuri parimhã, wa ĩ̱tsima wẽ te te waihuꞌu da aꞌuwẽ mreme.`
 - mover o objeto da oração que tem o modificar `da`, para antes do início da oração.
   - `Wa te aima romhuri parimhã, wa ĩ̱tsima wẽ aꞌuwẽ mreme te te waihuꞌu da.`
-  - Depois de trabalharmos para você, eu quero que *xavante* ele aprenda .
+  - Depois de trabalharmos para você, eu quero que _xavante_ ele aprenda .
