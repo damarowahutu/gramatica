@@ -80,18 +80,7 @@
      1. [Tipo B - ai](/conteudo/verbosClasse1/tipob/index.md)
      1. [Tipo C - a/atsi](/conteudo/verbosClasse1/tipoc/index.md)
      1. [Tipo D - ma/atsimi](/conteudo/verbosClasse1/tipod/index.md)
-1. Afixos 
-    1. Prefixos
-        1. ꞌma-
-        1. a-
-        1. ro-/rob-
-    1. Sufixos
-        1. -re
-        1. Sufixo -re (desprezo)
-        1. ꞌrare
-        1. wawẽ
-        1. re
-        1. ꞌre
+1. [Afixos](/conteudo/afixos/index.md)
 1. Verbos de tema múltiplo
      1. [Objeto múltiplo](conteudo/verbos/objetoMultiplo/index.md)
      1. [Sujeito múltiplo](conteudo/verbos/sujeitoMultiplo/index.md)
@@ -102,8 +91,10 @@
     1. dzöri/höri
     1. variações mais profundas (udzö/unhama, maprewa/maprebaba, etc)
 1. Comparações
+1. Mudanças de condição
 1. [Verbo estar](conteudo/verboEstar/index.md)
 1. Passagem do tempo (tenho 20 anos..., faz um ano...)
+1. Locacionais (perto, longe, dentro, fora)
 1. Aspecto
     1. [Ação de duração indefinida ou habitual](conteudo/aspecto/reMono/index.md)
     1. [Ação de pouca duração](conteudo/aspecto/mono/index.md)
@@ -120,10 +111,9 @@
 
 ## Tabelas e Referências
 
-1. Afixos
-1. Fases de desenvolvimento
-1. Faixas etárias (grupos)
-1. Horas e épocas
-1. Interjeições
-1. Verbos de sujeito múltiplo
-1. Verbos de objeto múltiplo
+1. Alimentação
+1. Partes do corpo
+1. Termos de parentesco
+1. fases de desenvolvimento
+1. sistema de faixa etária
+1. horas e épocas
