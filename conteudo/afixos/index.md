@@ -67,6 +67,20 @@ Sentido intensificador, algo amplo, indefinido
 
 ## Sufixos
 
+Quando uma palavra que geralmente perde sílabas recebe um sufixo, então ela volta ao seu estado original sem perder nenhuma sílaba. O mesmo acontece quando uma palavra sofre uma modificação fonética quando não há nenhum complemento. Neste último caso, ela vai sofrer a modificação fonética ao receber o sufixo. Por exemplo:
+
+- `robdzépada` sem nenhum complemento ou sufixo
+- `robdzépatadzé` recebeu um sufixo e sofreu modificação de `da` para `ta`
+- `te dza robdzépata dzaꞌra` recebeu um complemento sofreu modificação de `da` para `ta`
+- `ꞌmadö` sem nenhum complemento ou sufixo
+- `ꞌmadöꞌödzé` recebeu um sufixo e não perde mais a última sílaba `ꞌö`
+- `te dza ꞌmadöꞌö dzaꞌra` recebeu um complemento e não perde mais a última sílaba `ꞌö`
+
+Esta regra não se aplica ao complemento `hã`, visto que ele não faz com que a palavra tenha nenhuma modificação. Por exemplo:
+
+- `robdzépada hã`
+- `danhimiꞌmadö hã`
+
 ## -re
 
 Sufixo diminutivo

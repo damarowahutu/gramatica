@@ -29,7 +29,7 @@ Objeto se refere a coisa ou pessoa que sofre a ação do sujeito.
 
 ## Identificando o tipo de prefixo
 
-Poderá ver com mais detalhes sobre como funcionam os prefixos de sujeito e objeto no verbos nos artigos sobre [objeto direto](/conteudo/objeto/direto/index.md) e sobre [verbos com prefixo de sujeito](/conteudo/verbosClasse1/index.md).
+Poderá ver com mais detalhes sobre como funcionam os prefixos de sujeito e objeto no verbos nos artigos sobre [objeto direto](/conteudo/objeto/direto/) e sobre [verbos com prefixo de sujeito](/conteudo/verbosClasse1/).
 
 O prefixo `da` nos verbos podem indicar o sujeito ou o objeto direto da oração. Podem indicar a pessoa que faz a ação ou a pessoa que sofre a ação. Veja alguns verbos na lista abaixo e seus significados:
 

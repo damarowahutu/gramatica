@@ -105,7 +105,7 @@ Exemplos:
 Exemplos:
 
 - `wamrodzé` vassoura
-- `datsimatsitsidzé` cadeira
+- `danhamradzé` cadeira
 - `ĩꞌmahörödzé` título usado para chamar alguém
 - `danhotõdzé` cama
 - `bödödi nhitobdzé` porteira
@@ -121,3 +121,5 @@ Exemplos:
 - `ĩwaihuꞌudzé` aprendizado
 - `ĩwatobrodzé` acontecimento
 - `ĩdawatadzé` adoração
+
+> Veja mais exemplos de uso do sufixo `dzé` na [página sobre modificadores](/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé).
