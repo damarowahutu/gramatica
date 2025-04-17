@@ -114,6 +114,6 @@
 1. Alimentação
 1. Partes do corpo
 1. Termos de parentesco
-1. fases de desenvolvimento
-1. sistema de faixa etária
-1. horas e épocas
+1. Fases de desenvolvimento
+1. Sistema de faixa etária
+1. Horas e épocas

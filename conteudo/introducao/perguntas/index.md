@@ -6,38 +6,38 @@
 
 Em português, usamos o sinal de interrogação (?) no final de uma frase para indicar que é uma pergunta.
 
-- Exemplo: "O que você está fazendo?"
+- Exemplo: `O que você vê?`
 
 ### Espanhol
 
 No espanhol, a interrogação é marcada por dois sinais: um invertido no início e outro no final da frase.
 
-- Exemplo: "¿Habla español?"
+- Exemplo: `¿Qué ves?`
 
 ### Inglês
 
 Em inglês, a forma interrogativa muitas vezes requer a inversão do sujeito e do verbo.
 
-- Exemplo: "Are you a student?"
+- Exemplo: `What do you see?`
 
 ### Xavante
 
-No idioma xavante, todas as frases que começam com a vogal **E** são perguntas.
+No idioma xavante, todas as frases que começam com a vogal `E` são perguntas.
 
-- Exemplo: "E marĩ te ĩꞌmadö" (O que você está vendo?)
+- Exemplo: `E marĩ te ĩꞌmadö.`
 
 ## Exemplos
 
 - O que? `E marĩ` _fala masculina_
   - O que você está vendo? `E marĩ te ĩꞌmadö.`
-  - Com o que? / De que? `E marĩ na`
-  - Para que? `E marĩ da`
+  - Com o que? / De que? `E marĩ na.`
+  - Para que? `E marĩ da.`
   - Por que? `E marĩ wa.`
 - O que? `E tiha.` _fala feminina_
   - O que é isso? `E tiha tahã.`
   - Para que? `E tiha da.`
   - Por que? `E tihai wa.`
-    > Mulheres nunca falam _marĩ_ mesmo que estejam lendo em voz alta. Enquanto que homens nunca falam _tiha_ mesmo ao lerem. Para isso fazem automaticamente a substituição das expressões.
+    > Mulheres não falam `marĩ` mesmo que estejam lendo em voz alta. Enquanto que homens não falam `tiha` mesmo ao lerem. Para isso fazem automaticamente a substituição das expressões. A única exceção a isso seria se, por exemplo, uma pessoa fosse ler texto que inclui uma fala que obviamente é do sexo oposto. Por exemplo, uma mulher geralmente não trocaria `marĩ` por `tiha` neste caso: `Tawamhã ĩ̱mama te tinha ãne: E marĩ da.`
 - Por que? `E niha bö.`
 - Como? / Quanto? `E niha.`
   - Como é seu nome? `E niha atsitsi.`
@@ -69,10 +69,47 @@ No idioma xavante, todas as frases que começam com a vogal **E** são perguntas
 - Você tem? `E ĩré hã.`
   - Você é casado? (Lit.: você tem cônjuge?) `E aimro ĩré hã.`
 
-## Pergunta na mesma frase de uma afirmação
+## Adicionando oração interrogativa dentro de uma frase afirmativa
 
-A vogal E vai ser coloca na parte da frase onde começa a oração interrogativa.
+É preciso cuidado para embutir uma oração interrogativa dentro de uma frase afirmativa, pois pode ficar estranho em muitos casos.
 
-Exemplo: Ele vai te explicar _por que_ eu costumo estudar o idioma xavante.
+Veja abaixo a análise de alguns casos.
 
-`Te dza aima watsuꞌu e marĩ wa wa natsi romnhoré aꞌuwẽ mreme na.`
+### E marĩ wa / E tihai wa / E niha bö
+
+Para incluir uma oração com "por que" (causa, razão), podemos colocar a vogal `E` vai na parte da frase onde começa a oração interrogativa.
+
+- `Te dza aima watsuꞌu, e marĩ wa, wa natsi romnhoré aꞌuwẽ mreme na.` Ele vai te explicar por que (a razão pela qual) eu costumo estudar o idioma xavante.
+
+### E marĩ / e tiha
+
+É preciso analisar o sentido da oração com `o que` ou `aquilo o que`, e também entender se ela realmente é uma pergunta ou apenas uma afirmação.
+
+Por exemplo, num título em português pode aparecer a seguinte afirmação: `O que o livro ensina.` Este título indica que no texto abaixo dele você encontrará aquilo o que o livro ensina. Visto que não é uma pergunta, não podemos fazer a frase em xavante inciando com `E`. Neste caso usamos o modificador `ĩ ... dzé` com a conjugação do infinitivo. Para mais informações, veja [a explicação sobre _dzé_ no artigo sobre modificadores.](/conteudo/modificadores/index.md#coisa-lugar-ocasião-maneira-ĩverbodzé)
+
+- `E marĩ ĩhöiwarobo te rowahutu.` O que o livro ensina? (uma pergunta)
+- `Ĩhöiwarobo te te ĩrowahutudzé` O que o livro ensina. / Aquilo o que o livro ensina / O modo como o livro ensina. / A maneira que o livro ensina.
+- `Wa dza waihuꞌu dzaꞌra ni ĩhöiwarobo te te ĩrowahutudzé.` Vamos aprender o que o livro ensina. / Vamos aprender o modo como o livro ensina. / Vamos aprender a maneira que o livro ensina.
+
+### E niha
+
+Se for falar de algo que já aconteceu, que está no passado funciona, então poderá usar `niha na` e colocar o verbo que indica do que se trata o modo no infinitivo usando o modificador `dzé`.
+
+- `Wa tô rotsaꞌrata niha na te te ĩ̱pawaptobdzém na.` Eu pensei em como ele me ajudou.
+
+Para coisas que ainda vão acontecer, que estão no futuro, ou que estão no presente, _não_ podemos usar `niha na`. Neste caso, precisamos inserir uma oração interrogativa com `e niha`.
+
+- `Wa dza rotsaꞌrata e niha te dza ĩ̱pawapto`. Eu vou pensar em como ele vai me ajudar.
+
+Para falar apenas sobre "de alguma forma ou maneira" no presente, podemos usar o `niha na` com o indicativo.
+
+- `Wa dza niha na tãma robꞌmanharĩ dzaꞌra ni.` Nós os castigaremos de alguma maneira.
+
+#### Marĩ da / Tiha da
+
+Não fica estranho adicionar uma oração interrogativa com `marĩ da` na frase, como nos exemplos a seguir:
+
+- `E marĩ da dahöimanadzé.` Qual o objetivo da vida?
+- `Ma tô rowatsuꞌu e marĩ da dahöimanadzé.` Ele explicou qual o objetivo da vida.
+- `Ma tô rowatsu'u dahöimanadzé marĩ da na.` Explicou que a vida tem objetivo.
+- `Ma tô rowatsu'u marĩ da na dahöimanadzé.` Explicou para que serve a vida (explicou o objetivo da vida)
