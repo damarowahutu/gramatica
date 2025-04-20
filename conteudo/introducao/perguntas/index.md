@@ -39,6 +39,7 @@ No idioma xavante, todas as frases que começam com a vogal `E` são perguntas.
   - Por que? `E tihai wa.`
     > Mulheres não falam `marĩ` mesmo que estejam lendo em voz alta. Enquanto que homens não falam `tiha` mesmo ao lerem. Para isso fazem automaticamente a substituição das expressões. A única exceção a isso seria se, por exemplo, uma pessoa fosse ler texto que inclui uma fala que obviamente é do sexo oposto. Por exemplo, uma mulher geralmente não trocaria `marĩ` por `tiha` neste caso: `Tawamhã ĩ̱mama te tinha ãne: E marĩ da.`
 - Por que? `E niha bö.`
+    > Usado em perguntas mais enfáticas. Parece dar um tom mais forte e questionador do que `e marĩ wa`.
 - Como? / Quanto? `E niha.`
   - Como é seu nome? `E niha atsitsi.`
   - Como será? `E niha dza.`
@@ -66,6 +67,7 @@ No idioma xavante, todas as frases que começam com a vogal `E` são perguntas.
   - Aonde você vai? `E momo te aimo.`
 - De onde? `E ma hawimhã.`
   - De onde você é. `E ma hawimhã a hã.`
+- Cadê? Onde está? `E mahãta. E niha bö, we atsiwi tsaprõni aba õ di` Cadê? Por que vocês não o trouxeram para cá?
 - Você tem? `E ĩré hã.`
   - Você é casado? (Lit.: você tem cônjuge?) `E aimro ĩré hã.`
 
