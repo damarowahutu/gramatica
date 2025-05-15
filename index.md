@@ -63,8 +63,8 @@
 1. [Modificadores](conteudo/modificadores/index.md)
     1. [Orações subordinadas](conteudo/oracoesSubordinadas/index.md)
 1. Imperativo
-    1. [Imperativo com verbos com prefixo de objeto](/conteudo/imperativo/classe2/index.md)
-    1. [Imperativo com verbos com prefixo de sujeito](/conteudo/imperativo/classe1/index.md)
+    1. [Verbos com prefixo de objeto](/conteudo/imperativo/classe2/index.md)
+    1. [Verbos com prefixo de sujeito](/conteudo/imperativo/classe1/index.md)
 1. [Adjetivos](/conteudo/adjetivos/index.md)
 1. Posse
     1. [Intransferível - não mudaria de dono](conteudo/posse/intransferivel/index.md)

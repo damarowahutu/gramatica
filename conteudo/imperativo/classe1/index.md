@@ -1,4 +1,4 @@
-# Imperativo com Verbos com prefixo de sujeito
+# Imperativo - verbos com prefixo de sujeito
 
 ## Imperativo simples
 

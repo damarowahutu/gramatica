@@ -1,4 +1,4 @@
-# Imperativo simples com verbos com prefixo de objeto
+# Imperativo - verbos com prefixo de objeto
 
 ## Imperativo simples
 
@@ -168,4 +168,4 @@ Use o verbo composto `ꞌru dzahi`
 
 - `Wama ꞌru dzahi dzaꞌra õ di, niꞌwa hã wa te watsiwi ĩwĩrĩ da hã.` Não nos é permitido matar ninguém.
 - `ma tô tãma ꞌru dzahi dzaꞌra, romhuri ĩpire hã te te tãma ꞌmanharĩ dzaꞌra mono da.` Ele impôs trabalhos forçados.
-- `mitsi tiꞌai pibudzém marĩ hã tãma duri da, te te aima ꞌru dzahi wamhã, tãma duri, maparane tiꞌai pubudzém na.` Se alguém te obrigar a carregar para ele algo por 1 quilômetro, carregue para ele por 2 quilômetros (lit: maneira de medir terra).
+- `mitsi tiꞌai pibudzém marĩ hã tãma duri da, te te aima ꞌru dzahi wamhã, tãma duri, maparane tiꞌai pibudzém na.` Se alguém te obrigar a carregar para ele algo por 1 quilômetro, carregue para ele por 2 quilômetros
