@@ -34,15 +34,15 @@ Nesta parte inicial da gramática, não utilizaremos a tabela completa de conjug
 Singular:
          ĩ̱[verbo]    => me (eu)
       ai/a[verbo]    => te (tu, você)
-          [verbo]    => o, a, lhe (ele)
+          [verbo]    => o, a (ele)
 Dual:
         wa[verbo]            => nos (nós 2)
       ai/a[verbo] ꞌwa/waꞌwa => vos (vocês 2)
-          [verbo] dzahuré    => os, as, lhes (eles 2)  
+          [verbo] dzahuré    => os, as (eles 2)  
 Plural:
         wa[verbo] dzaꞌra        => nos (nós 3 ou mais)
       ai/a[verbo] dzaꞌra waꞌwa => vos (vocês 3 ou mais)
-          [verbo] dzaꞌra        => os, as, lhes (eles 3 ou mais)
+          [verbo] dzaꞌra        => os, as (eles 3 ou mais)
 
 Especiais:
         da[verbo]        => pessoa genérica
@@ -51,58 +51,63 @@ Especiais:
 
 ## Exemplos
 
-- `wa   pawapto` eu ajudo (alguém/ele)
+- `wa   pawapto` eu o ajudo (ele)
 - `wa aipawapto` eu te ajudo
-- `te  pawapto` ele ajuda (alguém/ele)
+- `te  pawapto` ele o ajuda (ele)
 - `te ĩ̱pawapto` ele me ajuda
-- `wa   pawaptob dzaꞌra ni` nós ajudamos (alguém/ele)
+- `wa   pawaptob dzaꞌra ni` nós o/os ajudamos (ele/eles)
 - `wa aipawaptob dzaꞌra ni` nós te ajudamos (você)
-- `te   pawaptob dzaꞌra` eles ajudam (alguém/ele)
-- `te wapawaptob dzaꞌra` eles nos ajudam
-- `wa   ꞌmadö` eu vejo
+- `te   pawaptob dzaꞌra` ele/eles o/os ajudam (ele/eles)
+- `te wapawaptob dzaꞌra` ele/eles nos ajudam
+- `wa   ꞌmadö` eu o vejo
 - `wa aiꞌmadö` eu te vejo
-- `te   ꞌmadö` ele vê
-- `te waꞌmadöꞌö dzaꞌra` ele nos vê
-- `te    upari` ele apoia
+- `te   ꞌmadö` ele o vê
+- `te waꞌmadöꞌö dzaꞌra` ele/eles nos vê
+- `te    upari` ele o apoia
 - `te aiꞌupari` ele te apoia
-- `te   wadzéb dzaꞌra` eles respeitam
-- `te wawadzéb dzaꞌra` eles nos respeitam
-- `ma tô  atsarẽ` ele te perseguiu
-- `ma tô wadzarẽ dzaꞌra` ele nos perseguiu
+- `te   wadzéb dzaꞌra` ele/eles o/os respeitam
+- `te wawadzéb dzaꞌra` ele/eles nos respeitam
+- `ma tô  atsarẽ` ele te o perseguiu
+- `ma tô wadzarẽ dzaꞌra` ele/eles nos perseguiu
+
+> veja a glotal muda o sentido do verbo
+
 - `aimro te dza aiꞌrẽ` teu marido te abandonará
-- `hu hã te dza airẽ` a onça irá te comer (cuidado visto que apenas a falta da glotal muda o sentido)
+- `hu hã te dza airẽ` a onça irá te comer
 
 Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 
-- `te tirẽ` ele abandona
+- `te tirẽ` ele o abandona
 - `te ĩ̱rẽ` ele me abandona
 - `te warẽ` ele nos abandona (a nós 2)
-- `te warẽme dzaꞌra` ele nos abandona (a nós 3 ou mais)
+- `te warẽme dzaꞌra` ele/eles nos abandona
 
 - `E te ĩ̱wapa` você me escuta?
 - `E te ĩ̱wapari ꞌwa` vocês dois me escutam?
 - `E te ĩwawapari dzaꞌra waꞌwa` vocês (3 ou mais) nos escutam (a nós 2/a nós 3 ou mais)?
+
+> A partícula `ꞌwa` se transforma em `aba`, e `waꞌwaꞌ` em `waꞌaba`, quando for seguida de `ni`.
+
 - `Wa aiwapari aba ni` nós dois vos escutamos (vocês dois)
+- `Wa aiwapari dzaꞌa waꞌaba ni` nós dois vos escutamos (vocês todos)
 
-> A partícula `ꞌwa` se transforma em `aba` quando for seguida de `ni`.
+> Por motivo de fonética, ĩ (marcador de 2º pessoa como sujeito) é omitido antes de ĩ̱ (marcador de 1º pessoa como objeto) porque os dois ocupam a mesma posição (não ficam 2 letras iguais seguidas ĩ̱ĩ)
 
-- `te ĩpawapto` ele ajuda (alguém)
+- `te ĩpawapto` ele o ajuda (ele)
 - `te ĩ̱pawapto` você me ajuda (eu)
 - `te ĩ̱pawapto` ele me ajuda (eu)
 
-> Por motivo de fonética, ĩ (marcador de 2º pessoa como sujeito) é omitido antes de ĩ̱ (marcador de 1º pessoa como objeto) porque os dois ocupam a mesma posição (não ficam 2 letras iguais seguidas ĩ̱ĩ)
+> Note como o objeto `wa` é anexado ao verbo depois do prefixo de 2º pessoa `te ĩ`.
 
 - `te ĩwapawapto` você nos ajuda (nós 2)
 - `te ĩwapawaptob dzaꞌra` você nos ajuda (nós 3 ou mais)
 
-> Note como o objeto `wa` é anexado ao verbo depois do prefixo de 2º pessoa `te ĩ`.
+> No caso dos verbos da tipo D com prefixo de objeto, no lugar o prefixo `ti` ficará o objeto direto. Na frase acima o prefixo `ti` do verbo `rẽme` foi substituído por `ĩ̱`.
 
 - `ma tô warẽme dzaꞌra` eles nos abandonou / eles nos abandonaram (nós 3 ou mais)
 - `ma tô tirẽ` ⇒ ele o abandonou (ele)
 - `ma tô ĩ̱rẽ` ⇒ ele me abandonou (eu)
 - `ma tô ĩ̱rẽ` ⇒ você me abandonou (eu)
-
-> No caso dos verbos da tipo D com prefixo de objeto, no lugar o prefixo `ti` ficará o objeto direto. Na frase acima o prefixo `ti` do verbo `rẽme` foi substituído por `ĩ̱`.
 
 ## Verbos que usam objeto direto
 
@@ -131,11 +136,11 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `te dapawaptob dzaꞌra` eles ajudam as pessoas
 - `te wapawapto` ele nos ajuda (nós 2)
 - `te aipawapto waꞌwa` ele vos ajuda (vocês 2)
-- `te pawaptob dzahuré` ele os ajuda (eles 2)
-- `te pawaptob dzahuré` eles dois ajudam (ele ou eles 2)
 
 > As partículas `dzahuré` e `dzaꞌra` podem relacionar-se ao sujeito, ao objeto direto ou aos dois simultaneamente, conforme o contexto.
 
+- `te pawaptob dzahuré` ele os ajuda (eles 2)
+- `te pawaptob dzahuré` eles dois ajudam (ele ou eles 2)
 - `te wapawaptob dzaꞌra` ele nos ajuda (nós 3 ou mais)
 - `te wapawaptob dzaꞌra` eles nos ajudam (nós 3 ou mais)
 - `te aipawapto dzaꞌra waꞌwa` ele vos ajuda (vocês 3 ou mais)
@@ -149,8 +154,6 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `wa aipawapto waꞌaba ni` nós dois vos ajudamos (vocês 2)
 - `wa aipawaptob dzaꞌra waꞌaba ni` nós dois vos ajudamos (vocês 3 ou mais)
 - `wa aipawaptob dzaꞌra waꞌaba ni` nós (3 ou mais) vos ajudamos (vocês 3 ou mais)
-
-> Quando a partícula `waꞌwa` aparece antes do `ni`, sempre se transformará em `waꞌaba`.
 
 ## Verbos que sofrem mudanças de _dza_ para _tsa_
 
