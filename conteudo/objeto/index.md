@@ -8,5 +8,5 @@ Em xavante, assim como em português, o objeto pode ser direto ou indireto. O ob
 
 Nos próximos artigos, você irá aprender mais sobre objetos diretos e indiretos em xavante.
 
-- [Objeto Direto](/conteudo/objeto/direto/index.md)
-- [Objeto Indireto](/conteudo/objeto/indireto/index.md)
+- [Objeto Direto](/conteudo/objeto/direto/)
+- [Objeto Indireto](/conteudo/objeto/indireto/)
