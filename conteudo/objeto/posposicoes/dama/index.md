@@ -51,7 +51,7 @@ Especiais:
 
 ### Com signifcado de "fazer que..."
 
-- `Wa dza aima waihu'u` te ensinarei
+- `Wa dza aima waihu'u` te ensinarei (lit.: eu farei que você saiba)
 - `E marĩ tahã te wama waihuꞌu dzaꞌra` O que isso nos ensina?
-- `te dama romnhoré dzaꞌra` ele faz que as pessoas estudem / ele dá aulas para as pessoas
-- `wa dza aima tsabu` farei que você veja / vou mostrar para você
+- `te dama romnhoré dzaꞌra` ele dá aulas para as pessoas (lit.: ele faz que as pessoas estudem)
+- `wa dza aima tsabu` vou mostrar para você (lit.: farei que você veja)
