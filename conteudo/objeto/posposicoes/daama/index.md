@@ -2,7 +2,7 @@
 
 ## Significado
 
-Indica destinatário ou beneficiário da ação do verbo, que a ação ocorre "sobre" a objeto.
+Indica destinatário ou beneficiário da ação do verbo, que a ação ocorre "sobre" a objeto. É muito parecido com o `datsina` e muitas vezes pode substituí-lo.
 
 ## Conjugação dos objetos com a posposição _daꞌãma_
 
