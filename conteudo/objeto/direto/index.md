@@ -69,6 +69,8 @@ Especiais:
 - `te wawadzéb dzaꞌra` ele/eles nos respeitam
 - `ma tô  atsarẽ` ele te o perseguiu
 - `ma tô wadzarẽ dzaꞌra` ele/eles nos perseguiu
+- `Aibö ma tô ĩꞌwapé` você enfrentou o homem / você lutou contra ele
+- `wa tô aiꞌwapé` eu te enfrentei / eu lutei contra você
 
 > veja a glotal muda o sentido do verbo
 
@@ -111,21 +113,31 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 
 ## Verbos que usam objeto direto
 
-- `pawapto` ajudar
-- `rétsi` motivar, mover
-- `rẽme` abandonar
-- `ꞌmadöꞌö` ver, cuidar
-- `wapari` ouvir, obedecer
-- `uprotsi` acabar, destruir
 - `bötsi` criticar, fofocar
-- `wadzé` respeitar
-- `upari` apoiar
-- `petse` curar
-- `ꞌwaꞌöbö` comprar
 - `höiwaꞌutu` ressuscitar
+- `pawapto` ajudar
+- `petse` curar
 - `pitsutu` escolher
-- `umnhatsi` confiar
+- `rẽme` abandonar
+- `rétsi` motivar, mover
+- `tsabu` visitar, ver
+- `tsadanhari` perguntar
+- `tsadaꞌöbö` responder
+- `tsadze` acreditar, aceitar
+- `tsapari` esperar
+- `tsaprõni` guiar
 - `tsarẽ` perseguir
+- `tsatõrĩ` expulsar, enviar
+- `tsõpẽtẽ` encontrar
+- `tsõꞌreptu` salvar
+- `umnhatsi` confiar
+- `upari` apoiar
+- `uprotsi` acabar, destruir
+- `wadzé` respeitar
+- `wapari` ouvir, obedecer
+- `ꞌmadöꞌö` ver, cuidar
+- `ꞌwaꞌöbö` comprar
+- `udze` elogiar
 
 ## Exemplos com _pawapto_
 
