@@ -130,6 +130,7 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `tsatõrĩ` expulsar, enviar
 - `tsõpẽtẽ` encontrar
 - `tsõꞌreptu` salvar
+- `udze` elogiar
 - `umnhatsi` confiar
 - `upari` apoiar
 - `uprotsi` acabar, destruir
@@ -137,7 +138,6 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `wapari` ouvir, obedecer
 - `ꞌmadöꞌö` ver, cuidar
 - `ꞌwaꞌöbö` comprar
-- `udze` elogiar
 
 ## Exemplos com _pawapto_
 
