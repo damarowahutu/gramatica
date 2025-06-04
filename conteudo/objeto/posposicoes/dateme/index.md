@@ -10,7 +10,7 @@ Dependendo do contexto indica _para perto de_, _em direção a_ alguém ou algo.
 Singular:
              ĩ̱tẽme [verbo]
              atẽme [verbo]
-            ĩtẽtsô [verbo]
+             ĩtẽme [verbo]
 Dual:
             watẽme [verbo]
              atẽme [verbo] ꞌwa / waꞌwa
