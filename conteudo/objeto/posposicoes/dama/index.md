@@ -1,4 +1,4 @@
-# Posposição _ma_
+# Posposição _dama_
 
 ## Significado
 
@@ -12,7 +12,7 @@ Com alguns poucos verbos, indica que o sujeito fará que o objeto receba sua aç
 - `wa dza tãma waihuꞌu` eu vou ensiná-lo (Lit.: _eu saberei para ele / eu o farei saber_)
 - `wa dza aima romnhoré` eu vou dar aula para você (Lit.: _eu estudarei para você / eu te farei estudar_)
 
-## Conjugação dos objetos com a posposição _ma_
+## Conjugação dos objetos com a posposição _dama_
 
 ```text
 Singular:
@@ -55,3 +55,21 @@ Especiais:
 - `E marĩ tahã te wama waihuꞌu dzaꞌra` O que isso nos ensina?
 - `te dama romnhoré dzaꞌra` ele dá aulas para as pessoas (lit.: ele faz que as pessoas estudem)
 - `wa dza aima tsabu` vou mostrar para você (lit.: farei que você veja)
+
+## Verbos regidos pelo _dama_
+
+- `dama tsõmri` dar a alguém
+- `dama rowatsuꞌu` explicar para alguém
+- `dama rowahudu` ensinar alguém
+- `dama romhuri` trabalhar para alguém
+- `dama romnhoré` ensinar alguém
+- `dama höiꞌré` mostrar para alguém
+- `dama tsabu` mostrar para alguém
+- `dama roti` aconselhar/ordernar para alguém
+- `dama tsõré` ler para alguém
+- `dama watsuꞌu` contar para alguém
+- `dama tsaꞌré` permitir para alguém
+- `dama robdzanhamri` conversar com alguém
+- `dama ropitsutu` prometer para alguém
+- `dama hepãrĩ` agradecer alguém
+- `dama waihu'u` ensinar para alguém, alguém saber
