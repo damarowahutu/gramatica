@@ -32,15 +32,15 @@
     1. [Direto](conteudo/objeto/direto/index.md)
     1. [Indireto](conteudo/objeto/indireto/index.md)
     1. Posposições de objetos indiretos
-       1. [dawi](conteudo/objeto/posposicoes/dawi/index.md)
        1. [dama](conteudo/objeto/posposicoes/dama/index.md)
+       1. [dawi](conteudo/objeto/posposicoes/dawi/index.md)
        1. [dadzô](conteudo/objeto/posposicoes/dadzo/index.md)
-       1. [datẽme](conteudo/objeto/posposicoes/dateme/index.md)
-       1. daꞌwawi
-       1. daꞌãma
+       1. [daꞌãma](conteudo/objeto/posposicoes/daama/index.md)
        1. datsina
        1. dadzada
        1. datsine
+       1. [datẽme](conteudo/objeto/posposicoes/dateme/index.md)
+       1. daꞌwawi
 1. Qualificadores
     1. [wẽ](conteudo/qualificadores/we/index.md)
     1. [petse](conteudo/qualificadores/petse/index.md)
@@ -50,7 +50,7 @@
     1. [danhimiꞌẽ](/conteudo/qualificadores/danhimie/index.md)
     1. pari
     1. dzadzöri
-    1. tsirõmo
+    1. tsiro
     1. tsuꞌu
     1. hö
     1. ĩtsaꞌẽne
