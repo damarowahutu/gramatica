@@ -58,18 +58,18 @@ Especiais:
 
 ## Verbos regidos pelo _dama_
 
-- `dama tsõmri` dar a alguém
-- `dama rowatsuꞌu` explicar para alguém
-- `dama rowahudu` ensinar alguém
+- `dama hepãrĩ` agradecer alguém
+- `dama höiꞌré` mostrar para alguém
+- `dama robdzanhamri` conversar com alguém
 - `dama romhuri` trabalhar para alguém
 - `dama romnhoré` ensinar alguém
-- `dama höiꞌré` mostrar para alguém
-- `dama tsabu` mostrar para alguém
-- `dama roti` aconselhar/ordernar para alguém
-- `dama tsõré` ler para alguém
-- `dama watsuꞌu` contar para alguém
-- `dama tsaꞌré` permitir para alguém
-- `dama robdzanhamri` conversar com alguém
 - `dama ropitsutu` prometer para alguém
-- `dama hepãrĩ` agradecer alguém
+- `dama roti` aconselhar/ordernar para alguém
+- `dama rowahudu` ensinar alguém
+- `dama rowatsuꞌu` explicar para alguém
+- `dama tsabu` mostrar para alguém
+- `dama tsaꞌré` permitir para alguém
+- `dama tsõmri` dar a alguém
+- `dama tsõré` ler para alguém
 - `dama waihu'u` ensinar para alguém, alguém saber
+- `dama watsuꞌu` contar para alguém
