@@ -97,7 +97,7 @@
 1. Locacionais (perto, longe, dentro, fora)
 1. Aspecto
     1. [Ação de duração indefinida ou habitual](conteudo/aspecto/reMono/index.md)
-    1. [Ação de pouca duração](conteudo/aspecto/mono/index.md)
+    1. [Ação de duração limitada](conteudo/aspecto/mono/index.md)
     1. Ação de resultado ...
        1. lógico ou esperado (ma)
        1. com natureza menos certa ou obrigatória (ma te)

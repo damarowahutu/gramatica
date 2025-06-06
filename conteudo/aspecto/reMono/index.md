@@ -286,5 +286,3 @@ te 're   tsipi dza'ra            => eles sempre cozinham
 're  atsipi dza'ra wa'aba mono õ di => vocês nem sempre cozinham
 're   tsipi dza'ra mono õ di        => eles nem sempre cozinham
 ```
-
-
