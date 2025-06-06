@@ -60,6 +60,8 @@ Especiais:
 
 - `dama hepãrĩ` agradecer alguém
 - `dama höiꞌré` mostrar para alguém
+- `dama pari` apagar de alguém
+- `dama pẽtẽ` disciplinar alguém
 - `dama robdzanhamri` conversar com alguém
 - `dama romhuri` trabalhar para alguém
 - `dama romnhoré` ensinar alguém
