@@ -155,7 +155,7 @@ tempo limitado, é notada apenas no caso de verbos que **não** levam prefixo de
 - `ma tô te te romhuri`  => ele estava trabalhando
 - `ma tô ꞌre tsipi`      => ele estava cozinhando
 
-> Note que apenas o `danhipi` (por levar o `da` de sujeito) usa a partícula `re` junto com o `mono` para expressar o aspecto de ação de duração limitada. Enquanto o `romhuri` (por não levar o `da` de sujeito) usa apenas a partícula `mono` (que está oculta por ser a 2º pessoa do singular).
+> Note que apenas o `danhipi` (por levar o `da` de sujeito) usa a partícula `re` junto com o `mono` para expressar o aspecto de ação de duração limitada. Enquanto o `romhuri` (por não levar o `da` de sujeito) usa apenas a partícula `mono` (que está oculta por ser a 3º pessoa do singular).
 
 #### Passado com verbos com prefixo de sujeito
 
