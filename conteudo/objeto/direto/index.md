@@ -136,8 +136,8 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 - `uprotsi` acabar, destruir
 - `wadzé` respeitar
 - `wapari` ouvir, obedecer
+- `waꞌöbö` comprar
 - `ꞌmadöꞌö` ver, cuidar
-- `ꞌwaꞌöbö` comprar
 
 ## Exemplos com _pawapto_
 
