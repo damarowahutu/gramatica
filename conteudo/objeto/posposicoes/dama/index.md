@@ -33,6 +33,26 @@ Especiais:
 [substantivo] ma [verbo]
 ```
 
+## Verbos regidos pelo _dama_
+
+- `dama hepãrĩ` agradecer alguém
+- `dama höiꞌré` mostrar para alguém
+- `dama pari` apagar de alguém
+- `dama pẽtẽ` disciplinar alguém
+- `dama robdzanhamri` conversar com alguém
+- `dama romhuri` trabalhar para alguém
+- `dama romnhoré` ensinar alguém
+- `dama ropitsutu` prometer para alguém
+- `dama roti` aconselhar/ordenar para alguém
+- `dama rowahudu` ensinar alguém
+- `dama rowatsuꞌu` explicar para alguém
+- `dama tsabu` mostrar para alguém
+- `dama tsaꞌré` permitir para alguém
+- `dama tsõmri` dar a alguém
+- `dama tsõré` ler para alguém
+- `dama waihu'u` ensinar para alguém, alguém saber
+- `dama watsuꞌu` contar para alguém
+
 ## Exemplos
 
 - `wa dza aima titsõ ĩhöiwarobo` darei a você o livro
@@ -55,23 +75,3 @@ Especiais:
 - `E marĩ tahã te wama waihuꞌu dzaꞌra` O que isso nos ensina?
 - `te dama romnhoré dzaꞌra` ele dá aulas para as pessoas (lit.: ele faz que as pessoas estudem)
 - `wa dza aima tsabu` vou mostrar para você (lit.: farei que você veja)
-
-## Verbos regidos pelo _dama_
-
-- `dama hepãrĩ` agradecer alguém
-- `dama höiꞌré` mostrar para alguém
-- `dama pari` apagar de alguém
-- `dama pẽtẽ` disciplinar alguém
-- `dama robdzanhamri` conversar com alguém
-- `dama romhuri` trabalhar para alguém
-- `dama romnhoré` ensinar alguém
-- `dama ropitsutu` prometer para alguém
-- `dama roti` aconselhar/ordernar para alguém
-- `dama rowahudu` ensinar alguém
-- `dama rowatsuꞌu` explicar para alguém
-- `dama tsabu` mostrar para alguém
-- `dama tsaꞌré` permitir para alguém
-- `dama tsõmri` dar a alguém
-- `dama tsõré` ler para alguém
-- `dama waihu'u` ensinar para alguém, alguém saber
-- `dama watsuꞌu` contar para alguém
