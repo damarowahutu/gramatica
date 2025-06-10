@@ -31,6 +31,61 @@ Especiais:
 [substantivo] wi [verbo]
 ```
 
+## Verbos regidos pelo `dawi`
+
+- `dawi ãma tsaprĩ` trocar para alguém  
+- `dawi danhimiꞌuri` esconder, furtar de alguém
+- `dawi dapahö` afastar de alguém
+- `dawi datsimaꞌuri` esconder-se de alguém
+- `dawi datsipiꞌra` virar-se de alguém (dar as costas)
+- `dawi datsiꞌutõꞌrĩ` acabar para alguém
+- `dawi dawatsété` prejudicar alguém
+- `dawi döꞌö` morrer de alguém (lit.: meu marido morreu de mim)
+- `dawi höimana` haver/estar/permanecer de alguém
+  - `ĩpẽꞌẽ ꞌremhã romhö na te ĩ̱wi ꞌre höimana dzaꞌra` no coração deles, eles estão longe de mim
+  - `mitsi marĩ hã te ĩ̱wi atsada tihöimana dzaꞌra waꞌwa` tenho uma coisa contra vocês (lit.: uma coisa para mim contra vocês há)
+- `dawi höiwadzu` arrancar de alguém
+- `dawi öri` pegar uma coisa de alguém
+- `dawi pãrĩ` matar dois de alguém (lit.: matar os dois filhos meus de mim)
+- `dawi piꞌuri` esconder de alguém
+- `dawi praba` escorrer de algo/alguém
+  - `Ĩ̱tõmoꞌu te panhoꞌõmo ne ĩ̱wi ꞌre praba` lágrimas escorrem dos meus como um rio
+- `dawi pru` esmigalhar de alguém
+- `dawi robaba` alguém precisar de algo (lit.: faltar para alguém)
+- `dawi robdzeiꞌõ` entristecer alguém
+- `dawi robdzöri` impedir alguém
+- `dawi ropé` espalhar de alguém
+- `dawi ropti` proibir alguém de ir
+- `dawi rotsawi` proibir alguém
+- `dawi rowadzé` envergonhar alguém
+  - `te dza aiwi tirowadzé` vocês será envergonhado
+- `dawi rowaptẽrẽ` orar à alguém
+- `dawi rowaptöꞌö` alguém precisar de algo (lit.: faltar para alguém)
+- `dawi roꞌwanhiꞌriti` alguém precisar de algo (lit.: faltar para alguém)
+- `dawi roꞌwaꞌré` incomodar, perturbar alguém
+- `dawi roꞌwaꞌrutu` atrapalhar, bagunçar, irritar alguém
+- `dawi tété` controlar, refrear, segurar alguém
+  - `wa tô aiwi tété, piꞌõ upi tõ da hã` eu te segurei para não tocar na mulher
+- `dawi tito` fechar para alguém
+  - `wapẽ hã wa te aiwi tsitob dzaꞌra waꞌaba õ di` não fechamos nosso coração para (ou: de) de vocês
+- `dawi tiꞌawi` diminuir de alguém
+- `dawi tsani` arrancar de alguém
+- `dawi tsawi` proibir alguém
+- `dawi tsaꞌwari` derramar de alguém (lit.: derramar meu sangue de mim)
+- `dawi tsidzöri` cortar de alguém
+- `dawi tsõꞌreptu` salvar, livrar de alguém
+- `dawi udö` esconder de alguém
+- `dawi uipra` comprar de alguém
+- `dawi uprotsi` destruir de alguém
+  - `ma tô ĩ̱wi uprotsi ĩ̱nhitsi` destruiu minha reputação (lit.: destruiu de mim meu nome)
+- `dawi wadzere` tirar de alguém
+  - `atsina ĩ̱wi rowadzé wadzere dzaꞌra waꞌaba õ di` vocês não me envergonharam (lit.: vocês não tiraram de mim o respeito)
+- `dawi wairébé` sair de alguém/algo
+- `dawi waptẽrẽ` pedir à alguém
+- `dawi ꞌmanharĩ` fazer de/contra alguém
+  - `e marĩ ĩwatsédé hã te aiwi ꞌmanharĩ bö` eu por acaso fiz algum pecado contra você
+- `dawi ꞌrãtõ` acabar de alguém
+
 ## Exemplos
 
 - `wa aiwi waptẽ` eu te peço (a você)
