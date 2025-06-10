@@ -25,6 +25,11 @@ Especiais:
 [substantivo] dzô [verbo]
 ```
 
+## Verbos regidos por `dzô`
+
+- `dadzô danhopré` empenhar-se, buscar por alguém/algo
+- `dadzô dahörö` chamar, convidar alguém
+
 ## Exemplos
 
 - `Buru u, wa dza mo, upa dzô.` À roça, eu irei, em busca de mandioca.
