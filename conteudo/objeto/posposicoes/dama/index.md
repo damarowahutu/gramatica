@@ -69,7 +69,7 @@ Especiais:
 - `Wa dza aima watsuꞌu` te contarei
 - `E te dza ĩ̱ma ĩhöiꞌré` você me mostrará?
 
-### Com signifcado de "fazer que..."
+### Com significado de "fazer que..."
 
 - `Wa dza aima waihu'u` te ensinarei (lit.: eu farei que você saiba)
 - `E marĩ tahã te wama waihuꞌu dzaꞌra` O que isso nos ensina?
