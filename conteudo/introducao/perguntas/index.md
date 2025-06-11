@@ -87,7 +87,7 @@ Para incluir uma oração com "por que" (causa, razão), podemos colocar a vogal
 
 É preciso analisar o sentido da oração com `o que` ou `aquilo o que`, e também entender se ela realmente é uma pergunta ou apenas uma afirmação.
 
-Por exemplo, num título em português pode aparecer a seguinte afirmação: `O que o livro ensina.` Este título indica que no texto abaixo dele você encontrará aquilo o que o livro ensina. Visto que não é uma pergunta, não podemos fazer a frase em xavante inciando com `E`. Neste caso usamos o modificador `ĩ ... dzé` com a conjugação do infinitivo. Para mais informações, veja [a explicação sobre _dzé_ no artigo sobre modificadores.](/conteudo/modificadores/index.md#coisa-lugar-ocasião-maneira-ĩverbodzé)
+Por exemplo, num título em português pode aparecer a seguinte afirmação: `O que o livro ensina.` Este título indica que no texto abaixo dele você encontrará aquilo o que o livro ensina. Visto que não é uma pergunta, não podemos fazer a frase em xavante inciando com `E`. Neste caso usamos o modificador `ĩ ... dzé` com a conjugação do infinitivo. Para mais informações, veja [a explicação sobre _dzé_ no artigo sobre modificadores.](/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé)
 
 - `E marĩ ĩhöiwarobo te rowahutu.` O que o livro ensina? (uma pergunta)
 - `Ĩhöiwarobo te te ĩrowahutudzé` O que o livro ensina. / Aquilo o que o livro ensina / O modo como o livro ensina. / A maneira que o livro ensina.
@@ -95,15 +95,15 @@ Por exemplo, num título em português pode aparecer a seguinte afirmação: `O 
 
 ### E niha
 
-Se for falar de algo que já aconteceu, que está no passado funciona, então poderá usar `niha na` e colocar o verbo que indica do que se trata o modo no infinitivo usando o modificador `dzé`.
+Se for falar de algo que já aconteceu, que está no **passado**, poderá usar `niha na` e colocar o verbo que indica do que se trata o modo no infinitivo usando o modificador `dzé`.
 
 - `Wa tô rotsaꞌrata niha na te te ĩ̱pawaptobdzém na.` Eu pensei em como ele me ajudou.
 
-Para coisas que ainda vão acontecer, que estão no futuro, ou que estão no presente, _não_ podemos usar `niha na`. Neste caso, precisamos inserir uma oração interrogativa com `e niha`.
+Para coisas que ainda vão acontecer, que estão no **futuro**, ou que estão no **presente**, _não_ podemos usar `niha na`. Neste caso, precisamos inserir uma oração interrogativa com `e niha`.
 
 - `Wa dza rotsaꞌrata e niha te dza ĩ̱pawapto`. Eu vou pensar em como ele vai me ajudar.
 
-Para falar apenas sobre "de alguma forma ou maneira" no presente, podemos usar o `niha na` com o indicativo.
+Para falar apenas sobre "de alguma forma ou maneira" no **presente**, podemos usar o `niha na` com o indicativo.
 
 - `Wa dza niha na tãma robꞌmanharĩ dzaꞌra ni.` Nós os castigaremos de alguma maneira.
 
