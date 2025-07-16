@@ -95,7 +95,7 @@ Em verbos classe 2 tipo D, note que o objeto se sobrepõe à partícula `ti`
 
 > Por motivo de fonética, ĩ (marcador de 2º pessoa como sujeito) é omitido antes de ĩ̱ (marcador de 1º pessoa como objeto) porque os dois ocupam a mesma posição (não ficam 2 letras iguais seguidas ĩ̱ĩ)
 
-- `te ĩpawapto` ele o ajuda (ele)
+- `te ĩpawapto` você o ajuda (ele)
 - `te ĩ̱pawapto` você me ajuda (eu)
 - `te ĩ̱pawapto` ele me ajuda (eu)
 
