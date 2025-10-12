@@ -57,8 +57,8 @@
     1. prã
     1. dzahu
     1. uwaibaba
-1. Verbos com prefixo de objeto no infinitivo
-    1. [Conjugação](conteudo/verbosClasse2/infinitivo/conjugacao/index.md)
+1. Infinitivo
+    1. [Conjugação de verbos que prefixam objetos](conteudo/verbosClasse2/infinitivo/conjugacao/index.md)
     1. [Tempos verbais](conteudo/verbosClasse2/infinitivo/temposVerbais/index.md)
 1. [Modificadores](conteudo/modificadores/index.md)
     1. [Orações subordinadas](conteudo/oracoesSubordinadas/index.md)
