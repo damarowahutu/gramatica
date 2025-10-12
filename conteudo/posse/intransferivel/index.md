@@ -76,6 +76,9 @@ Essa forma de posse é importante para se compreender a cultura e a linguagem xa
 - `aimro` teu cônjuge (esposa/marido)
 - `ĩmro` cônjuge dele (esposa/marido)
 - `timro` cônjuge dele mesmo (esposa/marido)
+- `dapẽꞌẽ na` com o coração (figurativo: sentimento, íntimo) da pessoa
+- `wapẽꞌẽ na` com nosso coração
+- `ꞌröwi ĩ̱pẽꞌẽ na` com o fundo do meu coração
 
 ### Alguns sofrem mudança de *nhi* para *tsi*
 
@@ -94,7 +97,10 @@ Essa forma de posse é importante para se compreender a cultura e a linguagem xa
 - `danhibꞌaꞌuwẽ` povo
 - `ĩ̱nhibꞌaꞌuwẽ` meu povo  
 - `atsibꞌaꞌuwẽ` teu povo  
-- `ĩtsibꞌaꞌuwẽ` povo dele  
+- `ĩtsibꞌaꞌuwẽ` povo dele
+- `ĩ̱nhitsi` meu nome
+- `atsitsi` teu nome
+- `Rotiꞌwa nhitsi` nome do cacique  
 
 ### Outros sofrem mudança de *nho* para *tsõ*
 
