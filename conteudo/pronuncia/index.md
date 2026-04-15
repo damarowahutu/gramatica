@@ -1,5 +1,7 @@
 # Pronúncia
 
+[![Assista o vídeo](https://img.youtube.com/vi/ByS-6gzF6Ck/maxresdefault.jpg)](https://youtu.be/ByS-6gzF6Ck)
+
 ## Vogais
 
 |Letra | Som em português | Exemplo em xavante | Tradução em português |

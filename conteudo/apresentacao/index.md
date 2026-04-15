@@ -4,6 +4,8 @@
 
 Este material pretende ser fonte de referência da gramática do idioma xavante, usando o português como fonte comparações gramaticais. Os voluntários que trabalham neste projeto não são linguístas e nem mantidos por qualquer tipo de instituição. Desejam compartilhar o conhecimento adquirido e contribuir para a preservação do idioma.
 
+[![Assista o vídeo](https://img.youtube.com/vi/oOMU_BW7nVU/maxresdefault.jpg)](https://youtu.be/oOMU_BW7nVU)
+
 ### Link úteis
 
 - [História - Instituto Socioambiental](https://pib.socioambiental.org/pt/Povo:Xavante)
