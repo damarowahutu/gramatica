@@ -1,8 +1,8 @@
-# Gramática do idioma Xavante - Aꞌuwẽ mreme nhimiromnhorédzé
+# Gramática da língua Xavante - Aꞌuwẽ mreme nhimiromnhorédzé
 
 ## Objetivo
 
-Este material pretende ser fonte de referência da gramática do idioma xavante, usando o português como fonte comparações gramaticais. Os voluntários que trabalham neste projeto não são linguístas e nem mantidos por qualquer tipo de instituição. Desejam compartilhar o conhecimento adquirido e contribuir para a preservação do idioma.
+Este material pretende ser uma fonte de referência da gramática da língua xavante, usando o português como fonte comparações gramaticais. Os voluntários que trabalham neste projeto não são linguistas e nem mantidos por qualquer tipo de instituição. Desejam compartilhar o conhecimento adquirido e contribuir para a preservação da língua.
 
 [![Assista o vídeo](https://img.youtube.com/vi/oOMU_BW7nVU/maxresdefault.jpg)](https://youtu.be/oOMU_BW7nVU)
 
