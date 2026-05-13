@@ -80,14 +80,14 @@
 
 ### Despedindo de 1 só pessoa
 
-- Fique em paz! `Rowẽ na 're aihöimana!` [🔉](audios/11.mp3)
+- Fique em paz! `Rowẽ na 're aihöimana mono!` / `Rowẽ na atsãmra!`
 - Vai em paz! `Rowẽ na aimorĩ!` [🔉](audios/12.mp3)
 - Boa viagem! `Rowẽ na aiwara!` [🔉](audios/13.mp3)
 - Durma bem! `Rowẽ na atsõtõ!` [🔉](audios/14.mp3)
 
 ### Despedindo de 2 pessoas
 
-- Fiquem em paz! `Rowẽ na 're aihöimana aba!` [🔉](audios/21.mp3)
+- Fiquem em paz! `Rowẽ na 're aihöimana aba mono!` / `Rowẽ na aimatsitsi aba` 
 - Vão em paz! `Rowẽ na ane wa'aba!` [🔉](audios/22.mp3)
 - Boa viagem! `Rowẽ na atsamroi wa'aba!` [🔉](audios/23.mp3)
 - Durmam bem! `Rowẽ na atsõtõ aba!` [🔉](audios/24.mp3)
@@ -96,7 +96,7 @@
 
 ### Despedindo de 3 ou mais pessoas
 
-- Fiquem em paz! `Rowẽ na 're aihöimana dza'ra wa'aba!` [🔉](audios/31.mp3)
+- Fiquem em paz! `Rowẽ na 're aihöimana dza'ra wa'aba mono!` / `Rowẽ na atsimroi waꞌaba!`
 - Vão em paz! `Rowẽ na aiˈabaˈréi waˈaba!` [🔉](audios/32.mp3)
 - Boa viagem! `Rowẽ na atsaˈréi waˈaba!` [🔉](audios/33.mp3)
 - Durmam bem! `Rowẽ na atsõtõ dzaꞌra waꞌaba!` [🔉](audios/34.mp3)
