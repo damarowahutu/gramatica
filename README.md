@@ -4,4 +4,4 @@ This project aims to document the grammar of the Xavante language. It will be us
 If you need any help you can create a new [issue](https://github.com/damarowahutu/gramatica/issues).
 If you want to contribute to the project, you can make a pull request.
 
-http://www.damarowahutu.com.br/ 
+https://damarowahutu.github.io/gramatica/
