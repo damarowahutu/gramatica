@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Ele tem danhorõwa ou ꞌri. Oca vem da língua tupi (outra etnia)"
 ---
 

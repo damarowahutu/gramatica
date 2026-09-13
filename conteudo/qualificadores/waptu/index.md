@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Qualifica a ação como sendo executada rapidamente, algo feito depressa. Geralmente é usado como advérbio de modo assim como a palavra rapidamente em"
 ---
 

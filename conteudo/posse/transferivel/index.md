@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "A posse transferível é o tipo de posse que se refere a objetos ou coisas que podem mudar de dono, ser vendidos, trocados ou transferidos para outra"
 ---
 

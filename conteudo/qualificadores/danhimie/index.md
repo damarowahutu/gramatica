@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Passa a ideia de algo feito com zelo, empenho, de forma aplicada, bem feita."
 ---
 

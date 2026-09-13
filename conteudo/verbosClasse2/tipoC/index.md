@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "No indicativo, perde a sílaba final apenas na 2º pessoa (tu/você) do singular."
 ---
 

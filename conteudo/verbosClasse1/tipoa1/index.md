@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos ganham os seguintes prefixos: — - ĩ̱ na 1º pessoa do singular - wa na 1º pessoa do dual e plural - ai ou a na 2º pessoa - ti na 3º pessoa"
 ---
 

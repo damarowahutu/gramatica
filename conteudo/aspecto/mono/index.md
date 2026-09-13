@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Quando você fala sobre a duração de uma ação, você pode dizer que ela tem duração limitada ou duração indefinida."
 ---
 

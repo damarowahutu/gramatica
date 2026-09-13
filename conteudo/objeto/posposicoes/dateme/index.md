@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Dependendo do contexto indica para perto de, em direção a alguém ou algo."
 ---
 

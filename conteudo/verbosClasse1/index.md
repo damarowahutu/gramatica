@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos recebem um prefixo de sujeito, ao contrário de outros verbos que podem recebem um prefixo de objeto direto. Antes de prosseguir, tenha"
 ---
 

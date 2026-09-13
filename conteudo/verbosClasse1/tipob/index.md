@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos recebem o prefixo ai no indicativo e não sofrem mudanças. No infinitivo recebem tsi e também recebem prefixos pessoais, com exceção da 2º"
 ---
 

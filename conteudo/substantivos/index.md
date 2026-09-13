@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Substantivos dão nomes para pessoas, animais, coisas, objetos, lugares, etc."
 ---
 

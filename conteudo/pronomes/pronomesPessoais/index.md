@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Pessoas Verbais — Pronomes do Caso Reto Português — Xavante — 1ª pessoa do singular — eu — wa hã — 2ª pessoa do singular — tu/você — a hã — 3ª pessoa do"
 ---
 

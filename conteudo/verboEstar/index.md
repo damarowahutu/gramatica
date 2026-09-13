@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "O verbo estar em xavante tem sua forma de conjugação baseada em dois conceitos:"
 ---
 

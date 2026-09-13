@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Descreve ação simples que será realizada em breve ou num futuro distante."
 ---
 

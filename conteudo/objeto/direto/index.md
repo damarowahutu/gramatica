@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Em português, o objeto direto não precisa de preposição, ele vai \"direto\" ao verbo sem nada entre ele e o verbo."
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Passa a ideia de algo eterno, feito para sempre, de forma contínua, sem parar."
 ---
 

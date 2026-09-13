@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "No indicativo, perde a sílaba final em todas pessoas do singular."
 ---
 

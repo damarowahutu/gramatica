@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Indica algo feito de forma vagarosa, com calma. Como advérbio de modo corresponde aos português vagarosamente."
 ---
 

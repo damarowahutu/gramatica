@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Para traduzir uma frase para o xavante, siga estas etapas detalhadas:"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com"
 ---
 

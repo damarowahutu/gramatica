@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos sofrem as seguintes modificações no indicativo:"
 ---
 

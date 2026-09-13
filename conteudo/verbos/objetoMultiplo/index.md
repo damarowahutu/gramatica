@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Os verbos que possuem objeto múltiplo sofrem alterações no tema de acordo com a quantidade de objetos envolvidos na ação. Isso significa que o verbo muda"
 ---
 

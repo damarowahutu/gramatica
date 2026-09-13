@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Ese tempo verbal corresponde ao pretérito perfeito do indicativo, ou ação simples completa. Descreve a ação simples feita no passado."
 ---
 

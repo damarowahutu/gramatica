@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "A partícula aré (ou éré em algumas regiões) passa a ideia de a ação foi quase realizada. Isso significa que a ação foi tentada, mas não foi concluída. Ela"
 ---
 

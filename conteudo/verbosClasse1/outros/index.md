@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "- dadzaꞌo - wa da'o eu pendo - te atsa'o você pende - te da'o ele pende - ĩ̱dza'o pender eu - atsa'o pender você - tsa'o pender ele - wa wadza'o ni nós"
 ---
 

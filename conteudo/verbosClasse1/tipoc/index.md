@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos recebem o prefixo a nas 1º e 3º pessoas do indicativo, e recebe atsi na 2º pessoa do indicativo. No infinitivo recebem tsi ou nhi junto com"
 ---
 

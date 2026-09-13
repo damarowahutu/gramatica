@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Abaixo seguem algumas comparações com orações subordinadas do português."
 ---
 

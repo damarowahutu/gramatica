@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "- awaꞌawi - imediatamente - nimotsi - agorinha há pouco - ãhãna - agora/hoje - aꞌö - por enquanto - oto - daqui em diante (usado dentro de uma frase)"
 ---
 

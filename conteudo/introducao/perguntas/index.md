@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Em português, usamos o sinal de interrogação (?) no final de uma frase para indicar que é uma pergunta."
 ---
 

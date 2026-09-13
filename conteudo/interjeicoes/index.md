@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "O que são interjeições? Interjeições são expressões de exclamação, surpresa ou concordância com uma ordem ou pedido. Por exemplo, em português. Veja os"
 ---
 

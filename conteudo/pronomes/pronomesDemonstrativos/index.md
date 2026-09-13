@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Veja a explicação no artigo sobre pronomes pessoais. — ãne - assim/semelhante a este/isto"
 ---
 

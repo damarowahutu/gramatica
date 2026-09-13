@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Em xavante os verbos são divididos em dois grandes grupos: — - verbos com prefixo de sujeito - verbos com prefixo de objeto direto"
 ---
 

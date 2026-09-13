@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "- Um/uma mitsi - Dois/duas maparane - Três tsiꞌubdatõ — Acima disso são poucos que usam no dia-a-dia, pois preferem usar os números em português."
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "O aspecto de ação em vão expressa uma tentativa que não alcançou seu objetivo, ou seja, algo foi feito sem sucesso. A partícula aré (ou éré em algumas"
 ---
 

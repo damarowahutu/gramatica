@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos seguem um padrão parecido com os do tipo A1. Mas há duas diferenças:"
 ---
 

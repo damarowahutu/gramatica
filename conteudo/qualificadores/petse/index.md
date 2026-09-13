@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Da mesma forma que o wẽ, o significado pode variar de acordo com o lugar que for usado. Dá o sentido de muito, completo, pleno, melhor, bastante."
 ---
 

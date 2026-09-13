@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "A posse intransferível, ou cultural, é a forma de se referir a objetos ou coisas que fazem parte de uma pessoa ou família e que não podem ser vendidas"
 ---
 

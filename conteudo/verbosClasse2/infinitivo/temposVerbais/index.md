@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Dependendo do modificador usado o verbo do infinitivo vai seguir o tempo verbal usado no indicativo, ou vai ficar subentendido no contexto."
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Indica destinatário ou beneficiário da ação do verbo, que a ação ocorre \"sobre\" a objeto. É muito parecido com o datsina e muitas vezes pode substituí-lo."
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "- ĩ̱ma atsurure di você é menor que eu (para mim, você é menorzinho) - tãma ĩ̱tsurure di eu sou menor que ele (para ele, eu sou menorzinho) - aima waꞌru"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "O sujeito de uma oração é o ser que realiza a ação descrita pelo verbo. Por exemplo, na oração \"Eu como um bolo\", o sujeito é \"Eu\"."
 ---
 

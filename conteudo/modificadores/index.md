@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Os modificadores são elementos que alteram ou intensificam o sentido de um verbo. Para utilizá-los corretamente, é necessário conjugar o verbo com base na"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Nessa classe o verbo não carrega o sujeito prefixado, como acontece nos verbos com prefixo de sujeito."
 ---
 

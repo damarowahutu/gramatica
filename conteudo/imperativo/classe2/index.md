@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Use a forma do imperativo, incluindo o na com alguns verbos."
 ---
 

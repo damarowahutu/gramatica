@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Estes verbos não perdem e nem ganham nenhuma sílaba. — pawapto - ajudar"
 ---
 

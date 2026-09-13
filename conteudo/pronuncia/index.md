@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Letra — Som em português — Exemplo em xavante — Tradução em português — A — som aberto de á como em sofá — dato — festa/olho — Ã — som nasal de ãn como em"
 ---
 

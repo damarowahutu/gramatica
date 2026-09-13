@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Só funciona com frases simples ou com substantivos. — Fórmula:"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "- ĩ̱watobro que eu saia - watobro que ele saia - atsipi na! cozinhe! ️ A partícula na só ocorre no singular em verbos que não perdem sílabas em final de"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "Algo feito de forma repetida e costumeira. — A conjugação acima exemplifica o tempo presente. Para usar no passado ou futuro do indicativo, basta"
 ---
 

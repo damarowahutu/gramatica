@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: "em alguns verbos o di sobre modificação para ti — No final da conjugação usa-se õ di no lugar de di. Exemplos:"
 ---
 
