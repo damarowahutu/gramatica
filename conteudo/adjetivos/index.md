@@ -1,3 +1,8 @@
+---
+layout: page
+description: "em alguns verbos o di sobre modificação para ti — No final da conjugação usa-se õ di no lugar de di. Exemplos:"
+---
+
 # Adjetivos
 
 ## Prefixados com o sujeito

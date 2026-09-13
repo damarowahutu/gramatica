@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com"
+---
+
 # Locução verbal
 
 Imagine que você tem um bloco de madeira e um martelo. Sozinho, o bloco de madeira e o martelo não fazem muito sentido. Mas se você combinar o martelo com o bloco de madeira, você pode criar algo novo e útil, como uma mesa ou uma cadeira. Isso é o que acontece com as locuções verbais em xavante. Nós pegamos um verbo (o martelo) e o combinamos com uma preposição, advérbio ou substantivo (o bloco de madeira) para criar uma expressão com um significado específico.

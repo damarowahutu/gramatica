@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos recebem um prefixo de sujeito, ao contrário de outros verbos que podem recebem um prefixo de objeto direto. Antes de prosseguir, tenha"
+---
+
 # Verbos com prefixo de sujeito
 
 Estes verbos recebem um prefixo de sujeito, ao contrário de outros verbos que podem recebem um prefixo de objeto direto. Antes de prosseguir, tenha certeza que já entenda a diferença [entre prefixo de sujeito ou objeto no verbo](/conteudo/verbos/prefixoVerbal/).

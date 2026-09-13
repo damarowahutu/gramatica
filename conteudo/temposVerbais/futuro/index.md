@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Descreve ação simples que será realizada em breve ou num futuro distante."
+---
+
 # Futuro simples
 
 Descreve ação simples que será realizada em breve ou num futuro distante.

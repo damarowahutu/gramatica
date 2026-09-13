@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Os modificadores são elementos que alteram ou intensificam o sentido de um verbo. Para utilizá-los corretamente, é necessário conjugar o verbo com base na"
+---
+
 # Modificadores
 
 Os modificadores são elementos que alteram ou intensificam o sentido de um verbo. Para utilizá-los corretamente, é necessário conjugar o verbo com base na tabela do infinitivo e adicionar o modificador ao final da expressão verbal, para transmitir a intenção desejada.

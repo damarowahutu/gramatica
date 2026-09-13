@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Afixos são prefixos e sufixos que se adicionam a uma palavra para mudar seu significado. São como \"adereços\" que se colam na palavra."
+---
+
 # Afixos
 
 Afixos são prefixos e sufixos que se adicionam a uma palavra para mudar seu significado. São como "adereços" que se colam na palavra.

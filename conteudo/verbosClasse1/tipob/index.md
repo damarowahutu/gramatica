@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos recebem o prefixo ai no indicativo e não sofrem mudanças. No infinitivo recebem tsi e também recebem prefixos pessoais, com exceção da 2º"
+---
+
 # Verbos com prefixo de sujeito tipo B - ai
 
 Estes verbos recebem o prefixo `ai` no indicativo e não sofrem mudanças. No infinitivo recebem `tsi` e também recebem prefixos pessoais, com exceção da 2º pessoa que continua apenas com `ai`.

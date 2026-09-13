@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Dependendo do modificador usado o verbo do infinitivo vai seguir o tempo verbal usado no indicativo, ou vai ficar subentendido no contexto."
+---
+
 # Tempos verbais com verbos com prefixo de objeto no infinitivo
 
 Dependendo do modificador usado o verbo do infinitivo vai seguir o tempo verbal usado no indicativo, ou vai ficar subentendido no contexto.

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Veja a explicação no artigo sobre pronomes pessoais. — ãne - assim/semelhante a este/isto"
+---
+
 # Pronomes demonstrativos
 
 ## Distâncias na 3º pessoa

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos seguem um padrão parecido com os do tipo A2. Mas este verbo sempre perde a última sílaba quando não há um complemento na locução verbal."
+---
+
 # Verbos com prefixo de sujeito tipo A3 - wa/ai/ti que perde sílaba
 
 Estes verbos seguem um padrão parecido com os do [tipo A2](../tipoa2/index.md). Mas este verbo sempre perde a última sílaba quando não há um complemento na locução verbal.

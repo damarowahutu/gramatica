@@ -1,3 +1,8 @@
+---
+layout: page
+description: "- Bom dia - Rowaꞌa wẽ! - Bom meio-dia - Abdzumawẽ! — Os xavantes costumam se cumprimentar assim por volta da hora do almoço, entre 10 e 14 horas"
+---
+
 # Frases para dialogar
 
 ## Cumprimentos

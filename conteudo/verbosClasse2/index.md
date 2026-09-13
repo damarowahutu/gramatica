@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Nessa classe o verbo não carrega o sujeito prefixado, como acontece nos verbos com prefixo de sujeito."
+---
+
 # Verbos com prefixo de objeto
 
 Nessa classe o verbo não carrega o sujeito prefixado, como acontece nos verbos com prefixo de sujeito.

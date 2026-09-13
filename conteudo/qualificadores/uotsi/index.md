@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Passa a ideia de algo eterno, feito para sempre, de forma contínua, sem parar."
+---
+
 # Qualificador _uꞌötsi_
 
 Passa a ideia de algo eterno, feito para sempre, de forma contínua, sem parar.

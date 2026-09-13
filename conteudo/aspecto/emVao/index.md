@@ -1,3 +1,8 @@
+---
+layout: page
+description: "O aspecto de ação em vão expressa uma tentativa que não alcançou seu objetivo, ou seja, algo foi feito sem sucesso. A partícula aré (ou éré em algumas"
+---
+
 # Aspecto de Ação Não Realizada com o Sentido de _Em Vão_
 
 O aspecto de ação _em vão_ expressa uma tentativa que não alcançou seu objetivo, ou seja, algo foi feito sem sucesso. A partícula `aré` (ou `éré` em algumas regiões) é usada para transmitir essa ideia de inutilidade ou falta de resultado. Ela aparece em orações principais e é seguida por uma oração subordinada que esclarece a tentativa frustrada.

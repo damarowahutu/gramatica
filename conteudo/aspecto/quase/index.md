@@ -1,3 +1,8 @@
+---
+layout: page
+description: "A partícula aré (ou éré em algumas regiões) passa a ideia de a ação foi quase realizada. Isso significa que a ação foi tentada, mas não foi concluída. Ela"
+---
+
 # Aspecto de ação não realizada com o sentido de _quase_
 
 A partícula `aré` (ou `éré` em algumas regiões) passa a ideia de a ação foi _quase_ realizada. Isso significa que a ação foi tentada, mas não foi concluída. Ela pode ser usada para expressar que a ação foi tentada, mas não funcionou, ou para expressar que a ação foi muito próxima de acontecer, mas não aconteceu.

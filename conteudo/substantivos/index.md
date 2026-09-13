@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Substantivos dão nomes para pessoas, animais, coisas, objetos, lugares, etc."
+---
+
 # Substantivos
 
 Substantivos dão nomes para pessoas, animais, coisas, objetos, lugares, etc.

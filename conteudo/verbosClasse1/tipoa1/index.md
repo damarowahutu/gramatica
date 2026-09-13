@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos ganham os seguintes prefixos: — - ĩ̱ na 1º pessoa do singular - wa na 1º pessoa do dual e plural - ai ou a na 2º pessoa - ti na 3º pessoa"
+---
+
 # Verbos com prefixo de sujeito tipo A1 - ĩ̱/wa/ai/ti
 
 Estes verbos ganham os seguintes prefixos:

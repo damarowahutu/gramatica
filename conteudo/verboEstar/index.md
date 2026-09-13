@@ -1,3 +1,8 @@
+---
+layout: page
+description: "O verbo estar em xavante tem sua forma de conjugação baseada em dois conceitos:"
+---
+
 # Verbo _estar_
 
 ## Definição

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Ele tem danhorõwa ou ꞌri. Oca vem da língua tupi (outra etnia)"
+---
+
 # Cultura
 
 ## Quais são os termos corretos para se referir a povos indígenas?

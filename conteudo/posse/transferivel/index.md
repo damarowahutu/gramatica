@@ -1,3 +1,8 @@
+---
+layout: page
+description: "A posse transferível é o tipo de posse que se refere a objetos ou coisas que podem mudar de dono, ser vendidos, trocados ou transferidos para outra"
+---
+
 # Posse transferível
 
 A posse transferível é o tipo de posse que se refere a objetos ou coisas que podem mudar de dono, ser vendidos, trocados ou transferidos para outra pessoa. Isso ocorre porque a cultura xavante não considera essas coisas como parte integrante da identidade ou família da pessoa. Exemplos de coisas que são consideradas posse transferível incluem:

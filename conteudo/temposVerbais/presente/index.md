@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Usado para ações feitas uma vez no momento em que se fala. Também se aplicado a ações estão sendo feitas de forma contínua no presente."
+---
+
 # Presente simples
 
 Usado para ações feitas uma vez no momento em que se fala. Também se aplicado a ações estão sendo feitas de forma contínua no presente.

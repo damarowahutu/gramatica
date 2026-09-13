@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Só funciona com frases simples ou com substantivos. — Fórmula:"
+---
+
 # Verbo _ser_ invisível
 
 Só funciona com frases simples ou com substantivos.

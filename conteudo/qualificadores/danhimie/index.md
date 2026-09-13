@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Passa a ideia de algo feito com zelo, empenho, de forma aplicada, bem feita."
+---
+
 # Qualificador `danhimiꞌẽ`
 
 Passa a ideia de algo feito com zelo, empenho, de forma aplicada, bem feita.

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "O que é Objeto? — Em uma frase, o objeto é o que sofre ou recebe a ação do sujeito. Por exemplo, na frase \"Eu como um bolo\", o sujeito é \"eu\" e o objeto é"
+---
+
 # Objetos
 
 O que é Objeto?

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos sofrem as seguintes modificações no indicativo:"
+---
+
 # Verbos com prefixo de objeto - Tipo D
 
 Estes verbos sofrem as seguintes modificações no indicativo:

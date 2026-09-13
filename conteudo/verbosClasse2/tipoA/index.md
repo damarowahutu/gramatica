@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos não perdem e nem ganham nenhuma sílaba. — pawapto - ajudar"
+---
+
 # Verbos com prefixo de objeto - Tipo A
 
 Estes verbos não perdem e nem ganham nenhuma sílaba.

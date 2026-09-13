@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Use a forma do imperativo, incluindo o na com alguns verbos."
+---
+
 # Imperativo - verbos com prefixo de objeto
 
 ## Imperativo simples

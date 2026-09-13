@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Abaixo seguem algumas comparações com orações subordinadas do português."
+---
+
 # Orações subordinadas
 
 Abaixo seguem algumas comparações com orações subordinadas do português.

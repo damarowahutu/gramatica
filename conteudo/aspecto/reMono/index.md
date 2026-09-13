@@ -1,3 +1,8 @@
+---
+layout: page
+description: "A ação contínua em xavante pode ter variações de duração. Pode ser duração indefinida ou habitual usando as partículas ꞌre ... mono. Ou pode ser de"
+---
+
 # Aspecto de ação de duração indefinida ou habitual
 
 ## Definição

@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Dependendo do contexto indica motivo ou busca de algo. Também pode significar com ou sobre alguma coisa, ou ainda no lugar de alguém (por alguém)."
+---
+
 # Posposição _dzô_
 
 ## Significado

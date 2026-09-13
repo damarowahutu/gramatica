@@ -1,3 +1,8 @@
+---
+layout: page
+description: "O reflexivo é um recurso gramatical que permite indicar que a ação realizada pelo sujeito da frase incide sobre ele mesmo. Em outras palavras, a ação"
+---
+
 # Reflexivo
 
 ## Definição

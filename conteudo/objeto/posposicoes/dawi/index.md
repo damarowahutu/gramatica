@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Indica de onde vem ou para onde vai o objeto ou a ação do verbo. Mas tem significados diferentes dependendo do verbo."
+---
+
 # Posposição _wi_
 
 ## Significado

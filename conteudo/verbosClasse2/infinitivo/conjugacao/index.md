@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Estes verbos não perdem e nem ganham nenhuma sílaba. — Veja diversos modificadores aplicados na tabela de conjugação acima."
+---
+
 # Conjugação de verbos com prefixo de objeto no infinitivo
 
 Estes verbos não perdem e nem ganham nenhuma sílaba.

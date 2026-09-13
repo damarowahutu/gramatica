@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Os verbos que possuem objeto múltiplo sofrem alterações no tema de acordo com a quantidade de objetos envolvidos na ação. Isso significa que o verbo muda"
+---
+
 # Verbos de Objeto Múltiplo
 
 Os verbos que possuem objeto múltiplo sofrem alterações no tema de acordo com a quantidade de objetos envolvidos na ação. Isso significa que o verbo muda sua forma dependendo se a ação está sendo realizada sobre um, dois ou mais objetos. Por exemplo, o verbo `öri` é utilizado para "pegar uma coisa", mas se forem duas coisas, o verbo se transforma em `mrami`.

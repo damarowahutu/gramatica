@@ -1,3 +1,8 @@
+---
+layout: page
+description: "A posse intransferível, ou cultural, é a forma de se referir a objetos ou coisas que fazem parte de uma pessoa ou família e que não podem ser vendidas"
+---
+
 # Posse intransferível ou Cultural
 
 A posse intransferível, ou cultural, é a forma de se referir a objetos ou coisas que fazem parte de uma pessoa ou família e que não podem ser vendidas, trocadas ou transferidas para outra pessoa. São coisas que fazem parte da identidade ou da família e que não podem ser separadas delas. Exemplos de coisas que são consideradas posse intransferível incluem:

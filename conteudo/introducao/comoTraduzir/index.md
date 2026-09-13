@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Para traduzir uma frase para o xavante, siga estas etapas detalhadas:"
+---
+
 # Como traduzir
 
 ## Passo a passo

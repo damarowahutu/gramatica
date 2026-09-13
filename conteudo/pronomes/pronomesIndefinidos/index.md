@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Ao usar niꞌwa no singular passa o sentido de \"alguém\". Mas se usar no negativo, o sentido passa a ser de \"ninguém\"."
+---
+
 # Pronomes indefinidos
 
 ## Alguém / Ninguém

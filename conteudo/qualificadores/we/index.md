@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Essa palavra pode ter vários significados, dependendo de onde é usada. Por isso é importante analisar onde ela aparece e o contexto."
+---
+
 # Qualificador _wẽ_
 
 Essa palavra pode ter vários significados, dependendo de onde é usada. Por isso é importante analisar onde ela aparece e o contexto.

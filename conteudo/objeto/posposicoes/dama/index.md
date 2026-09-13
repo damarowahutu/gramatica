@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Indica destinatário ou beneficiário da ação do verbo. — - wa dza aima titsõ eu darei a você. - wa dza aima höiꞌré eu mostrarei para você."
+---
+
 # Posposição _dama_
 
 ## Significado

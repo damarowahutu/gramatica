@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Quando alguém faz, produz, constrói, pensa, sente, etc. algo, essa coisa se torna sua. Ela é uma posse dele porque foi ele que a fez. Essa é a ideia por"
+---
+
 # Posse produzida
 
 Quando alguém faz, produz, constrói, pensa, sente, etc. algo, essa coisa se torna sua. Ela é uma posse dele porque foi ele que a fez. Essa é a ideia por trás da posse produzida.

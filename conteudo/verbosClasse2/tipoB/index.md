@@ -1,3 +1,8 @@
+---
+layout: page
+description: "No indicativo, perde a sílaba final em todas pessoas do singular."
+---
+
 # Verbos com prefixo de objeto - Tipo B
 
 No indicativo, *perde a sílaba final* em todas pessoas do *singular*.

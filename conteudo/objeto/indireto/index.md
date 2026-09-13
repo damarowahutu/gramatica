@@ -1,3 +1,8 @@
+---
+layout: page
+description: "Em português, o objeto indireto não pode ir \"direto\" ao verbo. Ao invés disso, ele precisa obrigatoriamente usar uma preposição que fica entre ele e o"
+---
+
 # Objeto indireto
 
 Em português, o objeto indireto não pode ir "direto" ao verbo. Ao invés disso, ele precisa obrigatoriamente usar uma preposição que fica entre ele e o verbo.
