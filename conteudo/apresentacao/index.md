@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "Este material pretende ser uma fonte de referência da gramática da língua xavante, usando o português como fonte comparações gramaticais. Os voluntários"
+title: "Apresentação"
 ---
 
 # Gramática da língua Xavante - Aꞌuwẽ mreme nhimiromnhorédzé

@@ -7,7 +7,7 @@ description: "Veja a explicação no artigo sobre pronomes pessoais. — ãne - 
 
 ## Distâncias na 3º pessoa
 
-Veja a explicação no [artigo sobre pronomes pessoais](../pessoais/index.md).
+Veja a explicação no [artigo sobre pronomes pessoais](../pronomesPessoais/index.md).
 
 ## Semelhante a
 

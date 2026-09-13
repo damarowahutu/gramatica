@@ -55,8 +55,8 @@ description: "- Bom dia - Rowaꞌa wẽ! - Bom meio-dia - Abdzumawẽ! — Os xa
 - Você está trabalhando? `E te ĩromhu` [🔉](audios/eteiomhu.mp3)
 - Sim, estou trabalhando `Ĩhe, wa romhu.` [🔉](audios/ihewaromhu.mp3)
 - Leia, por favor `Tsõré na, ĩ̱dzawi na hã`  [🔉](audios/tsorena.mp3)
-- Vou te dar `Wa dza aima titsõ` [🔉](audios/wadzaimatitso.mp3)
-- Já acabou `Töibö oto` [🔉](audios/toibooto.mp3)
+- Vou te dar `Wa dza aima titsõ`
+- Já acabou `Töibö oto`
 - Escreva `Tsihötö`  [🔉](audios/tsihoto.mp3)
 - Repita `Ãma tsahu na`  [🔉](audios/amatsahuna.mp3)
 - Veja  `'Madö'ö`  [🔉](audios/madoo.mp3)
