@@ -66,7 +66,7 @@ Orações divididas por verbo (ação):
 - O objeto desta ação é o "idioma xavante" `aꞌuwẽ mreme`.
 - A ação está no presente
 - É necessário um modificador para dar o sentido de "objetivo" (eu tenho o objetivo, desejo, que ele aprenda). Então a conjugação deve ser do infinitivo.
-- O modificador deve ser o [`da` de objetivo](/conteudo/modificadores/#objetivo-ser-da).
+- O modificador deve ser o [`da` de objetivo]({{ site.baseurl }}/conteudo/modificadores/#objetivo-ser-da).
 - **Tradução**: `te te waihuꞌu da aꞌuwẽ mreme`
 
 #### depois de trabalharmos para você
@@ -76,7 +76,7 @@ Orações divididas por verbo (ação):
 - O objeto desta ação é "para você" `aima`
 - A ação está sem tempo verbal, sem especificar se é passado ou futuro. A oração anterior vai indicar o tempo verbal.
 - É necessário o modificador para dar o sentido de "depois". Então a conjugação deve ser do infinitivo.
-- O modificador deve ser o [`parimhã` de depois](/conteudo/modificadores/#depois-parimhã).
+- O modificador deve ser o [`parimhã` de depois]({{ site.baseurl }}/conteudo/modificadores/#depois-parimhã).
 - **Tradução**: `wa te aima romhuri parimhã`
 
 ### Frase final

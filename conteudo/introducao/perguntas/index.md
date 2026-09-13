@@ -92,7 +92,7 @@ Para incluir uma oração com "por que" (causa, razão), podemos colocar a vogal
 
 É preciso analisar o sentido da oração com `o que` ou `aquilo o que`, e também entender se ela realmente é uma pergunta ou apenas uma afirmação.
 
-Por exemplo, num título em português pode aparecer a seguinte afirmação: `O que o livro ensina.` Este título indica que no texto abaixo dele você encontrará aquilo o que o livro ensina. Visto que não é uma pergunta, não podemos fazer a frase em xavante inciando com `E`. Neste caso usamos o modificador `ĩ ... dzé` com a conjugação do infinitivo. Para mais informações, veja [a explicação sobre _dzé_ no artigo sobre modificadores.](/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé)
+Por exemplo, num título em português pode aparecer a seguinte afirmação: `O que o livro ensina.` Este título indica que no texto abaixo dele você encontrará aquilo o que o livro ensina. Visto que não é uma pergunta, não podemos fazer a frase em xavante inciando com `E`. Neste caso usamos o modificador `ĩ ... dzé` com a conjugação do infinitivo. Para mais informações, veja [a explicação sobre _dzé_ no artigo sobre modificadores.]({{ site.baseurl }}/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé)
 
 - `E marĩ ĩhöiwarobo te rowahutu.` O que o livro ensina? (uma pergunta)
 - `Ĩhöiwarobo te te ĩrowahutudzé` O que o livro ensina. / Aquilo o que o livro ensina / O modo como o livro ensina. / A maneira que o livro ensina.

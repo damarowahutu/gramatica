@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "Estes verbos, em todas 1º e 3º pessoas do indicativo, perdem o prefixo conjugado derivado de danhimi e recebem o prefixo ma. Também perdem a última sílaba"
+title: "Verbos tipo D - ma/atsimi"
 ---
 
 # Verbos com prefixo de sujeito tipo D - ma/atsimi

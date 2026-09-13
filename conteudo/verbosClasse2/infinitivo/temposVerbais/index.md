@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "Dependendo do modificador usado o verbo do infinitivo vai seguir o tempo verbal usado no indicativo, ou vai ficar subentendido no contexto."
+title: "Tempos verbais no infinitivo"
 ---
 
 # Tempos verbais com verbos com prefixo de objeto no infinitivo

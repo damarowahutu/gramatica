@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "A partícula aré (ou éré em algumas regiões) passa a ideia de a ação foi quase realizada. Isso significa que a ação foi tentada, mas não foi concluída. Ela"
+title: "Aspecto de ação quase realizada"
 ---
 
 # Aspecto de ação não realizada com o sentido de _quase_

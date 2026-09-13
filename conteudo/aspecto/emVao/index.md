@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "O aspecto de ação em vão expressa uma tentativa que não alcançou seu objetivo, ou seja, algo foi feito sem sucesso. A partícula aré (ou éré em algumas"
+title: "Aspecto de ação em vão"
 ---
 
 # Aspecto de Ação Não Realizada com o Sentido de _Em Vão_

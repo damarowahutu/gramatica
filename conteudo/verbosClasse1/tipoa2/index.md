@@ -1,6 +1,7 @@
 ---
 layout: default
 description: "Estes verbos seguem um padrão parecido com os do tipo A1. Mas há duas diferenças:"
+title: "Verbos tipo A2 - wa/ai/ti"
 ---
 
 # Verbos com prefixo de sujeito tipo A2 - wa/ai/ti

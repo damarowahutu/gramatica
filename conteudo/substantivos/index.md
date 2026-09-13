@@ -127,4 +127,4 @@ Exemplos:
 - `ĩwatobrodzé` acontecimento
 - `ĩdawatadzé` adoração
 
-> Veja mais exemplos de uso do sufixo `dzé` na [página sobre modificadores](/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé).
+> Veja mais exemplos de uso do sufixo `dzé` na [página sobre modificadores]({{ site.baseurl }}/conteudo/modificadores/#coisa-lugar-ocasião-maneira-ĩverbodzé).
